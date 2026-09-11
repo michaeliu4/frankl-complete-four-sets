@@ -1,0 +1,544 @@
+[
+  {
+    "id": "atlas_57",
+    "n": 8,
+    "A": [
+      15,
+      23,
+      39,
+      71,
+      135,
+      75,
+      139,
+      83,
+      147,
+      99,
+      163,
+      195
+    ],
+    "w": [
+      6,
+      6,
+      4,
+      3,
+      3,
+      3,
+      4,
+      4
+    ],
+    "input": "positive/atlas_57/input.txt",
+    "proof": "positive/atlas_57/proof.tree"
+  },
+  {
+    "id": "atlas_58",
+    "n": 8,
+    "A": [
+      15,
+      23,
+      27,
+      43,
+      75,
+      139,
+      51,
+      83,
+      147,
+      99,
+      163,
+      195
+    ],
+    "w": [
+      3,
+      3,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "input": "positive/atlas_58/input.txt",
+    "proof": "positive/atlas_58/proof.tree"
+  },
+  {
+    "id": "atlas_59",
+    "n": 8,
+    "A": [
+      15,
+      23,
+      39,
+      71,
+      27,
+      43,
+      75,
+      139,
+      51,
+      83,
+      147,
+      163
+    ],
+    "w": [
+      5,
+      5,
+      3,
+      3,
+      3,
+      3,
+      2,
+      2
+    ],
+    "input": "positive/atlas_59/input.txt",
+    "proof": "positive/atlas_59/proof.tree"
+  },
+  {
+    "id": "atlas_60",
+    "n": 8,
+    "A": [
+      15,
+      23,
+      39,
+      71,
+      135,
+      27,
+      43,
+      75,
+      51,
+      83,
+      163,
+      195
+    ],
+    "w": [
+      5,
+      5,
+      3,
+      3,
+      3,
+      3,
+      3,
+      1
+    ],
+    "input": "positive/atlas_60/input.txt",
+    "proof": "positive/atlas_60/proof.tree"
+  },
+  {
+    "id": "atlas_61",
+    "n": 8,
+    "A": [
+      15,
+      23,
+      71,
+      135,
+      43,
+      75,
+      139,
+      51,
+      83,
+      147,
+      99,
+      163
+    ],
+    "w": [
+      3,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "input": "positive/atlas_61/input.txt",
+    "proof": "positive/atlas_61/proof.tree"
+  },
+  {
+    "id": "atlas_63",
+    "n": 8,
+    "A": [
+      15,
+      23,
+      135,
+      27,
+      43,
+      75,
+      139,
+      51,
+      83,
+      147,
+      99
+    ],
+    "w": [
+      5,
+      5,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "input": "positive/atlas_63/input.txt",
+    "proof": "positive/atlas_63/proof.tree"
+  },
+  {
+    "id": "atlas_64",
+    "n": 8,
+    "A": [
+      15,
+      23,
+      39,
+      71,
+      27,
+      43,
+      75,
+      51,
+      83,
+      99,
+      195
+    ],
+    "w": [
+      3,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0
+    ],
+    "input": "positive/atlas_64/input.txt",
+    "proof": "positive/atlas_64/proof.tree"
+  },
+  {
+    "id": "atlas_65",
+    "n": 8,
+    "A": [
+      15,
+      23,
+      39,
+      135,
+      27,
+      75,
+      139,
+      83,
+      147,
+      163,
+      195
+    ],
+    "w": [
+      5,
+      5,
+      3,
+      3,
+      3,
+      2,
+      3,
+      3
+    ],
+    "input": "positive/atlas_65/input.txt",
+    "proof": "positive/atlas_65/proof.tree"
+  },
+  {
+    "id": "atlas_66",
+    "n": 8,
+    "A": [
+      15,
+      39,
+      71,
+      135,
+      75,
+      139,
+      51,
+      83,
+      147,
+      99,
+      195
+    ],
+    "w": [
+      5,
+      5,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "input": "positive/atlas_66/input.txt",
+    "proof": "positive/atlas_66/proof.tree"
+  },
+  {
+    "id": "atlas_68",
+    "n": 8,
+    "A": [
+      15,
+      23,
+      43,
+      75,
+      139,
+      51,
+      83,
+      147,
+      99,
+      163,
+      195
+    ],
+    "w": [
+      5,
+      5,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "input": "positive/atlas_68/input.txt",
+    "proof": "positive/atlas_68/proof.tree"
+  },
+  {
+    "id": "atlas_69",
+    "n": 8,
+    "A": [
+      15,
+      23,
+      39,
+      71,
+      43,
+      75,
+      139,
+      51,
+      83,
+      147,
+      163
+    ],
+    "w": [
+      5,
+      5,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "input": "positive/atlas_69/input.txt",
+    "proof": "positive/atlas_69/proof.tree"
+  },
+  {
+    "id": "atlas_70",
+    "n": 8,
+    "A": [
+      15,
+      39,
+      135,
+      27,
+      75,
+      139,
+      51,
+      83,
+      147,
+      99,
+      195
+    ],
+    "w": [
+      5,
+      5,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "input": "positive/atlas_70/input.txt",
+    "proof": "positive/atlas_70/proof.tree"
+  },
+  {
+    "id": "atlas_85",
+    "n": 8,
+    "A": [
+      15,
+      23,
+      135,
+      43,
+      75,
+      139,
+      51,
+      83,
+      147,
+      99
+    ],
+    "w": [
+      5,
+      5,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "input": "positive/atlas_85/input.txt",
+    "proof": "positive/atlas_85/proof.tree"
+  },
+  {
+    "id": "atlas_299",
+    "n": 9,
+    "A": [
+      23,
+      135,
+      263,
+      27,
+      139,
+      267,
+      51,
+      83,
+      147,
+      275,
+      163,
+      291,
+      195,
+      323
+    ],
+    "w": [
+      6,
+      6,
+      3,
+      3,
+      4,
+      3,
+      3,
+      4,
+      4
+    ],
+    "input": "positive/atlas_299/input.txt",
+    "proof": "positive/atlas_299/proof.tree"
+  },
+  {
+    "id": "atlas_313",
+    "n": 9,
+    "A": [
+      15,
+      23,
+      39,
+      71,
+      135,
+      263,
+      139,
+      267,
+      51,
+      83,
+      163,
+      291,
+      195,
+      323
+    ],
+    "w": [
+      5,
+      5,
+      3,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3
+    ],
+    "input": "positive/atlas_313/input.txt",
+    "proof": "positive/atlas_313/proof.tree"
+  },
+  {
+    "id": "atlas_352",
+    "n": 9,
+    "A": [
+      15,
+      23,
+      135,
+      263,
+      43,
+      75,
+      139,
+      267,
+      51,
+      83,
+      163,
+      291,
+      195,
+      323
+    ],
+    "w": [
+      5,
+      5,
+      3,
+      3,
+      3,
+      3,
+      3,
+      2,
+      2
+    ],
+    "input": "positive/atlas_352/input.txt",
+    "proof": "positive/atlas_352/proof.tree"
+  },
+  {
+    "id": "core15_two_triangles",
+    "n": 9,
+    "A": [
+      39,
+      71,
+      135,
+      263,
+      43,
+      75,
+      139,
+      267,
+      51,
+      83,
+      147,
+      275,
+      291,
+      323,
+      387
+    ],
+    "w": [
+      3,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "input": "positive/core15_two_triangles/input.txt",
+    "proof": "positive/core15_two_triangles/proof.tree"
+  },
+  {
+    "id": "complement_path6",
+    "n": 8,
+    "A": [
+      23,
+      39,
+      43,
+      71,
+      75,
+      83,
+      135,
+      139,
+      147,
+      163
+    ],
+    "w": [
+      5,
+      5,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "input": "positive/complement_path6/input.txt",
+    "proof": "positive/complement_path6/proof.tree"
+  }
+]

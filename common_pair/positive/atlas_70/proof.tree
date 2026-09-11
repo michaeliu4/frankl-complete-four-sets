@@ -1,0 +1,32691 @@
+B 60
+B 204
+B 240
+B 21
+B 41
+B 70
+B 162
+B 26
+B 193
+L
+B 65
+L
+L
+B 193
+B 10
+L
+L
+B 10
+L
+B 18
+L
+L
+B 138
+B 193
+B 50
+L
+B 34
+L
+L
+B 50
+B 129
+L
+L
+B 34
+L
+L
+B 130
+L
+B 26
+B 193
+L
+B 34
+L
+L
+B 42
+B 146
+L
+L
+B 10
+L
+B 34
+L
+B 50
+L
+L
+B 162
+B 82
+B 193
+B 14
+L
+B 6
+L
+L
+B 14
+B 65
+L
+L
+B 6
+L
+L
+B 66
+L
+B 22
+B 74
+L
+B 193
+L
+L
+B 26
+B 193
+L
+L
+B 18
+L
+B 6
+L
+B 14
+L
+L
+B 82
+B 138
+B 38
+B 193
+L
+B 65
+L
+L
+B 6
+L
+B 193
+L
+B 34
+L
+L
+B 130
+L
+B 38
+B 193
+L
+B 65
+L
+L
+B 6
+L
+B 34
+L
+B 14
+L
+L
+B 66
+L
+B 34
+L
+B 6
+L
+B 130
+L
+B 2
+L
+B 193
+B 69
+B 161
+L
+L
+B 161
+L
+L
+B 65
+L
+B 129
+L
+L
+B 70
+B 162
+B 73
+B 26
+B 161
+L
+B 33
+L
+L
+B 161
+B 10
+L
+L
+B 33
+L
+B 10
+L
+L
+B 9
+L
+B 97
+B 26
+L
+B 137
+L
+B 10
+L
+L
+B 33
+L
+B 26
+B 193
+L
+L
+B 193
+L
+B 65
+L
+L
+B 42
+B 161
+B 73
+B 146
+L
+L
+B 146
+L
+B 9
+L
+L
+B 33
+L
+B 73
+B 146
+L
+B 130
+L
+L
+B 137
+B 146
+L
+L
+B 9
+L
+B 129
+L
+B 146
+L
+L
+B 161
+B 138
+B 73
+L
+B 9
+L
+L
+B 10
+L
+B 146
+B 73
+L
+L
+B 130
+L
+B 34
+L
+B 50
+L
+L
+B 138
+B 33
+L
+B 73
+B 34
+L
+L
+B 137
+L
+B 9
+L
+B 129
+L
+L
+B 33
+L
+B 73
+B 34
+L
+B 10
+L
+B 146
+L
+L
+B 34
+L
+B 137
+B 10
+L
+L
+B 9
+L
+B 10
+L
+B 146
+L
+B 130
+L
+L
+B 162
+B 82
+B 73
+B 161
+B 14
+L
+B 6
+L
+L
+B 33
+L
+B 14
+L
+B 6
+L
+L
+B 9
+L
+B 97
+B 137
+L
+B 14
+L
+L
+B 33
+L
+B 65
+L
+B 193
+L
+L
+B 66
+L
+B 22
+B 73
+B 161
+L
+B 74
+L
+B 33
+L
+L
+B 9
+L
+B 97
+L
+B 33
+L
+B 65
+L
+L
+B 73
+B 26
+B 161
+L
+B 33
+L
+L
+B 18
+L
+B 6
+L
+B 10
+L
+L
+B 9
+L
+B 97
+B 26
+L
+B 18
+L
+B 6
+L
+L
+B 26
+B 33
+L
+L
+B 18
+L
+B 33
+L
+B 6
+L
+L
+B 42
+B 161
+B 22
+B 73
+L
+B 9
+L
+L
+B 6
+L
+B 82
+B 73
+L
+L
+B 146
+L
+B 18
+L
+B 130
+L
+L
+B 22
+B 33
+L
+B 73
+B 194
+L
+L
+B 137
+L
+B 9
+L
+B 65
+L
+L
+B 6
+L
+B 33
+L
+B 73
+B 82
+L
+B 146
+L
+B 18
+L
+L
+B 82
+B 137
+L
+B 9
+L
+L
+B 137
+B 146
+L
+L
+B 9
+L
+B 146
+L
+B 18
+L
+B 130
+L
+L
+B 34
+L
+B 6
+L
+B 66
+L
+B 161
+B 10
+L
+B 2
+L
+B 73
+B 69
+L
+L
+B 9
+L
+B 65
+L
+L
+B 10
+L
+B 2
+L
+B 33
+L
+B 73
+B 129
+L
+L
+B 137
+L
+B 9
+L
+B 193
+L
+B 65
+L
+L
+B 41
+B 70
+B 162
+B 69
+B 26
+B 145
+L
+B 17
+L
+L
+B 145
+B 18
+L
+L
+B 17
+L
+B 18
+L
+L
+B 5
+L
+B 81
+B 26
+L
+B 133
+L
+B 18
+L
+L
+B 17
+L
+B 26
+B 193
+L
+L
+B 193
+L
+B 65
+L
+L
+B 138
+B 69
+B 145
+B 50
+L
+B 34
+L
+L
+B 17
+L
+B 50
+L
+B 34
+L
+L
+B 5
+L
+B 81
+B 133
+L
+B 50
+L
+L
+B 17
+L
+B 129
+L
+B 193
+L
+L
+B 130
+L
+B 26
+B 69
+B 145
+L
+B 17
+L
+L
+B 5
+L
+B 81
+L
+B 17
+L
+B 129
+L
+L
+B 69
+B 42
+B 145
+L
+B 146
+L
+L
+B 10
+L
+B 34
+L
+B 18
+L
+L
+B 5
+L
+B 81
+B 42
+L
+B 10
+L
+B 34
+L
+L
+B 17
+L
+B 42
+L
+B 10
+L
+B 34
+L
+L
+B 162
+B 22
+B 69
+B 74
+B 145
+L
+L
+B 145
+L
+B 17
+L
+L
+B 5
+L
+B 81
+B 74
+L
+B 133
+L
+L
+B 145
+B 74
+L
+L
+B 17
+L
+B 65
+L
+B 74
+L
+L
+B 69
+B 82
+B 145
+L
+B 17
+L
+L
+B 18
+L
+B 74
+B 145
+L
+L
+B 66
+L
+B 6
+L
+B 14
+L
+L
+B 82
+B 5
+L
+B 81
+B 133
+L
+L
+B 145
+L
+B 17
+L
+B 65
+L
+L
+B 5
+L
+B 81
+B 6
+L
+B 18
+L
+B 74
+L
+L
+B 6
+L
+B 145
+B 18
+L
+L
+B 17
+L
+B 18
+L
+B 74
+L
+B 66
+L
+L
+B 22
+B 69
+B 42
+B 145
+L
+B 17
+L
+L
+B 34
+L
+B 138
+B 145
+L
+L
+B 74
+L
+B 10
+L
+B 66
+L
+L
+B 42
+B 5
+L
+B 81
+B 133
+L
+L
+B 145
+L
+B 17
+L
+B 65
+L
+L
+B 5
+L
+B 34
+L
+B 81
+B 138
+L
+B 74
+L
+B 10
+L
+L
+B 138
+B 145
+L
+B 17
+L
+L
+B 145
+B 74
+L
+L
+B 17
+L
+B 74
+L
+B 10
+L
+B 66
+L
+L
+B 6
+L
+B 34
+L
+B 66
+L
+B 69
+B 130
+L
+B 2
+L
+B 145
+B 161
+L
+L
+B 17
+L
+B 129
+L
+L
+B 130
+L
+B 2
+L
+B 5
+L
+B 81
+B 133
+L
+L
+B 145
+L
+B 17
+L
+B 193
+L
+B 65
+L
+L
+B 70
+B 161
+B 42
+B 81
+B 146
+B 13
+L
+L
+B 13
+B 22
+L
+L
+B 5
+L
+L
+B 17
+L
+B 69
+B 146
+L
+B 25
+L
+L
+B 73
+B 146
+L
+L
+B 65
+L
+B 9
+L
+B 146
+L
+L
+B 138
+B 81
+B 50
+B 13
+L
+L
+B 13
+L
+B 5
+L
+L
+B 17
+L
+B 69
+B 25
+L
+L
+B 73
+L
+B 9
+L
+B 65
+L
+L
+B 81
+B 10
+L
+B 146
+B 13
+L
+L
+B 162
+L
+B 130
+L
+B 18
+L
+L
+B 10
+L
+B 17
+L
+B 146
+B 69
+L
+B 73
+L
+B 9
+L
+L
+B 69
+B 162
+L
+B 130
+L
+L
+B 162
+B 73
+L
+L
+B 130
+L
+B 73
+L
+B 9
+L
+L
+B 33
+L
+B 5
+L
+B 42
+B 129
+L
+B 17
+L
+B 1
+L
+B 146
+B 22
+B 162
+L
+L
+B 162
+L
+L
+B 18
+L
+B 22
+L
+B 130
+L
+L
+B 129
+L
+B 138
+B 17
+L
+B 1
+L
+B 50
+B 22
+B 34
+L
+L
+L
+B 34
+L
+L
+B 17
+L
+B 1
+L
+B 162
+B 26
+L
+B 10
+L
+L
+B 10
+L
+B 146
+L
+B 130
+L
+B 34
+L
+L
+B 162
+B 69
+B 22
+B 137
+B 74
+L
+B 49
+L
+B 33
+L
+L
+B 9
+L
+B 145
+B 74
+L
+L
+B 161
+L
+B 129
+L
+B 17
+L
+L
+B 82
+B 137
+B 6
+L
+L
+B 9
+L
+B 145
+L
+B 17
+L
+B 161
+L
+L
+B 137
+B 18
+L
+B 74
+L
+B 66
+L
+B 6
+L
+L
+B 9
+L
+B 18
+L
+B 74
+B 145
+L
+B 17
+L
+L
+B 66
+L
+B 145
+L
+B 17
+L
+B 161
+L
+L
+B 5
+L
+B 33
+L
+B 22
+B 65
+L
+B 9
+L
+B 1
+L
+B 74
+B 42
+L
+L
+B 66
+L
+B 10
+L
+L
+B 65
+L
+B 82
+B 9
+L
+B 1
+L
+B 6
+L
+L
+B 9
+L
+B 1
+L
+B 18
+L
+B 74
+L
+B 66
+L
+B 6
+L
+L
+B 22
+B 42
+B 69
+B 161
+B 25
+L
+L
+B 137
+L
+B 129
+L
+B 25
+L
+B 9
+L
+L
+B 161
+B 81
+L
+B 65
+L
+B 25
+L
+B 17
+L
+L
+B 5
+L
+B 33
+L
+B 65
+L
+B 129
+L
+B 1
+L
+B 194
+L
+B 66
+L
+L
+B 69
+B 161
+B 34
+L
+B 138
+L
+B 74
+L
+B 10
+L
+B 66
+L
+L
+B 137
+B 34
+L
+B 138
+L
+B 74
+L
+B 10
+L
+L
+B 34
+L
+B 138
+B 33
+L
+B 9
+L
+L
+B 33
+L
+B 74
+L
+B 10
+L
+B 9
+L
+L
+B 161
+B 81
+B 34
+L
+B 138
+L
+B 74
+L
+B 10
+L
+L
+B 34
+L
+B 138
+B 65
+L
+B 25
+L
+L
+B 65
+L
+B 25
+L
+B 17
+L
+B 74
+L
+B 10
+L
+L
+B 33
+L
+B 5
+L
+B 65
+L
+B 9
+L
+B 129
+L
+B 34
+L
+B 138
+L
+B 74
+L
+B 10
+L
+B 66
+L
+L
+B 42
+B 69
+B 161
+B 6
+L
+B 82
+L
+B 146
+L
+B 18
+L
+B 130
+L
+L
+B 137
+B 6
+L
+B 82
+L
+B 146
+L
+B 18
+L
+L
+B 6
+L
+B 82
+B 129
+L
+B 25
+L
+L
+B 129
+L
+B 25
+L
+B 9
+L
+B 146
+L
+B 18
+L
+L
+B 161
+B 81
+B 6
+L
+B 82
+L
+B 146
+L
+B 18
+L
+L
+B 6
+L
+B 82
+B 5
+L
+B 17
+L
+L
+B 5
+L
+B 146
+L
+B 18
+L
+B 17
+L
+L
+B 5
+L
+B 33
+L
+B 65
+L
+B 17
+L
+B 129
+L
+B 6
+L
+B 82
+L
+B 146
+L
+B 18
+L
+B 130
+L
+L
+B 69
+B 34
+L
+B 6
+L
+B 130
+L
+B 137
+B 10
+L
+B 2
+L
+B 49
+L
+B 33
+L
+L
+B 10
+L
+B 2
+L
+B 161
+B 25
+L
+B 9
+L
+L
+B 9
+L
+B 145
+L
+B 129
+L
+B 17
+L
+L
+B 161
+B 6
+L
+B 34
+L
+B 66
+L
+B 81
+B 10
+L
+B 18
+L
+B 5
+L
+L
+B 10
+L
+B 18
+L
+B 17
+L
+B 73
+L
+B 65
+L
+B 9
+L
+L
+B 5
+L
+B 33
+L
+B 6
+L
+B 34
+L
+B 65
+L
+B 66
+L
+B 9
+L
+B 1
+L
+B 10
+L
+B 2
+L
+B 7
+B 35
+L
+B 3
+L
+L
+B 35
+B 3
+L
+L
+B 3
+L
+B 4
+L
+L
+B 161
+B 82
+B 21
+B 42
+B 73
+B 134
+B 112
+L
+L
+B 6
+L
+B 70
+L
+L
+B 134
+B 65
+L
+B 9
+L
+L
+B 6
+L
+B 65
+L
+B 9
+L
+L
+B 162
+B 73
+B 14
+B 112
+L
+L
+B 10
+L
+L
+B 14
+B 41
+L
+B 9
+L
+L
+B 10
+L
+B 65
+L
+L
+B 34
+L
+B 134
+B 73
+B 10
+L
+L
+B 65
+L
+B 10
+L
+L
+B 138
+B 73
+L
+B 38
+L
+B 6
+L
+L
+B 130
+L
+B 6
+L
+B 10
+L
+B 73
+L
+L
+B 42
+B 69
+B 134
+B 25
+L
+B 17
+L
+L
+B 25
+B 22
+L
+B 6
+L
+L
+B 17
+L
+B 22
+L
+B 6
+L
+L
+B 81
+B 134
+B 5
+L
+L
+B 5
+L
+B 6
+L
+L
+B 5
+L
+B 17
+L
+B 65
+L
+B 134
+L
+B 13
+L
+B 9
+L
+L
+B 69
+B 162
+B 25
+B 14
+L
+B 10
+L
+L
+B 17
+L
+B 14
+L
+B 10
+L
+L
+B 34
+L
+B 134
+B 25
+L
+B 17
+L
+L
+B 138
+B 25
+L
+B 38
+L
+L
+B 130
+L
+B 10
+L
+B 6
+L
+L
+B 162
+B 81
+B 5
+L
+B 14
+L
+L
+B 5
+L
+B 17
+L
+B 65
+L
+B 9
+L
+L
+B 81
+B 34
+L
+B 134
+B 5
+L
+L
+B 138
+L
+B 130
+L
+B 6
+L
+L
+B 5
+L
+B 34
+L
+B 134
+B 17
+L
+B 65
+L
+L
+B 17
+L
+B 138
+L
+B 130
+L
+B 65
+L
+L
+B 98
+B 21
+B 146
+B 73
+B 14
+B 112
+L
+L
+B 6
+L
+L
+B 14
+B 41
+L
+B 9
+L
+L
+B 41
+B 6
+L
+L
+B 9
+L
+B 65
+L
+L
+B 22
+B 73
+B 138
+L
+B 42
+L
+B 10
+L
+L
+B 138
+B 41
+L
+B 9
+L
+L
+B 208
+L
+B 41
+L
+B 9
+L
+L
+B 18
+L
+B 134
+B 73
+L
+B 26
+L
+B 208
+L
+L
+B 138
+B 73
+L
+B 41
+L
+L
+B 130
+L
+B 6
+L
+B 10
+L
+B 73
+L
+L
+B 69
+B 22
+B 25
+B 138
+L
+B 42
+L
+L
+B 138
+B 208
+L
+L
+B 208
+L
+B 42
+L
+L
+B 146
+B 25
+B 14
+L
+L
+B 17
+L
+B 14
+L
+L
+B 18
+L
+B 134
+B 25
+L
+B 26
+L
+L
+B 138
+B 25
+L
+L
+B 130
+L
+B 10
+L
+B 6
+L
+L
+B 22
+B 81
+B 138
+B 5
+L
+L
+B 5
+L
+B 42
+L
+L
+B 65
+L
+B 25
+B 138
+L
+B 5
+L
+L
+B 17
+L
+B 5
+L
+B 9
+L
+L
+B 81
+B 146
+B 5
+L
+L
+B 18
+L
+B 134
+L
+B 138
+L
+B 130
+L
+B 6
+L
+L
+B 146
+B 5
+L
+B 65
+L
+B 25
+L
+B 17
+L
+L
+B 18
+L
+B 65
+L
+B 134
+B 25
+L
+B 17
+L
+L
+B 25
+B 138
+L
+B 130
+L
+L
+B 17
+L
+B 138
+L
+B 130
+L
+B 5
+L
+L
+B 146
+B 21
+B 42
+B 70
+B 73
+L
+L
+B 73
+B 66
+L
+L
+B 66
+L
+B 112
+L
+L
+B 70
+B 73
+B 34
+L
+L
+B 112
+L
+B 34
+L
+L
+B 66
+L
+B 34
+L
+B 6
+L
+B 10
+L
+B 73
+L
+L
+B 69
+B 42
+B 25
+B 70
+L
+L
+B 70
+L
+B 17
+L
+L
+B 34
+L
+B 70
+B 25
+L
+B 17
+L
+L
+B 66
+L
+B 10
+L
+B 6
+L
+L
+B 42
+B 81
+B 70
+L
+B 66
+L
+L
+B 5
+L
+B 17
+L
+B 70
+L
+B 73
+L
+B 65
+L
+L
+B 70
+B 81
+B 34
+L
+L
+B 17
+L
+B 73
+L
+B 65
+L
+B 5
+L
+L
+B 81
+B 66
+L
+B 34
+L
+B 6
+L
+L
+B 66
+L
+B 17
+L
+B 34
+L
+B 73
+L
+B 65
+L
+B 5
+L
+L
+B 162
+B 112
+L
+B 80
+L
+B 208
+L
+B 21
+B 70
+L
+B 66
+L
+B 26
+L
+B 18
+L
+B 73
+L
+L
+B 69
+B 22
+L
+B 18
+L
+B 74
+L
+B 66
+L
+L
+B 22
+B 65
+L
+B 25
+L
+L
+B 20
+L
+B 70
+L
+B 68
+L
+B 18
+L
+L
+B 22
+B 42
+B 69
+B 25
+L
+B 208
+L
+B 194
+L
+L
+B 81
+B 194
+L
+L
+B 65
+L
+B 21
+L
+B 25
+L
+B 17
+L
+L
+B 69
+B 34
+L
+B 74
+B 25
+L
+L
+B 138
+L
+B 10
+L
+B 194
+L
+B 66
+L
+B 130
+L
+L
+B 81
+B 34
+L
+B 74
+L
+B 66
+L
+B 194
+L
+B 138
+L
+B 130
+L
+L
+B 34
+L
+B 65
+L
+B 21
+B 74
+L
+B 66
+L
+B 194
+L
+B 138
+L
+L
+B 74
+B 25
+L
+L
+B 66
+L
+B 25
+B 194
+L
+L
+B 17
+L
+B 194
+L
+B 138
+L
+B 130
+L
+L
+B 18
+L
+B 70
+B 21
+B 42
+L
+B 34
+L
+B 138
+L
+B 130
+L
+B 50
+L
+B 26
+L
+L
+B 42
+B 81
+L
+B 17
+L
+B 69
+L
+L
+B 81
+B 34
+L
+B 138
+L
+B 130
+L
+B 50
+L
+L
+B 34
+L
+B 17
+L
+B 69
+B 138
+L
+L
+B 138
+L
+B 73
+L
+B 65
+L
+B 130
+L
+L
+B 66
+L
+B 42
+B 21
+B 194
+L
+B 134
+L
+B 130
+L
+B 6
+L
+L
+B 69
+B 194
+L
+B 134
+L
+B 130
+L
+L
+B 81
+B 194
+L
+B 134
+L
+B 6
+L
+L
+B 17
+L
+B 73
+B 194
+L
+L
+B 65
+L
+B 194
+L
+B 134
+L
+B 130
+L
+L
+B 34
+L
+B 6
+L
+B 10
+L
+B 2
+L
+B 81
+B 13
+B 112
+L
+B 176
+L
+L
+B 5
+L
+B 9
+L
+L
+B 21
+B 73
+B 112
+L
+L
+B 65
+L
+B 9
+L
+L
+B 69
+B 25
+L
+B 17
+L
+L
+B 17
+L
+B 73
+L
+B 65
+L
+B 5
+L
+L
+B 162
+B 81
+B 22
+B 41
+B 74
+B 133
+L
+B 129
+L
+L
+B 133
+B 66
+L
+L
+B 66
+L
+B 129
+L
+L
+B 33
+L
+B 133
+B 74
+B 9
+L
+L
+B 66
+L
+B 9
+L
+L
+B 137
+B 74
+L
+B 37
+L
+B 5
+L
+L
+B 129
+L
+B 5
+L
+B 9
+L
+B 74
+L
+L
+B 41
+B 70
+B 26
+B 133
+L
+B 129
+L
+L
+B 133
+B 18
+L
+L
+B 18
+L
+B 129
+L
+L
+B 82
+B 133
+B 6
+L
+L
+B 6
+L
+B 5
+L
+L
+B 6
+L
+B 18
+L
+B 66
+L
+B 14
+L
+B 10
+L
+L
+B 70
+B 33
+L
+B 133
+B 26
+L
+B 18
+L
+L
+B 137
+B 26
+L
+B 37
+L
+L
+B 129
+L
+B 9
+L
+B 5
+L
+L
+B 82
+B 33
+L
+B 133
+B 6
+L
+L
+B 137
+L
+B 129
+L
+B 5
+L
+L
+B 6
+L
+B 33
+L
+B 133
+B 18
+L
+B 66
+L
+L
+B 18
+L
+B 137
+L
+B 129
+L
+B 66
+L
+L
+B 97
+B 22
+B 145
+B 74
+B 13
+L
+B 5
+L
+L
+B 42
+B 13
+L
+L
+B 10
+L
+B 13
+L
+L
+B 21
+B 74
+B 137
+L
+B 129
+L
+L
+B 137
+B 42
+L
+L
+B 208
+L
+B 42
+L
+L
+B 17
+L
+B 133
+B 74
+L
+B 25
+L
+L
+B 129
+L
+B 5
+L
+B 9
+L
+B 74
+L
+L
+B 70
+B 21
+B 26
+B 137
+L
+L
+B 137
+L
+B 208
+L
+L
+B 145
+B 26
+L
+B 18
+L
+L
+B 17
+L
+B 133
+B 26
+L
+L
+B 129
+L
+B 9
+L
+B 5
+L
+L
+B 21
+B 82
+B 137
+L
+B 6
+L
+L
+B 66
+L
+B 26
+B 137
+L
+L
+B 18
+L
+B 6
+L
+B 10
+L
+L
+B 82
+B 145
+B 6
+L
+L
+B 17
+L
+B 133
+L
+B 129
+L
+B 5
+L
+L
+B 145
+B 6
+L
+B 66
+L
+B 26
+L
+L
+B 17
+L
+B 66
+L
+B 26
+B 133
+L
+B 129
+L
+L
+B 18
+L
+B 133
+L
+B 129
+L
+B 6
+L
+L
+B 145
+B 22
+B 41
+B 69
+L
+B 74
+L
+B 65
+L
+L
+B 69
+B 74
+L
+B 33
+L
+L
+B 33
+L
+B 65
+L
+B 5
+L
+B 9
+L
+B 74
+L
+L
+B 70
+B 41
+B 26
+L
+B 69
+L
+B 18
+L
+L
+B 33
+L
+B 69
+B 26
+L
+L
+B 65
+L
+B 9
+L
+B 5
+L
+L
+B 41
+B 82
+B 69
+L
+B 65
+L
+L
+B 6
+L
+B 18
+L
+B 66
+L
+L
+B 82
+B 33
+L
+B 69
+L
+B 65
+L
+B 5
+L
+L
+B 33
+L
+B 69
+B 18
+L
+B 74
+L
+L
+B 65
+L
+B 18
+L
+B 74
+L
+B 66
+L
+B 6
+L
+L
+B 21
+B 41
+B 70
+B 26
+L
+B 208
+L
+B 193
+L
+L
+B 82
+B 193
+L
+L
+B 66
+L
+B 22
+L
+B 26
+L
+B 18
+L
+L
+B 70
+B 33
+L
+B 73
+B 26
+L
+L
+B 137
+L
+B 9
+L
+B 193
+L
+B 65
+L
+B 129
+L
+L
+B 82
+B 33
+L
+B 73
+L
+B 65
+L
+B 193
+L
+B 137
+L
+B 129
+L
+L
+B 33
+L
+B 66
+L
+B 22
+B 73
+L
+B 65
+L
+B 193
+L
+B 137
+L
+L
+B 73
+B 26
+L
+L
+B 65
+L
+B 26
+B 193
+L
+L
+B 18
+L
+B 193
+L
+B 137
+L
+B 129
+L
+L
+B 17
+L
+B 69
+B 22
+B 41
+L
+B 33
+L
+B 137
+L
+B 129
+L
+B 49
+L
+B 25
+L
+L
+B 41
+B 82
+L
+B 18
+L
+B 70
+L
+L
+B 82
+B 33
+L
+B 137
+L
+B 129
+L
+B 49
+L
+L
+B 33
+L
+B 18
+L
+B 70
+B 137
+L
+L
+B 137
+L
+B 74
+L
+B 66
+L
+B 129
+L
+L
+B 65
+L
+B 41
+B 22
+B 193
+L
+B 133
+L
+B 129
+L
+B 5
+L
+L
+B 70
+B 193
+L
+B 133
+L
+B 129
+L
+L
+B 82
+B 193
+L
+B 133
+L
+B 5
+L
+L
+B 18
+L
+B 74
+B 193
+L
+L
+B 66
+L
+B 193
+L
+B 133
+L
+B 129
+L
+L
+B 33
+L
+B 5
+L
+B 9
+L
+B 1
+L
+B 82
+B 14
+B 112
+L
+B 176
+L
+L
+B 6
+L
+B 10
+L
+L
+B 22
+B 74
+B 112
+L
+L
+B 66
+L
+B 10
+L
+L
+B 70
+B 26
+L
+B 18
+L
+L
+B 18
+L
+B 74
+L
+B 66
+L
+B 6
+L
+L
+B 81
+B 82
+B 160
+L
+B 176
+L
+B 41
+B 38
+B 133
+L
+B 138
+L
+L
+B 34
+L
+B 134
+L
+B 130
+L
+B 6
+L
+L
+B 42
+B 33
+L
+B 133
+L
+B 129
+L
+B 5
+L
+L
+B 40
+L
+B 33
+L
+B 32
+L
+B 34
+L
+B 36
+L
+L
+B 98
+B 41
+B 22
+B 133
+B 138
+L
+B 130
+L
+L
+B 138
+B 129
+L
+L
+B 176
+L
+B 160
+L
+L
+B 146
+B 133
+L
+B 129
+L
+L
+B 18
+L
+B 134
+B 133
+L
+L
+B 130
+L
+B 6
+L
+B 14
+L
+B 10
+L
+L
+B 22
+B 33
+L
+B 133
+B 138
+L
+B 176
+L
+L
+B 137
+B 138
+L
+L
+B 129
+L
+B 5
+L
+B 9
+L
+L
+B 33
+L
+B 146
+B 133
+B 6
+L
+L
+B 5
+L
+B 137
+L
+B 129
+L
+L
+B 18
+L
+B 133
+B 134
+L
+B 130
+L
+B 6
+L
+L
+B 134
+B 137
+L
+B 129
+L
+L
+B 130
+L
+B 6
+L
+B 137
+L
+B 129
+L
+B 5
+L
+L
+B 146
+B 41
+B 70
+B 133
+B 42
+L
+L
+B 42
+L
+B 34
+L
+L
+B 66
+L
+B 38
+B 133
+L
+L
+B 34
+L
+B 6
+L
+B 14
+L
+B 10
+L
+L
+B 70
+B 33
+L
+B 133
+B 42
+L
+L
+B 137
+L
+B 129
+L
+B 42
+L
+B 5
+L
+L
+B 33
+L
+B 66
+L
+B 42
+B 133
+L
+B 137
+L
+L
+B 34
+L
+B 133
+B 6
+L
+L
+B 6
+L
+B 137
+L
+B 129
+L
+B 5
+L
+L
+B 22
+B 42
+B 37
+B 137
+L
+B 224
+L
+B 160
+L
+L
+B 33
+L
+B 133
+L
+B 137
+L
+B 129
+L
+B 5
+L
+L
+B 34
+L
+B 41
+B 74
+B 133
+L
+L
+B 66
+L
+B 194
+L
+B 130
+L
+B 138
+L
+B 133
+L
+L
+B 33
+L
+B 224
+L
+B 160
+L
+B 194
+L
+B 130
+L
+B 133
+L
+B 66
+L
+L
+B 18
+L
+B 70
+B 41
+B 138
+L
+B 130
+L
+B 26
+L
+B 42
+L
+B 34
+L
+B 50
+L
+L
+B 42
+B 33
+L
+B 133
+L
+B 137
+L
+L
+B 33
+L
+B 34
+L
+B 133
+B 138
+L
+L
+B 138
+L
+B 137
+L
+B 129
+L
+B 130
+L
+L
+B 66
+L
+B 42
+B 37
+B 6
+L
+B 134
+L
+B 130
+L
+L
+B 33
+L
+B 133
+B 6
+L
+L
+B 6
+L
+B 137
+L
+B 129
+L
+B 134
+L
+L
+B 34
+L
+B 6
+L
+B 10
+L
+B 2
+L
+B 41
+B 133
+B 176
+L
+L
+B 129
+L
+B 5
+L
+L
+B 33
+L
+B 133
+B 9
+L
+L
+B 137
+B 37
+L
+L
+B 129
+L
+B 5
+L
+B 13
+L
+L
+B 82
+B 97
+B 42
+B 21
+B 134
+B 137
+L
+B 129
+L
+L
+B 137
+B 130
+L
+L
+B 176
+L
+B 160
+L
+L
+B 145
+B 134
+L
+B 130
+L
+L
+B 17
+L
+B 133
+B 134
+L
+L
+B 129
+L
+B 5
+L
+B 13
+L
+B 9
+L
+L
+B 21
+B 34
+L
+B 134
+B 137
+L
+B 176
+L
+L
+B 138
+B 137
+L
+L
+B 130
+L
+B 6
+L
+B 10
+L
+L
+B 34
+L
+B 145
+B 134
+B 5
+L
+L
+B 6
+L
+B 138
+L
+B 130
+L
+L
+B 17
+L
+B 134
+B 133
+L
+B 129
+L
+B 5
+L
+L
+B 133
+B 138
+L
+B 130
+L
+L
+B 129
+L
+B 5
+L
+B 138
+L
+B 130
+L
+B 6
+L
+L
+B 145
+B 42
+B 69
+B 134
+B 41
+L
+L
+B 41
+L
+B 33
+L
+L
+B 65
+L
+B 37
+B 134
+L
+L
+B 33
+L
+B 5
+L
+B 13
+L
+B 9
+L
+L
+B 69
+B 34
+L
+B 134
+B 41
+L
+L
+B 138
+L
+B 130
+L
+B 41
+L
+B 6
+L
+L
+B 34
+L
+B 65
+L
+B 41
+B 134
+L
+B 138
+L
+L
+B 33
+L
+B 134
+B 5
+L
+L
+B 5
+L
+B 138
+L
+B 130
+L
+B 6
+L
+L
+B 21
+B 41
+B 38
+B 138
+L
+B 224
+L
+B 160
+L
+L
+B 34
+L
+B 134
+L
+B 138
+L
+B 130
+L
+B 6
+L
+L
+B 33
+L
+B 42
+B 73
+B 134
+L
+L
+B 65
+L
+B 193
+L
+B 129
+L
+B 137
+L
+B 134
+L
+L
+B 34
+L
+B 224
+L
+B 160
+L
+B 193
+L
+B 129
+L
+B 134
+L
+B 65
+L
+L
+B 17
+L
+B 69
+B 42
+B 137
+L
+B 129
+L
+B 25
+L
+B 41
+L
+B 33
+L
+B 49
+L
+L
+B 41
+B 34
+L
+B 134
+L
+B 138
+L
+L
+B 33
+L
+B 34
+L
+B 134
+B 137
+L
+L
+B 137
+L
+B 138
+L
+B 130
+L
+B 129
+L
+L
+B 65
+L
+B 41
+B 38
+B 5
+L
+B 133
+L
+B 129
+L
+L
+B 34
+L
+B 134
+B 5
+L
+L
+B 5
+L
+B 138
+L
+B 130
+L
+B 133
+L
+L
+B 33
+L
+B 5
+L
+B 9
+L
+B 1
+L
+B 42
+B 134
+B 176
+L
+L
+B 130
+L
+B 6
+L
+L
+B 34
+L
+B 134
+B 10
+L
+L
+B 138
+B 38
+L
+L
+B 130
+L
+B 6
+L
+B 14
+L
+L
+B 97
+B 98
+B 176
+L
+B 208
+L
+B 144
+L
+B 21
+B 160
+L
+B 130
+L
+L
+B 22
+B 17
+L
+B 137
+L
+L
+B 20
+L
+B 160
+L
+B 17
+L
+B 16
+L
+L
+B 146
+B 21
+B 42
+B 70
+L
+B 66
+L
+L
+B 34
+L
+B 70
+L
+B 66
+L
+B 6
+L
+B 10
+L
+L
+B 42
+B 145
+B 70
+L
+L
+B 17
+L
+B 70
+B 133
+L
+L
+B 133
+L
+B 129
+L
+B 5
+L
+L
+B 34
+L
+B 70
+B 145
+L
+B 17
+L
+B 133
+L
+L
+B 145
+B 66
+L
+B 6
+L
+L
+B 17
+L
+B 66
+L
+B 133
+L
+B 129
+L
+B 5
+L
+B 6
+L
+L
+B 22
+B 42
+B 145
+B 194
+L
+L
+B 129
+L
+B 21
+L
+B 17
+L
+B 5
+L
+L
+B 34
+L
+B 145
+B 74
+L
+B 66
+L
+B 194
+L
+B 130
+L
+L
+B 74
+B 21
+L
+B 17
+L
+B 133
+L
+L
+B 66
+L
+B 194
+L
+B 21
+B 130
+L
+L
+B 17
+L
+B 133
+L
+B 129
+L
+B 130
+L
+L
+B 18
+L
+B 70
+B 42
+B 21
+L
+B 145
+L
+B 17
+L
+B 133
+L
+L
+B 21
+B 34
+L
+B 138
+L
+B 130
+L
+B 50
+L
+L
+B 34
+L
+B 145
+B 138
+L
+L
+B 17
+L
+B 138
+L
+B 130
+L
+B 133
+L
+B 129
+L
+L
+B 66
+L
+B 42
+B 21
+B 194
+L
+B 130
+L
+B 134
+L
+L
+B 145
+B 194
+L
+B 130
+L
+L
+B 17
+L
+B 133
+L
+B 129
+L
+B 194
+L
+B 130
+L
+L
+B 34
+L
+B 6
+L
+B 10
+L
+B 2
+L
+B 145
+B 13
+B 112
+L
+L
+B 5
+L
+L
+B 21
+B 137
+L
+B 129
+L
+L
+B 17
+L
+B 133
+L
+B 129
+L
+B 5
+L
+B 13
+L
+L
+B 98
+B 145
+B 22
+B 41
+B 69
+L
+B 65
+L
+L
+B 33
+L
+B 69
+L
+B 65
+L
+B 5
+L
+B 9
+L
+L
+B 41
+B 146
+B 69
+L
+L
+B 18
+L
+B 69
+B 134
+L
+L
+B 134
+L
+B 130
+L
+B 6
+L
+L
+B 33
+L
+B 69
+B 146
+L
+B 18
+L
+B 134
+L
+L
+B 146
+B 65
+L
+B 5
+L
+L
+B 18
+L
+B 65
+L
+B 134
+L
+B 130
+L
+B 5
+L
+B 6
+L
+L
+B 21
+B 41
+B 146
+B 193
+L
+L
+B 130
+L
+B 22
+L
+B 18
+L
+B 6
+L
+L
+B 33
+L
+B 146
+B 73
+L
+B 65
+L
+B 193
+L
+B 129
+L
+L
+B 73
+B 22
+L
+B 18
+L
+B 134
+L
+L
+B 65
+L
+B 193
+L
+B 22
+B 129
+L
+L
+B 18
+L
+B 134
+L
+B 130
+L
+B 129
+L
+L
+B 17
+L
+B 69
+B 41
+B 22
+L
+B 146
+L
+B 18
+L
+B 134
+L
+L
+B 22
+B 33
+L
+B 137
+L
+B 129
+L
+B 49
+L
+L
+B 33
+L
+B 146
+B 137
+L
+L
+B 18
+L
+B 137
+L
+B 129
+L
+B 134
+L
+B 130
+L
+L
+B 65
+L
+B 41
+B 22
+B 193
+L
+B 129
+L
+B 133
+L
+L
+B 146
+B 193
+L
+B 129
+L
+L
+B 18
+L
+B 134
+L
+B 130
+L
+B 193
+L
+B 129
+L
+L
+B 33
+L
+B 5
+L
+B 9
+L
+B 1
+L
+B 146
+B 14
+B 112
+L
+L
+B 6
+L
+L
+B 22
+B 138
+L
+B 130
+L
+L
+B 18
+L
+B 134
+L
+B 130
+L
+B 6
+L
+B 14
+L
+L
+B 145
+B 146
+B 96
+L
+B 112
+L
+B 41
+B 70
+L
+B 66
+L
+B 38
+L
+L
+B 33
+L
+B 69
+L
+B 70
+L
+B 42
+L
+B 34
+L
+B 32
+L
+L
+B 22
+B 42
+B 69
+L
+B 65
+L
+B 37
+L
+B 33
+L
+B 5
+L
+L
+B 34
+L
+B 69
+B 74
+L
+B 138
+L
+B 10
+L
+B 130
+L
+L
+B 65
+L
+B 41
+B 74
+L
+B 66
+L
+L
+B 33
+L
+B 74
+L
+B 66
+L
+B 194
+L
+B 130
+L
+L
+B 18
+L
+B 70
+B 41
+B 138
+L
+B 130
+L
+B 26
+L
+B 42
+L
+B 34
+L
+L
+B 33
+L
+B 42
+B 69
+L
+L
+B 34
+L
+B 138
+L
+B 69
+L
+B 65
+L
+B 130
+L
+L
+B 66
+L
+B 42
+B 69
+B 194
+L
+B 130
+L
+L
+B 65
+L
+B 37
+L
+B 33
+L
+B 194
+L
+B 130
+L
+L
+B 34
+L
+B 6
+L
+B 10
+L
+B 2
+L
+B 41
+B 69
+L
+B 65
+L
+L
+B 33
+L
+B 69
+L
+B 65
+L
+B 5
+L
+B 13
+L
+L
+B 146
+B 21
+B 41
+B 70
+L
+B 66
+L
+B 38
+L
+B 34
+L
+B 6
+L
+L
+B 33
+L
+B 70
+B 73
+L
+B 137
+L
+B 9
+L
+B 129
+L
+L
+B 66
+L
+B 42
+B 73
+L
+B 65
+L
+L
+B 34
+L
+B 73
+L
+B 65
+L
+B 193
+L
+B 129
+L
+L
+B 17
+L
+B 69
+B 41
+B 34
+L
+B 70
+L
+L
+B 42
+B 137
+L
+B 129
+L
+B 33
+L
+L
+B 34
+L
+B 33
+L
+B 137
+L
+B 70
+L
+B 66
+L
+B 129
+L
+L
+B 65
+L
+B 41
+B 70
+B 193
+L
+B 129
+L
+L
+B 66
+L
+B 38
+L
+B 34
+L
+B 193
+L
+B 129
+L
+L
+B 33
+L
+B 5
+L
+B 9
+L
+B 1
+L
+B 42
+B 70
+L
+B 66
+L
+L
+B 34
+L
+B 70
+L
+B 66
+L
+B 6
+L
+B 14
+L
+L
+B 21
+B 34
+L
+B 70
+B 41
+B 138
+L
+B 130
+L
+B 42
+L
+B 50
+L
+L
+B 33
+L
+B 42
+B 73
+L
+B 137
+L
+B 129
+L
+L
+B 138
+B 73
+L
+B 137
+L
+L
+B 73
+B 160
+L
+L
+B 130
+L
+B 50
+L
+B 137
+L
+B 9
+L
+B 26
+L
+B 18
+L
+L
+B 66
+L
+B 41
+B 50
+L
+B 18
+L
+B 6
+L
+B 194
+L
+B 2
+L
+B 193
+L
+L
+B 50
+B 33
+L
+B 73
+L
+B 65
+L
+B 193
+L
+B 74
+L
+L
+B 18
+L
+B 6
+L
+B 10
+B 160
+L
+L
+B 2
+L
+B 33
+L
+B 73
+L
+B 65
+L
+B 193
+L
+B 129
+L
+L
+B 17
+L
+B 69
+B 34
+L
+B 194
+B 41
+B 22
+L
+L
+B 33
+L
+B 42
+L
+B 22
+L
+B 18
+L
+L
+B 130
+L
+B 22
+B 41
+L
+B 33
+L
+B 137
+L
+B 138
+L
+B 129
+L
+L
+B 18
+L
+B 10
+B 160
+L
+L
+B 2
+L
+B 6
+L
+B 137
+L
+B 41
+L
+B 33
+L
+B 129
+L
+L
+B 34
+L
+B 65
+L
+B 70
+B 41
+B 138
+L
+B 130
+L
+B 42
+L
+B 50
+L
+B 193
+L
+B 18
+L
+L
+B 33
+L
+B 5
+L
+B 9
+L
+B 1
+L
+B 138
+L
+B 42
+L
+B 130
+L
+B 50
+L
+B 18
+L
+L
+B 66
+L
+B 22
+B 41
+B 74
+L
+B 193
+L
+B 138
+L
+B 130
+L
+L
+B 33
+L
+B 193
+L
+B 129
+L
+B 5
+L
+B 1
+L
+B 74
+L
+B 138
+L
+B 130
+L
+L
+B 18
+L
+B 41
+B 194
+L
+B 130
+L
+B 6
+L
+B 2
+L
+B 193
+L
+B 129
+L
+L
+B 33
+L
+B 193
+B 194
+L
+B 6
+L
+B 130
+L
+B 2
+L
+L
+B 194
+B 5
+L
+B 9
+L
+B 1
+L
+L
+B 5
+L
+B 6
+L
+B 129
+L
+B 1
+L
+B 130
+L
+B 2
+L
+B 112
+L
+B 176
+L
+L
+B 240
+B 69
+B 70
+B 140
+L
+B 136
+L
+B 200
+L
+B 41
+B 162
+B 26
+L
+B 145
+L
+L
+B 130
+L
+B 26
+L
+B 10
+L
+B 145
+L
+L
+B 162
+B 9
+L
+B 145
+L
+B 24
+L
+L
+B 42
+B 161
+L
+B 129
+L
+B 25
+L
+B 9
+L
+L
+B 40
+L
+B 161
+B 10
+L
+L
+B 160
+L
+B 9
+L
+B 8
+L
+L
+B 74
+B 41
+B 22
+B 162
+B 145
+L
+B 140
+L
+L
+B 145
+B 140
+L
+L
+B 140
+L
+B 34
+L
+L
+B 162
+B 145
+B 6
+L
+L
+B 140
+L
+B 6
+L
+L
+B 134
+B 145
+B 50
+L
+L
+B 21
+L
+B 17
+L
+L
+B 6
+L
+B 130
+L
+B 18
+L
+B 34
+L
+B 145
+L
+L
+B 22
+B 161
+B 140
+L
+B 25
+L
+B 162
+L
+B 9
+L
+L
+B 137
+B 162
+L
+B 33
+L
+B 34
+L
+L
+B 33
+L
+B 162
+B 9
+L
+L
+B 9
+L
+B 145
+L
+B 129
+L
+B 49
+L
+L
+B 161
+B 134
+B 25
+B 50
+L
+L
+B 9
+L
+B 50
+L
+L
+B 6
+L
+B 146
+B 25
+L
+B 38
+L
+L
+B 162
+B 25
+L
+L
+B 130
+L
+B 18
+L
+B 25
+L
+B 34
+L
+L
+B 162
+B 137
+B 6
+L
+B 33
+L
+L
+B 9
+L
+B 145
+B 6
+L
+L
+B 129
+L
+B 33
+L
+B 17
+L
+L
+B 137
+B 134
+B 33
+L
+L
+B 6
+L
+B 146
+L
+B 130
+L
+B 34
+L
+L
+B 134
+B 9
+L
+B 33
+L
+B 145
+L
+L
+B 6
+L
+B 9
+L
+B 33
+L
+B 146
+L
+B 130
+L
+B 145
+L
+B 129
+L
+L
+B 134
+B 41
+B 26
+B 145
+B 98
+L
+B 66
+L
+L
+B 98
+B 21
+L
+B 17
+L
+L
+B 200
+L
+B 66
+L
+L
+B 42
+B 145
+B 82
+L
+B 66
+L
+L
+B 82
+B 21
+L
+L
+B 200
+L
+B 21
+L
+L
+B 10
+L
+B 82
+B 145
+L
+B 200
+L
+L
+B 66
+L
+B 18
+L
+B 34
+L
+B 145
+L
+L
+B 161
+B 42
+B 25
+B 82
+L
+L
+B 82
+L
+B 200
+L
+L
+B 10
+L
+B 82
+B 25
+L
+B 200
+L
+L
+B 66
+L
+B 18
+L
+B 25
+L
+B 34
+L
+L
+B 42
+B 137
+B 82
+L
+B 66
+L
+L
+B 129
+L
+B 25
+B 82
+L
+L
+B 9
+L
+B 17
+L
+B 33
+L
+L
+B 137
+B 10
+L
+B 82
+L
+B 66
+L
+B 34
+L
+L
+B 33
+L
+B 129
+L
+B 10
+L
+B 82
+L
+B 66
+L
+B 25
+L
+B 9
+L
+L
+B 138
+B 41
+B 22
+B 145
+B 98
+L
+L
+B 98
+L
+B 66
+L
+L
+B 6
+L
+B 82
+B 145
+L
+B 38
+L
+L
+B 66
+L
+B 18
+L
+B 34
+L
+B 145
+L
+L
+B 161
+B 22
+B 25
+L
+B 98
+L
+B 9
+L
+L
+B 6
+L
+B 82
+B 25
+L
+L
+B 66
+L
+B 18
+L
+B 25
+L
+B 34
+L
+L
+B 22
+B 137
+B 33
+L
+L
+B 33
+L
+B 9
+L
+B 129
+L
+L
+B 137
+B 6
+L
+B 82
+L
+B 66
+L
+B 34
+L
+L
+B 6
+L
+B 33
+L
+B 9
+L
+B 82
+L
+B 66
+L
+B 129
+L
+L
+B 22
+B 42
+B 161
+B 25
+L
+B 200
+L
+B 194
+L
+L
+B 137
+B 194
+L
+L
+B 129
+L
+B 25
+L
+B 41
+L
+B 9
+L
+L
+B 161
+B 10
+L
+B 98
+B 25
+L
+L
+B 162
+L
+B 34
+L
+B 194
+L
+B 66
+L
+B 130
+L
+L
+B 41
+B 162
+B 200
+L
+B 140
+L
+L
+B 10
+L
+B 130
+L
+B 194
+L
+B 98
+L
+B 66
+L
+L
+B 137
+B 162
+L
+B 10
+L
+B 130
+L
+B 194
+L
+B 98
+L
+B 34
+L
+L
+B 162
+B 9
+L
+B 145
+L
+B 129
+L
+L
+B 10
+L
+B 130
+L
+B 9
+L
+B 145
+B 194
+L
+L
+B 129
+L
+B 194
+L
+B 98
+L
+B 66
+L
+L
+B 6
+L
+B 162
+B 41
+B 82
+L
+B 66
+L
+B 14
+L
+B 26
+L
+B 10
+L
+B 18
+L
+L
+B 137
+B 82
+L
+B 66
+L
+B 14
+L
+B 10
+L
+B 26
+L
+L
+B 82
+B 9
+L
+B 145
+L
+L
+B 9
+L
+B 145
+B 66
+L
+B 14
+L
+B 10
+L
+L
+B 66
+L
+B 14
+L
+B 161
+L
+B 129
+L
+B 10
+L
+L
+B 130
+L
+B 42
+B 137
+B 82
+L
+B 146
+L
+B 18
+L
+B 194
+L
+L
+B 161
+B 82
+L
+B 146
+L
+B 18
+L
+L
+B 129
+L
+B 25
+B 82
+L
+B 146
+L
+L
+B 41
+B 82
+L
+L
+B 9
+L
+B 82
+L
+B 146
+L
+B 18
+L
+L
+B 34
+L
+B 10
+L
+B 18
+L
+B 2
+L
+B 137
+B 49
+B 76
+L
+B 140
+L
+L
+B 33
+L
+B 17
+L
+L
+B 41
+B 145
+B 140
+L
+L
+B 129
+L
+B 17
+L
+L
+B 161
+B 25
+L
+B 9
+L
+L
+B 9
+L
+B 145
+L
+B 129
+L
+B 33
+L
+L
+B 70
+B 73
+B 42
+B 21
+B 161
+B 146
+L
+B 140
+L
+L
+B 146
+B 140
+L
+L
+B 140
+L
+B 33
+L
+L
+B 161
+B 146
+B 5
+L
+L
+B 140
+L
+B 5
+L
+L
+B 133
+B 146
+B 49
+L
+L
+B 22
+L
+B 18
+L
+L
+B 5
+L
+B 129
+L
+B 17
+L
+B 33
+L
+B 146
+L
+L
+B 21
+B 162
+B 140
+L
+B 26
+L
+B 161
+L
+B 10
+L
+L
+B 138
+B 161
+L
+B 34
+L
+B 33
+L
+L
+B 34
+L
+B 161
+B 10
+L
+L
+B 10
+L
+B 146
+L
+B 130
+L
+B 50
+L
+L
+B 162
+B 133
+B 26
+B 49
+L
+L
+B 10
+L
+B 49
+L
+L
+B 5
+L
+B 145
+B 26
+L
+B 37
+L
+L
+B 161
+B 26
+L
+L
+B 129
+L
+B 17
+L
+B 26
+L
+B 33
+L
+L
+B 161
+B 138
+B 5
+L
+B 34
+L
+L
+B 10
+L
+B 146
+B 5
+L
+L
+B 130
+L
+B 34
+L
+B 18
+L
+L
+B 138
+B 133
+B 34
+L
+L
+B 5
+L
+B 145
+L
+B 129
+L
+B 33
+L
+L
+B 133
+B 10
+L
+B 34
+L
+B 146
+L
+L
+B 5
+L
+B 10
+L
+B 34
+L
+B 145
+L
+B 129
+L
+B 146
+L
+B 130
+L
+L
+B 133
+B 42
+B 25
+B 146
+B 97
+L
+B 65
+L
+L
+B 97
+B 22
+L
+B 18
+L
+L
+B 200
+L
+B 65
+L
+L
+B 41
+B 146
+B 81
+L
+B 65
+L
+L
+B 81
+B 22
+L
+L
+B 200
+L
+B 22
+L
+L
+B 9
+L
+B 81
+B 146
+L
+B 200
+L
+L
+B 65
+L
+B 17
+L
+B 33
+L
+B 146
+L
+L
+B 162
+B 41
+B 26
+B 81
+L
+L
+B 81
+L
+B 200
+L
+L
+B 9
+L
+B 81
+B 26
+L
+B 200
+L
+L
+B 65
+L
+B 17
+L
+B 26
+L
+B 33
+L
+L
+B 41
+B 138
+B 81
+L
+B 65
+L
+L
+B 130
+L
+B 26
+B 81
+L
+L
+B 10
+L
+B 18
+L
+B 34
+L
+L
+B 138
+B 9
+L
+B 81
+L
+B 65
+L
+B 33
+L
+L
+B 34
+L
+B 130
+L
+B 9
+L
+B 81
+L
+B 65
+L
+B 26
+L
+B 10
+L
+L
+B 137
+B 42
+B 21
+B 146
+B 97
+L
+L
+B 97
+L
+B 65
+L
+L
+B 5
+L
+B 81
+B 146
+L
+B 37
+L
+L
+B 65
+L
+B 17
+L
+B 33
+L
+B 146
+L
+L
+B 162
+B 21
+B 26
+L
+B 97
+L
+B 10
+L
+L
+B 5
+L
+B 81
+B 26
+L
+L
+B 65
+L
+B 17
+L
+B 26
+L
+B 33
+L
+L
+B 21
+B 138
+B 34
+L
+L
+B 34
+L
+B 10
+L
+B 130
+L
+L
+B 138
+B 5
+L
+B 81
+L
+B 65
+L
+B 33
+L
+L
+B 5
+L
+B 34
+L
+B 10
+L
+B 81
+L
+B 65
+L
+B 130
+L
+L
+B 21
+B 41
+B 162
+B 26
+L
+B 200
+L
+B 193
+L
+L
+B 138
+B 193
+L
+L
+B 130
+L
+B 26
+L
+B 42
+L
+B 10
+L
+L
+B 162
+B 9
+L
+B 97
+B 26
+L
+L
+B 161
+L
+B 33
+L
+B 193
+L
+B 65
+L
+B 129
+L
+L
+B 42
+B 161
+B 200
+L
+B 140
+L
+L
+B 9
+L
+B 129
+L
+B 193
+L
+B 97
+L
+B 65
+L
+L
+B 138
+B 161
+L
+B 9
+L
+B 129
+L
+B 193
+L
+B 97
+L
+B 33
+L
+L
+B 161
+B 10
+L
+B 146
+L
+B 130
+L
+L
+B 9
+L
+B 129
+L
+B 10
+L
+B 146
+B 193
+L
+L
+B 130
+L
+B 193
+L
+B 97
+L
+B 65
+L
+L
+B 5
+L
+B 161
+B 42
+B 81
+L
+B 65
+L
+B 13
+L
+B 25
+L
+B 9
+L
+B 17
+L
+L
+B 138
+B 81
+L
+B 65
+L
+B 13
+L
+B 9
+L
+B 25
+L
+L
+B 81
+B 10
+L
+B 146
+L
+L
+B 10
+L
+B 146
+B 65
+L
+B 13
+L
+B 9
+L
+L
+B 65
+L
+B 13
+L
+B 162
+L
+B 130
+L
+B 9
+L
+L
+B 129
+L
+B 41
+B 138
+B 81
+L
+B 145
+L
+B 17
+L
+B 193
+L
+L
+B 162
+B 81
+L
+B 145
+L
+B 17
+L
+L
+B 130
+L
+B 26
+B 81
+L
+B 145
+L
+L
+B 42
+B 81
+L
+L
+B 10
+L
+B 81
+L
+B 145
+L
+B 17
+L
+L
+B 33
+L
+B 9
+L
+B 17
+L
+B 1
+L
+B 138
+B 50
+B 76
+L
+B 140
+L
+L
+B 34
+L
+B 18
+L
+L
+B 42
+B 146
+B 140
+L
+L
+B 130
+L
+B 18
+L
+L
+B 162
+B 26
+L
+B 10
+L
+L
+B 10
+L
+B 146
+L
+B 130
+L
+B 34
+L
+L
+B 73
+B 74
+B 140
+L
+B 132
+L
+B 196
+L
+B 68
+L
+B 21
+B 162
+L
+B 130
+L
+L
+B 5
+L
+B 161
+L
+B 162
+L
+B 22
+L
+B 6
+L
+B 4
+L
+L
+B 134
+B 21
+B 42
+B 161
+B 82
+L
+L
+B 82
+B 33
+L
+L
+B 66
+L
+B 33
+L
+L
+B 161
+B 10
+L
+B 82
+L
+B 66
+L
+B 34
+L
+L
+B 10
+L
+B 82
+B 33
+L
+L
+B 66
+L
+B 34
+L
+B 50
+L
+L
+B 42
+B 161
+B 5
+L
+B 82
+L
+B 66
+L
+L
+B 133
+B 82
+L
+B 66
+L
+L
+B 5
+L
+B 129
+L
+B 17
+L
+B 33
+L
+L
+B 161
+B 10
+L
+B 82
+B 5
+L
+L
+B 66
+L
+B 34
+L
+B 18
+L
+L
+B 133
+B 10
+L
+B 82
+L
+B 66
+L
+B 34
+L
+L
+B 5
+L
+B 10
+L
+B 82
+B 129
+L
+B 33
+L
+L
+B 66
+L
+B 129
+L
+B 33
+L
+B 34
+L
+L
+B 138
+B 21
+B 161
+B 6
+L
+B 82
+L
+B 66
+L
+B 34
+L
+L
+B 6
+L
+B 82
+B 38
+L
+L
+B 66
+L
+B 34
+L
+B 50
+L
+L
+B 161
+B 22
+B 98
+L
+B 66
+L
+L
+B 6
+L
+B 82
+L
+B 66
+L
+B 34
+L
+B 18
+L
+L
+B 22
+B 133
+B 98
+L
+L
+B 5
+L
+B 33
+L
+B 129
+L
+L
+B 6
+L
+B 133
+B 82
+L
+B 66
+L
+B 34
+L
+L
+B 5
+L
+B 33
+L
+B 82
+L
+B 66
+L
+B 34
+L
+B 145
+L
+L
+B 6
+L
+B 162
+B 21
+B 82
+B 140
+L
+L
+B 66
+L
+B 14
+L
+B 10
+L
+B 22
+L
+B 26
+L
+B 161
+L
+L
+B 22
+B 133
+L
+B 5
+L
+B 145
+L
+B 161
+L
+B 129
+L
+L
+B 133
+B 82
+L
+B 66
+L
+B 14
+L
+B 10
+L
+L
+B 5
+L
+B 82
+B 145
+L
+L
+B 66
+L
+B 145
+B 14
+L
+L
+B 14
+L
+B 10
+L
+B 161
+L
+B 129
+L
+L
+B 130
+L
+B 42
+B 21
+B 161
+B 82
+L
+L
+B 82
+L
+B 66
+L
+B 194
+L
+L
+B 133
+B 82
+L
+B 66
+L
+L
+B 5
+L
+B 161
+B 82
+L
+L
+B 82
+L
+B 145
+L
+B 129
+L
+B 66
+L
+L
+B 34
+L
+B 10
+L
+B 18
+B 133
+L
+B 161
+L
+B 140
+L
+L
+B 2
+L
+B 133
+B 49
+B 68
+L
+L
+B 33
+L
+B 17
+L
+L
+B 21
+B 161
+L
+B 129
+L
+L
+B 5
+L
+B 161
+L
+B 145
+L
+B 129
+L
+B 33
+L
+B 49
+L
+L
+B 74
+B 133
+B 22
+B 41
+B 162
+B 81
+L
+L
+B 81
+B 34
+L
+L
+B 65
+L
+B 34
+L
+L
+B 162
+B 9
+L
+B 81
+L
+B 65
+L
+B 33
+L
+L
+B 9
+L
+B 81
+B 34
+L
+L
+B 65
+L
+B 33
+L
+B 49
+L
+L
+B 41
+B 162
+B 6
+L
+B 81
+L
+B 65
+L
+L
+B 134
+B 81
+L
+B 65
+L
+L
+B 6
+L
+B 130
+L
+B 18
+L
+B 34
+L
+L
+B 162
+B 9
+L
+B 81
+B 6
+L
+L
+B 65
+L
+B 33
+L
+B 17
+L
+L
+B 134
+B 9
+L
+B 81
+L
+B 65
+L
+B 33
+L
+L
+B 6
+L
+B 9
+L
+B 81
+B 130
+L
+B 34
+L
+L
+B 65
+L
+B 130
+L
+B 33
+L
+B 34
+L
+L
+B 137
+B 22
+B 162
+B 5
+L
+B 81
+L
+B 65
+L
+B 33
+L
+L
+B 5
+L
+B 81
+B 37
+L
+L
+B 65
+L
+B 33
+L
+B 49
+L
+L
+B 162
+B 21
+B 97
+L
+B 65
+L
+L
+B 5
+L
+B 81
+L
+B 65
+L
+B 33
+L
+B 17
+L
+L
+B 21
+B 134
+B 97
+L
+L
+B 6
+L
+B 34
+L
+B 130
+L
+L
+B 5
+L
+B 134
+B 81
+L
+B 65
+L
+B 33
+L
+L
+B 6
+L
+B 34
+L
+B 81
+L
+B 65
+L
+B 33
+L
+B 146
+L
+L
+B 5
+L
+B 161
+B 21
+B 134
+B 9
+L
+L
+B 6
+L
+B 146
+L
+B 162
+L
+B 130
+L
+L
+B 22
+B 81
+L
+B 65
+L
+B 13
+L
+B 9
+L
+B 25
+L
+B 162
+L
+L
+B 134
+B 81
+L
+B 65
+L
+B 13
+L
+B 9
+L
+L
+B 6
+L
+B 81
+B 146
+L
+L
+B 65
+L
+B 146
+B 13
+L
+L
+B 13
+L
+B 9
+L
+B 162
+L
+B 130
+L
+L
+B 129
+L
+B 41
+B 22
+B 162
+B 81
+L
+L
+B 81
+L
+B 65
+L
+B 193
+L
+L
+B 134
+B 81
+L
+B 65
+L
+L
+B 6
+L
+B 162
+B 81
+L
+L
+B 81
+L
+B 146
+L
+B 130
+L
+B 65
+L
+L
+B 33
+L
+B 9
+L
+B 17
+B 134
+L
+B 162
+L
+B 140
+L
+L
+B 1
+L
+B 134
+B 50
+B 68
+L
+L
+B 34
+L
+B 18
+L
+L
+B 22
+B 162
+L
+B 130
+L
+L
+B 6
+L
+B 162
+L
+B 146
+L
+B 130
+L
+B 34
+L
+B 50
+L
+L
+B 133
+B 134
+B 72
+L
+B 200
+L
+B 68
+L
+B 41
+B 66
+L
+B 26
+L
+L
+B 42
+B 65
+L
+L
+B 40
+L
+B 9
+L
+B 8
+L
+L
+B 138
+B 41
+B 22
+B 81
+L
+B 65
+L
+L
+B 6
+L
+B 82
+L
+B 66
+L
+B 18
+L
+B 34
+L
+L
+B 22
+B 9
+L
+B 81
+L
+B 65
+L
+B 33
+L
+L
+B 6
+L
+B 9
+L
+B 81
+B 82
+L
+B 66
+L
+B 34
+L
+L
+B 65
+L
+B 33
+L
+B 82
+L
+B 66
+L
+B 34
+L
+L
+B 6
+L
+B 162
+B 22
+B 41
+L
+B 9
+L
+B 81
+L
+B 65
+L
+L
+B 41
+B 82
+L
+B 66
+L
+B 14
+L
+B 26
+L
+B 10
+L
+L
+B 82
+B 9
+L
+L
+B 66
+L
+B 9
+L
+B 14
+L
+B 81
+L
+B 65
+L
+B 10
+L
+L
+B 130
+L
+B 42
+B 25
+B 82
+L
+B 66
+L
+B 194
+L
+L
+B 82
+B 41
+L
+L
+B 66
+L
+B 41
+L
+B 9
+L
+B 81
+L
+B 65
+L
+L
+B 34
+L
+B 10
+L
+B 18
+B 41
+L
+B 200
+L
+L
+B 2
+L
+B 41
+B 81
+L
+B 65
+L
+L
+B 9
+L
+B 81
+B 33
+L
+L
+B 65
+L
+B 33
+L
+B 49
+L
+L
+B 134
+B 137
+B 42
+B 21
+B 82
+L
+B 66
+L
+L
+B 5
+L
+B 81
+L
+B 65
+L
+B 17
+L
+B 33
+L
+L
+B 21
+B 10
+L
+B 82
+L
+B 66
+L
+B 34
+L
+L
+B 5
+L
+B 10
+L
+B 81
+B 82
+L
+B 66
+L
+L
+B 65
+L
+B 82
+B 33
+L
+L
+B 66
+L
+B 34
+L
+B 33
+L
+L
+B 5
+L
+B 161
+B 21
+B 42
+L
+B 10
+L
+B 82
+L
+B 66
+L
+L
+B 42
+B 81
+L
+B 65
+L
+B 13
+L
+B 25
+L
+B 9
+L
+L
+B 81
+B 10
+L
+L
+B 65
+L
+B 10
+L
+B 13
+L
+B 82
+L
+B 66
+L
+B 9
+L
+L
+B 129
+L
+B 41
+B 26
+B 81
+L
+B 65
+L
+B 193
+L
+L
+B 81
+B 42
+L
+L
+B 65
+L
+B 42
+L
+B 10
+L
+B 82
+L
+B 66
+L
+L
+B 33
+L
+B 9
+L
+B 17
+B 42
+L
+B 200
+L
+L
+B 1
+L
+B 42
+B 82
+L
+B 66
+L
+L
+B 10
+L
+B 82
+B 34
+L
+L
+B 66
+L
+B 34
+L
+B 50
+L
+L
+B 137
+B 138
+B 68
+L
+B 76
+L
+B 21
+B 6
+L
+B 98
+L
+L
+B 5
+L
+B 22
+B 97
+L
+L
+B 6
+L
+B 4
+L
+B 20
+L
+L
+B 6
+L
+B 162
+B 22
+B 5
+L
+B 81
+L
+B 65
+L
+L
+B 21
+B 82
+L
+B 66
+L
+B 14
+L
+B 10
+L
+L
+B 5
+L
+B 82
+L
+B 66
+L
+B 14
+L
+B 10
+L
+B 81
+L
+B 65
+L
+L
+B 130
+L
+B 42
+B 21
+B 82
+L
+B 66
+L
+L
+B 5
+L
+B 81
+L
+B 65
+L
+B 82
+L
+B 66
+L
+L
+B 34
+L
+B 10
+L
+B 18
+B 76
+L
+L
+B 2
+L
+B 21
+B 97
+L
+B 65
+L
+L
+B 5
+L
+B 81
+L
+B 65
+L
+B 33
+L
+B 49
+L
+L
+B 138
+B 5
+L
+B 161
+B 21
+B 6
+L
+B 82
+L
+B 66
+L
+L
+B 22
+B 81
+L
+B 65
+L
+B 13
+L
+B 9
+L
+L
+B 6
+L
+B 81
+L
+B 65
+L
+B 13
+L
+B 9
+L
+B 82
+L
+B 66
+L
+L
+B 129
+L
+B 41
+B 22
+B 81
+L
+B 65
+L
+L
+B 6
+L
+B 81
+L
+B 82
+L
+B 66
+L
+B 65
+L
+L
+B 33
+L
+B 9
+L
+B 17
+B 76
+L
+L
+B 1
+L
+B 22
+B 98
+L
+B 66
+L
+L
+B 6
+L
+B 82
+L
+B 66
+L
+B 34
+L
+B 50
+L
+L
+B 5
+B 200
+L
+L
+B 161
+B 6
+L
+B 42
+B 21
+B 82
+L
+B 66
+L
+L
+B 81
+B 82
+L
+B 66
+L
+L
+B 65
+L
+B 82
+B 13
+L
+L
+B 13
+L
+B 66
+L
+B 194
+L
+B 25
+L
+B 9
+L
+L
+B 10
+L
+B 194
+B 21
+L
+B 81
+L
+B 22
+L
+B 65
+L
+B 13
+L
+L
+B 66
+L
+B 34
+L
+B 2
+L
+B 18
+L
+B 81
+L
+B 21
+L
+B 65
+L
+B 13
+L
+B 9
+L
+L
+B 42
+B 129
+L
+B 22
+B 13
+L
+B 9
+L
+B 33
+L
+B 193
+L
+B 1
+L
+B 194
+L
+L
+B 13
+B 6
+L
+B 82
+L
+B 66
+L
+B 194
+L
+B 130
+L
+L
+B 6
+L
+B 9
+L
+B 33
+L
+B 193
+B 21
+L
+L
+B 1
+L
+B 82
+L
+B 66
+L
+B 194
+L
+B 130
+L
+L
+B 10
+L
+B 129
+L
+B 162
+B 41
+B 22
+L
+B 6
+L
+B 82
+L
+B 81
+L
+B 65
+L
+L
+B 9
+L
+B 17
+B 68
+L
+L
+B 193
+L
+B 65
+L
+B 1
+L
+B 82
+L
+B 22
+L
+B 6
+L
+B 66
+L
+L
+B 130
+L
+B 22
+B 41
+B 81
+L
+B 65
+L
+B 194
+L
+L
+B 9
+L
+B 193
+L
+B 65
+L
+B 33
+L
+B 1
+L
+B 194
+L
+B 66
+L
+L
+B 6
+L
+B 34
+L
+B 41
+B 194
+L
+B 66
+L
+B 2
+L
+B 81
+L
+B 65
+L
+L
+B 9
+L
+B 193
+B 18
+L
+B 194
+L
+B 2
+L
+L
+B 194
+B 33
+L
+B 65
+L
+L
+B 33
+L
+B 65
+L
+B 1
+L
+B 66
+L
+B 2
+L
+B 76
+L
+B 140
+L
+L
+B 212
+B 232
+B 69
+B 162
+B 74
+B 145
+B 22
+B 41
+L
+B 9
+L
+L
+B 41
+B 6
+L
+L
+B 6
+L
+L
+B 41
+B 22
+B 17
+L
+L
+B 17
+L
+B 21
+L
+B 18
+L
+L
+B 25
+B 22
+B 161
+L
+L
+B 161
+L
+B 33
+L
+L
+B 17
+L
+B 137
+L
+B 9
+L
+B 22
+L
+L
+B 145
+B 22
+B 41
+B 10
+L
+L
+B 10
+L
+B 42
+L
+B 9
+L
+L
+B 26
+B 41
+B 70
+L
+L
+B 70
+L
+B 6
+L
+L
+B 10
+L
+B 70
+L
+B 6
+L
+B 41
+L
+L
+B 22
+B 41
+B 10
+L
+B 17
+L
+B 66
+L
+L
+B 25
+B 161
+B 10
+L
+L
+B 33
+L
+B 10
+L
+L
+B 9
+L
+B 137
+B 49
+L
+L
+B 49
+L
+B 17
+L
+B 161
+L
+B 33
+L
+L
+B 41
+B 26
+B 70
+B 17
+L
+L
+B 6
+L
+B 17
+L
+L
+B 18
+L
+B 82
+B 14
+L
+L
+B 14
+L
+B 10
+L
+B 70
+L
+B 6
+L
+L
+B 25
+B 26
+B 70
+L
+B 161
+L
+L
+B 10
+L
+B 70
+L
+B 6
+L
+L
+B 26
+B 9
+L
+B 137
+L
+B 17
+L
+L
+B 9
+L
+B 10
+L
+B 70
+L
+B 6
+L
+B 137
+L
+L
+B 22
+B 42
+B 161
+B 194
+B 25
+L
+L
+B 25
+B 130
+L
+L
+B 130
+L
+B 9
+L
+L
+B 145
+B 194
+L
+B 130
+L
+B 41
+L
+L
+B 25
+B 194
+L
+B 130
+L
+B 129
+L
+L
+B 129
+L
+B 49
+B 194
+L
+L
+B 17
+L
+B 194
+L
+B 33
+L
+L
+B 161
+B 34
+L
+B 74
+B 25
+L
+B 9
+L
+L
+B 10
+L
+B 25
+B 98
+L
+L
+B 98
+L
+B 138
+L
+B 194
+L
+L
+B 145
+B 34
+L
+B 74
+B 41
+L
+L
+B 10
+L
+B 98
+L
+B 138
+L
+L
+B 34
+L
+B 25
+B 74
+B 160
+L
+L
+B 10
+L
+B 98
+L
+B 138
+L
+L
+B 41
+B 74
+B 129
+L
+L
+B 98
+L
+B 138
+L
+B 10
+L
+L
+B 74
+B 33
+L
+B 49
+L
+L
+B 10
+L
+B 137
+L
+B 129
+L
+B 9
+L
+L
+B 42
+B 161
+B 70
+B 146
+B 25
+L
+L
+B 25
+B 18
+L
+L
+B 18
+L
+B 17
+L
+L
+B 6
+L
+B 134
+B 25
+L
+B 82
+L
+L
+B 25
+B 82
+L
+B 18
+L
+L
+B 82
+L
+B 18
+L
+B 146
+L
+L
+B 145
+B 70
+B 146
+L
+B 18
+L
+L
+B 6
+L
+B 134
+L
+B 82
+L
+B 18
+L
+L
+B 25
+B 70
+B 146
+L
+B 18
+L
+L
+B 6
+L
+B 134
+L
+B 82
+L
+B 18
+L
+L
+B 17
+L
+B 70
+B 137
+L
+B 129
+L
+B 146
+L
+B 33
+L
+L
+B 6
+L
+B 137
+B 134
+L
+L
+B 129
+L
+B 134
+L
+B 82
+L
+B 18
+L
+L
+B 34
+L
+B 145
+B 38
+B 26
+L
+B 18
+L
+B 10
+L
+L
+B 18
+L
+B 6
+L
+B 82
+L
+B 130
+L
+B 41
+L
+B 33
+L
+L
+B 161
+B 38
+B 26
+L
+B 18
+L
+B 10
+L
+L
+B 18
+L
+B 6
+L
+B 82
+L
+B 2
+L
+B 25
+L
+B 17
+L
+L
+B 38
+B 26
+B 25
+L
+B 17
+L
+L
+B 25
+B 18
+L
+B 10
+L
+L
+B 17
+L
+B 18
+L
+B 41
+L
+B 33
+L
+L
+B 18
+L
+B 6
+L
+B 82
+B 25
+L
+B 134
+L
+B 41
+L
+L
+B 130
+L
+B 25
+B 129
+L
+L
+B 137
+B 49
+L
+L
+B 129
+L
+B 49
+L
+B 17
+L
+B 41
+L
+L
+B 162
+B 5
+B 74
+L
+L
+B 21
+B 41
+B 70
+B 193
+L
+B 26
+L
+B 65
+L
+L
+B 74
+B 193
+L
+B 22
+L
+L
+B 26
+B 193
+L
+B 65
+L
+L
+B 82
+B 193
+L
+L
+B 66
+L
+B 14
+L
+B 10
+L
+B 193
+L
+L
+B 70
+B 73
+B 161
+L
+B 26
+L
+B 33
+L
+L
+B 9
+L
+B 26
+B 137
+L
+L
+B 137
+L
+B 97
+L
+B 33
+L
+L
+B 74
+B 73
+B 161
+L
+L
+B 9
+L
+B 137
+L
+B 97
+L
+L
+B 26
+B 73
+B 161
+L
+L
+B 9
+L
+B 137
+L
+B 97
+L
+L
+B 10
+L
+B 82
+B 73
+L
+B 9
+L
+L
+B 66
+L
+B 73
+L
+B 9
+L
+B 137
+L
+L
+B 41
+B 70
+B 133
+B 81
+L
+B 26
+L
+B 17
+L
+L
+B 81
+B 26
+L
+B 18
+L
+L
+B 17
+L
+B 26
+L
+B 145
+L
+B 193
+L
+L
+B 74
+B 133
+B 81
+L
+L
+B 81
+L
+B 17
+L
+B 145
+L
+L
+B 22
+B 133
+B 81
+L
+B 66
+L
+L
+B 81
+B 66
+L
+L
+B 145
+L
+B 17
+L
+B 65
+L
+L
+B 6
+L
+B 133
+B 14
+L
+B 81
+L
+L
+B 14
+B 81
+L
+L
+B 81
+L
+B 26
+L
+B 10
+L
+B 82
+L
+L
+B 70
+B 37
+B 25
+L
+B 9
+L
+B 17
+L
+L
+B 9
+L
+B 33
+L
+B 73
+L
+B 1
+L
+B 26
+L
+B 10
+L
+L
+B 74
+B 37
+B 25
+L
+B 9
+L
+B 17
+L
+L
+B 9
+L
+B 33
+L
+B 73
+L
+B 65
+L
+B 22
+L
+B 6
+L
+L
+B 37
+B 25
+B 22
+L
+B 6
+L
+L
+B 22
+B 9
+L
+B 73
+L
+L
+B 6
+L
+B 9
+L
+B 14
+L
+B 10
+L
+L
+B 9
+L
+B 33
+L
+B 73
+B 22
+L
+B 161
+L
+B 6
+L
+L
+B 65
+L
+B 26
+B 66
+L
+L
+B 82
+B 14
+L
+L
+B 66
+L
+B 14
+L
+B 10
+L
+B 22
+L
+L
+B 70
+B 161
+B 73
+B 146
+B 21
+L
+B 42
+L
+L
+B 42
+B 21
+L
+B 5
+L
+L
+B 26
+B 21
+L
+L
+B 18
+L
+B 34
+L
+L
+B 146
+B 21
+B 42
+L
+B 34
+L
+L
+B 25
+B 42
+L
+L
+B 9
+L
+B 5
+L
+L
+B 21
+B 42
+B 65
+L
+B 130
+L
+L
+B 26
+B 34
+L
+L
+B 10
+L
+B 138
+L
+B 130
+L
+B 50
+L
+L
+B 42
+B 25
+B 5
+L
+L
+B 17
+L
+B 81
+L
+B 65
+L
+B 13
+L
+L
+B 25
+B 26
+L
+B 10
+L
+B 138
+L
+L
+B 26
+B 9
+L
+B 5
+L
+L
+B 9
+L
+B 5
+L
+B 10
+L
+L
+B 21
+B 41
+B 146
+B 193
+L
+B 42
+L
+B 129
+L
+L
+B 26
+B 193
+L
+B 129
+L
+L
+B 130
+L
+B 50
+L
+B 18
+L
+B 193
+L
+B 34
+L
+L
+B 146
+B 33
+L
+B 73
+L
+B 9
+L
+B 97
+L
+L
+B 33
+L
+B 26
+B 73
+L
+B 9
+L
+B 97
+L
+L
+B 42
+B 73
+L
+B 97
+L
+B 65
+L
+L
+B 34
+L
+B 73
+L
+B 50
+L
+B 18
+L
+B 97
+L
+L
+B 5
+L
+B 41
+B 146
+B 133
+L
+B 81
+L
+B 17
+L
+L
+B 26
+B 133
+L
+B 81
+L
+B 17
+L
+L
+B 130
+L
+B 50
+B 133
+L
+L
+B 18
+L
+B 133
+L
+B 81
+L
+B 17
+L
+L
+B 33
+L
+B 146
+B 37
+B 25
+L
+L
+B 9
+L
+B 17
+L
+B 42
+L
+B 34
+L
+L
+B 37
+B 25
+L
+B 26
+L
+B 42
+L
+B 34
+L
+L
+B 9
+L
+B 17
+L
+B 26
+B 130
+L
+L
+B 138
+B 50
+L
+L
+B 130
+L
+B 50
+L
+B 18
+L
+B 42
+L
+L
+B 161
+B 22
+B 42
+B 73
+B 194
+L
+B 21
+L
+B 66
+L
+L
+B 25
+B 194
+L
+B 65
+L
+L
+B 65
+L
+B 13
+L
+B 9
+L
+B 194
+L
+B 5
+L
+L
+B 73
+B 34
+L
+B 74
+L
+B 10
+L
+B 66
+L
+L
+B 25
+B 34
+L
+B 74
+L
+B 10
+L
+B 66
+L
+L
+B 34
+L
+B 65
+L
+B 13
+B 74
+L
+L
+B 9
+L
+B 74
+L
+B 10
+L
+L
+B 6
+L
+B 42
+B 73
+B 134
+L
+B 82
+L
+B 18
+L
+L
+B 21
+B 134
+B 82
+L
+L
+B 82
+L
+B 146
+L
+B 18
+L
+L
+B 5
+L
+B 13
+B 134
+L
+L
+B 134
+L
+B 25
+L
+B 9
+L
+B 81
+L
+L
+B 34
+L
+B 73
+B 38
+B 26
+L
+L
+B 10
+L
+B 18
+L
+B 21
+L
+B 5
+L
+L
+B 38
+B 26
+L
+B 21
+L
+B 5
+L
+B 13
+L
+L
+B 10
+L
+B 18
+L
+B 25
+B 65
+L
+L
+B 81
+B 13
+L
+L
+B 65
+L
+B 13
+L
+B 9
+L
+B 21
+L
+L
+B 21
+B 41
+B 26
+B 38
+B 193
+L
+B 65
+L
+L
+B 6
+L
+B 98
+L
+B 34
+L
+B 193
+L
+B 66
+L
+L
+B 38
+B 74
+B 193
+L
+B 146
+L
+L
+B 146
+B 193
+L
+L
+B 193
+L
+B 82
+L
+B 18
+L
+B 66
+L
+L
+B 6
+L
+B 74
+B 134
+L
+B 193
+L
+B 34
+L
+L
+B 10
+L
+B 130
+L
+B 34
+L
+B 66
+L
+B 193
+L
+B 65
+L
+L
+B 42
+B 22
+B 33
+L
+B 73
+B 194
+L
+L
+B 194
+L
+B 65
+L
+B 97
+L
+L
+B 6
+L
+B 33
+L
+B 73
+B 134
+L
+B 82
+L
+L
+B 134
+B 82
+L
+L
+B 82
+L
+B 97
+L
+B 65
+L
+L
+B 34
+L
+B 38
+B 26
+B 33
+L
+B 73
+L
+L
+B 33
+L
+B 73
+B 74
+L
+L
+B 65
+L
+B 74
+L
+B 10
+L
+L
+B 146
+B 33
+L
+B 73
+B 98
+L
+L
+B 98
+L
+B 65
+L
+B 97
+L
+L
+B 6
+L
+B 130
+L
+B 10
+L
+B 33
+L
+B 73
+L
+B 97
+L
+B 65
+L
+L
+B 5
+L
+B 42
+B 22
+B 37
+B 25
+L
+B 194
+L
+B 73
+L
+B 145
+L
+L
+B 73
+B 133
+L
+B 194
+L
+B 33
+L
+L
+B 33
+L
+B 65
+L
+B 17
+L
+B 194
+L
+B 66
+L
+L
+B 37
+B 25
+B 6
+L
+B 134
+L
+L
+B 6
+L
+B 134
+B 73
+L
+L
+B 73
+L
+B 82
+L
+B 145
+L
+B 17
+L
+L
+B 73
+B 6
+L
+B 133
+B 134
+L
+L
+B 134
+L
+B 82
+L
+B 33
+L
+L
+B 33
+L
+B 65
+L
+B 17
+L
+B 6
+L
+B 134
+L
+B 82
+L
+B 146
+L
+B 18
+L
+L
+B 34
+L
+B 6
+L
+B 22
+B 33
+L
+B 37
+B 25
+L
+B 74
+L
+L
+B 41
+B 145
+L
+L
+B 65
+L
+B 9
+L
+B 74
+L
+B 10
+L
+L
+B 33
+L
+B 37
+B 38
+B 25
+L
+L
+B 25
+L
+B 10
+L
+B 66
+L
+B 17
+L
+L
+B 38
+B 41
+L
+B 26
+L
+B 65
+L
+B 9
+L
+L
+B 41
+B 66
+L
+B 18
+L
+B 145
+L
+L
+B 65
+L
+B 9
+L
+B 66
+L
+B 10
+L
+B 76
+L
+L
+B 200
+L
+B 224
+L
+B 161
+B 42
+B 22
+B 69
+B 192
+L
+L
+B 73
+B 194
+L
+L
+B 65
+L
+B 25
+L
+B 13
+L
+B 9
+L
+L
+B 69
+B 70
+B 146
+L
+B 25
+L
+L
+B 6
+L
+B 134
+L
+B 25
+L
+B 82
+L
+L
+B 70
+B 73
+L
+B 21
+B 146
+L
+L
+B 25
+L
+B 146
+L
+B 81
+L
+L
+B 73
+B 6
+L
+B 134
+L
+B 21
+L
+L
+B 6
+L
+B 21
+B 192
+L
+L
+B 5
+L
+B 13
+L
+B 134
+L
+B 25
+L
+L
+B 70
+B 73
+B 138
+B 21
+L
+L
+B 146
+L
+B 162
+L
+B 130
+L
+B 21
+B 26
+L
+L
+B 26
+L
+B 10
+L
+L
+B 138
+B 21
+B 104
+L
+L
+B 25
+L
+B 9
+L
+B 69
+L
+L
+B 146
+B 21
+L
+B 25
+L
+B 9
+L
+L
+B 21
+B 162
+L
+B 130
+L
+B 26
+L
+B 10
+L
+B 50
+L
+L
+B 162
+B 72
+L
+L
+B 130
+L
+B 25
+B 26
+L
+B 10
+L
+L
+B 26
+B 9
+L
+L
+B 10
+L
+B 9
+L
+B 69
+L
+L
+B 74
+B 69
+B 22
+B 162
+L
+L
+B 162
+L
+B 34
+L
+B 6
+L
+L
+B 73
+B 22
+L
+B 162
+L
+B 6
+L
+L
+B 22
+B 25
+L
+B 9
+L
+B 81
+L
+L
+B 162
+B 21
+L
+B 5
+L
+L
+B 21
+B 34
+L
+L
+B 5
+L
+B 6
+L
+B 34
+L
+L
+B 98
+B 69
+B 22
+L
+B 138
+L
+B 10
+L
+L
+B 73
+B 22
+L
+B 138
+L
+B 10
+L
+L
+B 21
+B 138
+L
+B 10
+L
+L
+B 138
+B 5
+L
+L
+B 10
+L
+B 5
+L
+B 22
+L
+L
+B 66
+L
+B 22
+B 69
+B 194
+L
+B 138
+L
+B 162
+L
+B 10
+L
+B 34
+L
+L
+B 73
+B 194
+L
+B 138
+L
+B 162
+L
+B 10
+L
+L
+B 194
+L
+B 138
+L
+B 162
+B 72
+L
+L
+B 10
+L
+B 25
+L
+B 9
+L
+B 81
+L
+L
+B 6
+L
+B 10
+L
+B 73
+B 138
+L
+B 18
+L
+B 34
+L
+B 2
+L
+L
+B 138
+B 69
+L
+L
+B 18
+L
+B 69
+B 34
+L
+B 2
+L
+L
+B 34
+L
+B 2
+L
+B 25
+L
+B 81
+L
+B 65
+L
+L
+B 162
+B 41
+B 21
+B 70
+B 192
+L
+L
+B 74
+L
+B 66
+L
+B 26
+L
+B 14
+L
+L
+B 70
+B 69
+B 145
+L
+L
+B 5
+L
+B 26
+L
+B 133
+L
+L
+B 74
+B 69
+L
+B 5
+L
+B 22
+L
+L
+B 69
+B 22
+L
+B 26
+L
+B 82
+L
+L
+B 22
+B 192
+L
+B 65
+L
+L
+B 5
+L
+B 6
+L
+B 14
+L
+B 26
+L
+L
+B 69
+B 74
+B 137
+L
+B 145
+L
+B 129
+L
+B 22
+B 25
+L
+L
+B 25
+L
+B 9
+L
+L
+B 137
+B 22
+L
+B 26
+L
+B 10
+L
+L
+B 22
+B 145
+L
+B 129
+L
+B 25
+L
+B 9
+L
+B 49
+L
+L
+B 145
+B 26
+L
+B 10
+L
+L
+B 129
+L
+B 25
+B 26
+L
+B 10
+L
+L
+B 9
+L
+B 26
+L
+B 10
+L
+B 70
+L
+L
+B 73
+B 70
+B 21
+L
+B 33
+L
+B 5
+L
+L
+B 74
+B 21
+L
+B 5
+L
+L
+B 21
+B 26
+L
+B 10
+L
+L
+B 22
+B 33
+L
+L
+B 5
+L
+B 6
+L
+B 33
+L
+L
+B 97
+B 70
+B 21
+L
+B 137
+L
+B 9
+L
+L
+B 74
+B 21
+L
+B 137
+L
+L
+B 22
+B 137
+L
+B 9
+L
+L
+B 137
+L
+B 9
+L
+B 6
+L
+L
+B 33
+L
+B 65
+L
+B 21
+B 70
+B 193
+L
+B 137
+L
+B 9
+L
+L
+B 74
+B 193
+L
+B 137
+L
+L
+B 193
+L
+B 137
+L
+B 26
+L
+B 9
+L
+B 66
+L
+L
+B 5
+L
+B 74
+B 17
+L
+B 9
+L
+B 1
+L
+L
+B 17
+L
+B 70
+B 9
+L
+B 1
+L
+L
+B 9
+L
+B 1
+L
+B 26
+L
+B 82
+L
+B 66
+L
+L
+B 41
+B 70
+B 21
+B 138
+B 160
+L
+L
+B 146
+L
+B 130
+L
+B 160
+L
+B 26
+L
+B 42
+L
+B 50
+L
+L
+B 138
+B 160
+L
+B 69
+L
+B 5
+L
+L
+B 146
+B 69
+L
+B 5
+L
+B 133
+L
+L
+B 130
+L
+B 160
+L
+B 26
+B 192
+L
+L
+B 42
+L
+B 50
+L
+B 18
+L
+B 34
+L
+L
+B 74
+B 21
+B 160
+L
+B 38
+L
+B 6
+L
+L
+B 69
+B 160
+L
+B 134
+L
+L
+B 160
+L
+B 22
+B 192
+L
+L
+B 5
+L
+B 6
+L
+L
+B 98
+B 21
+B 138
+L
+B 146
+L
+B 130
+L
+B 26
+L
+L
+B 69
+B 138
+L
+B 22
+L
+B 145
+L
+L
+B 138
+B 5
+L
+L
+B 5
+L
+B 22
+L
+B 146
+L
+B 130
+L
+B 6
+L
+L
+B 66
+L
+B 21
+B 138
+B 38
+L
+B 34
+L
+L
+B 42
+B 192
+L
+B 160
+L
+L
+B 34
+L
+B 10
+L
+B 6
+L
+B 194
+L
+B 2
+L
+L
+B 138
+B 69
+B 22
+L
+L
+B 22
+L
+B 5
+L
+B 38
+L
+B 6
+L
+L
+B 22
+B 194
+L
+B 192
+L
+B 42
+B 69
+L
+L
+B 69
+L
+B 34
+L
+B 65
+L
+L
+B 42
+B 192
+L
+B 69
+L
+B 160
+L
+B 68
+L
+L
+B 34
+L
+B 6
+L
+B 18
+L
+B 10
+L
+B 2
+L
+B 69
+L
+B 5
+L
+B 133
+L
+L
+B 42
+B 69
+B 22
+B 137
+L
+B 145
+L
+B 129
+L
+B 160
+L
+B 25
+L
+B 49
+L
+L
+B 137
+B 160
+L
+B 70
+L
+L
+B 145
+B 70
+L
+B 6
+L
+L
+B 129
+L
+B 160
+L
+B 25
+L
+B 49
+L
+B 17
+L
+B 33
+L
+L
+B 73
+B 22
+B 160
+L
+B 192
+L
+L
+B 70
+B 21
+L
+B 160
+L
+L
+B 21
+B 160
+L
+L
+B 160
+L
+B 6
+L
+B 5
+L
+L
+B 97
+B 22
+B 137
+L
+B 9
+L
+L
+B 70
+B 137
+L
+B 21
+L
+L
+B 137
+B 6
+L
+L
+B 6
+L
+B 9
+L
+B 21
+L
+L
+B 65
+L
+B 22
+B 33
+L
+B 137
+L
+B 9
+L
+B 5
+L
+B 193
+L
+B 1
+L
+L
+B 33
+L
+B 21
+B 70
+B 193
+L
+B 137
+L
+L
+B 193
+L
+B 192
+L
+B 137
+L
+B 66
+L
+L
+B 5
+L
+B 17
+L
+B 70
+B 193
+L
+B 129
+L
+L
+B 193
+L
+B 129
+L
+B 1
+L
+B 6
+L
+B 134
+L
+L
+B 69
+B 74
+B 160
+L
+B 137
+B 22
+L
+L
+B 136
+L
+B 22
+B 40
+L
+L
+B 40
+L
+B 145
+L
+B 129
+L
+L
+B 98
+B 160
+L
+B 136
+L
+B 10
+L
+B 145
+L
+B 129
+L
+L
+B 34
+L
+B 138
+B 137
+B 104
+L
+L
+B 145
+L
+B 129
+L
+B 22
+L
+B 25
+L
+B 9
+L
+L
+B 10
+L
+B 194
+B 137
+L
+B 22
+L
+B 145
+L
+B 129
+L
+B 25
+L
+L
+B 130
+L
+B 22
+B 137
+L
+B 145
+L
+B 129
+L
+B 25
+L
+B 9
+L
+L
+B 6
+L
+B 18
+L
+B 137
+L
+B 145
+L
+B 129
+L
+B 25
+L
+B 9
+L
+L
+B 74
+B 73
+B 160
+L
+B 40
+L
+B 22
+B 136
+L
+L
+B 21
+B 136
+L
+L
+B 136
+L
+L
+B 97
+B 22
+B 160
+L
+L
+B 160
+L
+B 137
+L
+B 9
+L
+L
+B 33
+L
+B 65
+L
+B 21
+B 160
+L
+B 193
+L
+B 34
+L
+B 137
+L
+L
+B 5
+L
+B 17
+L
+B 34
+L
+B 193
+L
+B 1
+L
+B 38
+L
+L
+B 73
+B 98
+B 21
+B 138
+L
+B 10
+L
+L
+B 138
+L
+B 10
+L
+B 5
+L
+L
+B 34
+L
+B 70
+B 160
+L
+B 138
+L
+B 21
+L
+B 136
+L
+L
+B 66
+L
+B 22
+B 160
+L
+B 194
+L
+B 33
+L
+L
+B 6
+L
+B 18
+L
+B 194
+L
+B 33
+L
+B 2
+L
+L
+B 98
+B 97
+B 168
+L
+B 136
+L
+B 160
+L
+B 40
+L
+L
+B 33
+L
+B 65
+L
+B 21
+B 138
+B 193
+L
+L
+B 193
+L
+B 10
+L
+B 137
+L
+B 9
+L
+L
+B 5
+L
+B 17
+L
+B 138
+B 193
+L
+L
+B 193
+L
+B 1
+L
+B 10
+L
+L
+B 34
+L
+B 97
+B 70
+B 160
+L
+B 136
+L
+L
+B 66
+L
+B 22
+B 194
+L
+B 137
+L
+B 138
+L
+B 9
+L
+L
+B 6
+L
+B 18
+L
+B 137
+L
+B 194
+L
+B 2
+L
+L
+B 33
+L
+B 65
+L
+B 70
+B 21
+B 193
+L
+B 138
+L
+B 137
+L
+B 146
+L
+B 130
+L
+L
+B 17
+L
+B 5
+L
+B 138
+L
+B 193
+L
+B 146
+L
+B 1
+L
+L
+B 66
+L
+B 21
+B 138
+B 193
+L
+L
+B 10
+L
+B 194
+L
+B 193
+L
+B 130
+L
+B 2
+L
+B 137
+L
+L
+B 5
+L
+B 17
+L
+B 22
+B 194
+L
+B 193
+L
+B 138
+L
+B 137
+L
+B 9
+L
+L
+B 6
+L
+B 18
+L
+B 193
+L
+B 194
+L
+B 137
+L
+B 9
+L
+B 138
+L
+L
+B 196
+L
+B 208
+L
+B 192
+L
+B 216
+B 228
+B 41
+B 162
+B 21
+B 70
+L
+B 14
+L
+L
+B 70
+B 69
+L
+L
+B 22
+B 69
+L
+L
+B 69
+L
+B 68
+L
+B 5
+L
+L
+B 21
+B 70
+B 42
+L
+L
+B 42
+B 22
+L
+L
+B 34
+L
+B 66
+L
+B 14
+L
+L
+B 70
+B 42
+B 69
+L
+B 5
+L
+L
+B 34
+L
+B 138
+L
+B 130
+L
+L
+B 22
+B 42
+L
+B 69
+L
+B 34
+L
+B 66
+L
+L
+B 6
+L
+B 130
+L
+B 42
+L
+B 10
+L
+B 69
+L
+B 34
+L
+L
+B 42
+B 21
+B 70
+B 161
+L
+B 33
+L
+L
+B 161
+B 22
+L
+L
+B 22
+L
+B 33
+L
+B 6
+L
+L
+B 22
+B 161
+L
+B 69
+L
+B 33
+L
+B 65
+L
+L
+B 161
+B 69
+L
+B 70
+L
+B 68
+L
+L
+B 69
+B 33
+L
+B 137
+L
+B 129
+L
+L
+B 5
+L
+B 33
+L
+B 70
+L
+B 73
+L
+B 65
+L
+B 17
+L
+L
+B 21
+B 162
+B 70
+L
+B 14
+B 73
+L
+L
+B 73
+L
+B 9
+L
+B 6
+L
+L
+B 34
+L
+B 70
+B 161
+L
+B 33
+L
+L
+B 66
+L
+B 161
+B 10
+L
+L
+B 10
+L
+B 6
+L
+L
+B 162
+B 70
+B 13
+L
+B 9
+L
+B 5
+L
+L
+B 69
+B 22
+L
+B 161
+L
+B 137
+L
+B 9
+L
+L
+B 5
+L
+B 9
+L
+B 22
+L
+B 65
+L
+B 33
+L
+L
+B 22
+B 161
+B 69
+L
+B 34
+L
+B 5
+L
+L
+B 69
+B 33
+L
+B 34
+L
+L
+B 33
+L
+B 65
+L
+B 17
+L
+B 9
+L
+L
+B 161
+B 69
+B 34
+L
+B 18
+L
+L
+B 70
+B 138
+L
+B 10
+L
+L
+B 6
+L
+B 10
+L
+B 130
+L
+B 34
+L
+L
+B 69
+B 34
+L
+B 18
+L
+B 130
+L
+B 10
+L
+L
+B 34
+L
+B 33
+L
+B 70
+B 17
+L
+L
+B 5
+L
+B 6
+L
+B 73
+L
+B 9
+L
+B 65
+L
+L
+B 224
+L
+B 69
+B 162
+B 41
+B 22
+L
+L
+B 22
+L
+B 161
+L
+B 70
+L
+B 33
+L
+L
+B 42
+B 22
+B 161
+L
+B 160
+L
+B 132
+L
+L
+B 161
+B 70
+L
+B 134
+L
+B 6
+L
+L
+B 70
+B 160
+L
+L
+B 134
+L
+B 6
+L
+B 194
+L
+B 41
+L
+B 137
+L
+B 129
+L
+L
+B 22
+B 161
+B 98
+L
+B 34
+L
+B 74
+L
+L
+B 160
+L
+B 41
+B 98
+L
+L
+B 98
+L
+B 34
+L
+B 33
+L
+L
+B 161
+B 70
+L
+B 98
+L
+B 34
+L
+B 134
+L
+B 6
+L
+B 194
+L
+B 66
+L
+L
+B 70
+B 160
+L
+B 41
+L
+B 40
+L
+L
+B 98
+B 160
+L
+L
+B 34
+L
+B 41
+B 134
+L
+B 6
+L
+B 194
+L
+B 130
+L
+L
+B 134
+L
+B 6
+L
+B 194
+L
+B 130
+L
+B 10
+L
+B 18
+L
+L
+B 162
+B 41
+B 68
+L
+B 21
+B 70
+L
+B 74
+L
+L
+B 70
+B 133
+L
+L
+B 133
+L
+B 5
+L
+B 22
+L
+B 193
+L
+B 6
+L
+L
+B 21
+B 70
+B 97
+L
+B 161
+L
+B 33
+L
+L
+B 68
+L
+B 97
+L
+B 161
+L
+B 65
+L
+B 14
+L
+L
+B 70
+B 97
+L
+B 133
+L
+B 5
+L
+B 161
+L
+B 33
+L
+B 193
+L
+B 65
+L
+L
+B 68
+L
+B 97
+L
+B 133
+L
+B 5
+L
+B 161
+B 22
+L
+L
+B 33
+L
+B 193
+L
+B 65
+L
+B 22
+L
+B 9
+L
+L
+B 70
+B 161
+B 42
+L
+B 21
+L
+B 34
+L
+L
+B 41
+B 21
+B 160
+L
+L
+B 133
+L
+B 5
+L
+B 193
+L
+B 42
+L
+B 138
+L
+B 129
+L
+L
+B 21
+B 160
+L
+B 42
+L
+B 97
+L
+B 33
+L
+B 34
+L
+L
+B 97
+B 160
+L
+L
+B 33
+L
+B 42
+B 133
+L
+B 5
+L
+B 193
+L
+B 129
+L
+L
+B 133
+L
+B 5
+L
+B 193
+L
+B 129
+L
+B 9
+L
+B 17
+L
+L
+B 161
+B 68
+L
+B 42
+B 22
+L
+B 21
+L
+B 134
+L
+B 6
+L
+B 5
+L
+L
+B 22
+B 98
+L
+B 66
+L
+B 13
+L
+L
+B 98
+L
+B 34
+L
+B 6
+L
+B 194
+L
+B 66
+L
+B 21
+L
+B 10
+L
+L
+B 68
+L
+B 41
+B 21
+B 98
+L
+B 134
+L
+B 66
+L
+B 14
+L
+B 6
+L
+B 194
+L
+B 130
+L
+L
+B 98
+B 133
+L
+B 5
+L
+B 132
+L
+L
+B 134
+B 133
+L
+B 5
+L
+B 193
+L
+L
+B 22
+B 133
+L
+B 132
+L
+B 5
+L
+B 193
+L
+B 42
+L
+L
+B 6
+L
+B 133
+B 194
+L
+L
+B 132
+L
+B 194
+L
+B 66
+L
+B 5
+L
+B 193
+L
+B 130
+L
+L
+B 42
+B 21
+B 134
+L
+B 97
+L
+B 194
+L
+B 65
+L
+B 22
+L
+B 6
+L
+B 33
+L
+L
+B 22
+B 97
+L
+B 33
+L
+B 133
+L
+B 5
+L
+B 193
+L
+B 65
+L
+L
+B 97
+B 134
+L
+B 6
+L
+L
+B 33
+L
+B 134
+B 133
+L
+L
+B 133
+L
+B 5
+L
+B 193
+L
+B 65
+L
+B 6
+L
+B 194
+L
+B 129
+L
+L
+B 21
+B 98
+B 97
+L
+B 33
+L
+B 65
+L
+L
+B 34
+L
+B 134
+B 97
+L
+L
+B 97
+B 194
+L
+L
+B 194
+L
+B 66
+L
+B 130
+L
+B 10
+L
+B 14
+L
+B 65
+L
+L
+B 22
+B 97
+B 98
+L
+B 34
+L
+L
+B 33
+L
+B 98
+B 133
+L
+L
+B 133
+L
+B 5
+L
+B 193
+L
+B 65
+L
+B 9
+L
+B 129
+L
+L
+B 97
+B 98
+L
+B 34
+L
+B 134
+L
+B 6
+L
+B 194
+L
+B 66
+L
+L
+B 33
+L
+B 98
+B 133
+L
+B 5
+L
+B 193
+L
+B 65
+L
+L
+B 34
+L
+B 133
+B 134
+L
+B 6
+L
+B 194
+L
+L
+B 5
+L
+B 193
+L
+B 65
+L
+B 134
+L
+B 6
+L
+B 194
+L
+B 66
+L
+B 9
+L
+B 10
+L
+L
+B 200
+L
+B 228
+B 41
+B 162
+B 21
+B 70
+B 88
+L
+L
+B 88
+L
+B 80
+L
+B 82
+L
+B 74
+L
+B 72
+L
+L
+B 70
+B 81
+L
+B 145
+L
+B 17
+L
+B 193
+L
+B 80
+L
+L
+B 81
+B 22
+L
+B 74
+L
+B 82
+L
+L
+B 80
+L
+B 88
+L
+B 82
+L
+B 74
+L
+B 66
+L
+B 145
+L
+B 17
+L
+B 22
+L
+B 69
+L
+B 193
+L
+L
+B 21
+B 70
+B 138
+L
+B 146
+L
+B 130
+L
+B 152
+L
+B 144
+L
+B 136
+L
+L
+B 74
+B 146
+L
+B 144
+L
+L
+B 82
+B 138
+L
+B 152
+L
+L
+B 66
+L
+B 138
+B 80
+L
+L
+B 146
+L
+B 130
+L
+B 26
+L
+B 42
+L
+B 10
+L
+B 34
+L
+B 6
+L
+B 2
+L
+L
+B 70
+B 81
+B 138
+L
+B 136
+L
+L
+B 145
+B 138
+L
+B 146
+L
+L
+B 144
+L
+B 146
+L
+B 152
+L
+B 138
+L
+B 130
+L
+B 148
+L
+B 17
+L
+B 193
+L
+B 26
+L
+L
+B 74
+B 81
+L
+B 145
+L
+B 144
+L
+B 17
+L
+B 193
+L
+B 22
+L
+B 69
+L
+L
+B 81
+B 82
+L
+B 66
+L
+B 22
+L
+B 42
+L
+B 34
+L
+B 6
+L
+B 50
+L
+L
+B 82
+B 145
+L
+B 17
+L
+B 193
+L
+B 69
+L
+B 138
+L
+B 65
+L
+L
+B 66
+L
+B 22
+B 145
+L
+B 80
+L
+B 138
+L
+B 193
+L
+B 69
+L
+B 130
+L
+L
+B 80
+L
+B 145
+B 42
+L
+B 34
+L
+L
+B 42
+B 144
+L
+B 146
+L
+L
+B 34
+L
+B 6
+L
+B 193
+L
+B 50
+L
+B 18
+L
+B 17
+L
+B 69
+L
+L
+B 162
+B 21
+B 70
+B 73
+L
+B 137
+L
+B 9
+L
+B 88
+L
+B 72
+L
+L
+B 73
+B 74
+L
+B 82
+L
+B 66
+L
+L
+B 137
+B 80
+L
+L
+B 74
+B 9
+L
+B 65
+L
+L
+B 72
+L
+B 88
+L
+B 82
+L
+B 80
+L
+B 66
+L
+B 26
+L
+L
+B 70
+B 73
+L
+B 81
+L
+B 137
+L
+B 9
+L
+B 145
+L
+B 17
+L
+B 193
+L
+B 65
+L
+B 33
+L
+L
+B 73
+B 22
+B 145
+L
+B 74
+L
+L
+B 74
+L
+B 82
+L
+B 66
+L
+B 145
+L
+B 6
+L
+L
+B 81
+B 22
+B 137
+L
+L
+B 74
+L
+B 82
+L
+B 66
+L
+B 137
+L
+B 9
+L
+L
+B 137
+B 80
+L
+B 74
+L
+B 72
+L
+L
+B 9
+L
+B 69
+B 22
+L
+B 74
+L
+B 82
+L
+B 145
+L
+L
+B 5
+L
+B 65
+L
+B 22
+B 33
+L
+B 49
+L
+B 17
+L
+L
+B 74
+B 33
+L
+L
+B 33
+L
+B 82
+L
+B 49
+L
+B 17
+L
+B 193
+L
+B 1
+L
+L
+B 21
+B 42
+B 82
+B 73
+L
+B 137
+L
+B 161
+L
+B 129
+L
+L
+B 146
+B 73
+L
+B 137
+L
+B 161
+L
+B 129
+L
+L
+B 73
+B 70
+L
+B 194
+L
+B 22
+L
+L
+B 137
+B 70
+L
+B 194
+L
+L
+B 70
+B 161
+L
+B 129
+L
+L
+B 161
+B 194
+L
+B 22
+L
+L
+B 129
+L
+B 194
+L
+B 22
+B 9
+L
+L
+B 66
+L
+B 9
+L
+B 18
+L
+L
+B 70
+B 73
+B 138
+L
+B 146
+L
+L
+B 137
+B 138
+L
+L
+B 138
+B 161
+L
+B 129
+L
+L
+B 146
+B 161
+L
+L
+B 130
+L
+B 161
+L
+B 129
+L
+B 26
+L
+B 10
+L
+L
+B 74
+B 73
+L
+B 137
+L
+B 161
+L
+B 129
+L
+B 146
+L
+B 9
+L
+B 22
+L
+L
+B 82
+B 73
+L
+B 137
+L
+B 161
+L
+B 129
+L
+B 138
+L
+B 10
+L
+L
+B 66
+L
+B 34
+L
+B 73
+B 50
+L
+B 138
+L
+B 10
+L
+B 130
+L
+L
+B 137
+B 50
+L
+B 138
+L
+B 10
+L
+L
+B 50
+B 72
+L
+B 138
+L
+L
+B 138
+L
+B 10
+L
+B 161
+B 194
+L
+L
+B 129
+L
+B 194
+L
+B 130
+L
+B 6
+L
+L
+B 42
+B 161
+B 22
+B 69
+L
+B 88
+L
+B 80
+L
+B 81
+L
+L
+B 69
+B 82
+L
+B 146
+L
+L
+B 82
+L
+B 146
+L
+B 80
+L
+B 88
+L
+B 81
+L
+B 18
+L
+B 70
+L
+B 73
+L
+L
+B 22
+B 69
+B 137
+L
+B 145
+L
+B 129
+L
+B 152
+L
+B 144
+L
+L
+B 73
+B 145
+L
+L
+B 81
+L
+B 65
+L
+B 33
+L
+B 49
+L
+B 17
+L
+B 193
+L
+B 129
+L
+B 1
+L
+L
+B 69
+B 82
+L
+B 146
+L
+B 137
+L
+B 144
+L
+B 145
+L
+B 129
+L
+B 152
+L
+B 148
+L
+L
+B 73
+B 82
+L
+B 146
+L
+B 70
+L
+B 144
+L
+L
+B 82
+B 81
+L
+B 65
+L
+B 33
+L
+B 5
+L
+L
+B 81
+B 146
+L
+B 70
+L
+B 18
+L
+B 194
+L
+L
+B 65
+L
+B 146
+B 33
+L
+B 5
+L
+L
+B 33
+L
+B 80
+L
+B 5
+L
+B 49
+L
+B 17
+L
+B 194
+L
+B 18
+L
+L
+B 70
+B 161
+B 138
+B 80
+L
+L
+B 146
+L
+B 69
+B 144
+L
+L
+B 73
+L
+B 130
+L
+B 81
+L
+B 26
+L
+B 10
+L
+L
+B 73
+B 144
+L
+B 138
+L
+B 130
+L
+L
+B 81
+B 136
+L
+B 146
+L
+L
+B 137
+B 138
+L
+B 146
+L
+B 130
+L
+L
+B 9
+L
+B 138
+B 145
+L
+B 129
+L
+B 17
+L
+B 33
+L
+L
+B 145
+L
+B 129
+L
+B 17
+L
+B 33
+L
+B 146
+L
+B 5
+L
+B 130
+L
+B 193
+L
+L
+B 161
+B 22
+B 69
+B 74
+L
+L
+B 74
+L
+B 138
+L
+B 73
+L
+B 66
+L
+B 81
+L
+B 65
+L
+B 10
+L
+L
+B 69
+B 74
+L
+B 82
+L
+B 138
+L
+B 10
+L
+B 66
+L
+B 34
+L
+L
+B 74
+B 73
+L
+B 81
+L
+B 65
+L
+L
+B 82
+B 73
+L
+B 81
+L
+L
+B 66
+L
+B 34
+L
+B 50
+B 73
+L
+L
+B 18
+L
+B 73
+L
+B 81
+L
+B 65
+L
+B 194
+L
+B 26
+L
+B 10
+L
+L
+B 22
+B 69
+B 74
+L
+B 137
+L
+B 138
+L
+B 145
+L
+B 129
+L
+B 130
+L
+B 25
+L
+L
+B 73
+B 74
+L
+B 138
+L
+B 66
+L
+B 130
+L
+L
+B 81
+B 74
+L
+B 138
+L
+B 66
+L
+L
+B 65
+L
+B 33
+L
+B 74
+B 49
+L
+L
+B 138
+L
+B 49
+B 72
+L
+L
+B 17
+L
+B 66
+L
+B 193
+L
+B 129
+L
+B 9
+L
+L
+B 69
+B 74
+B 144
+L
+L
+B 82
+B 136
+L
+L
+B 138
+B 137
+L
+L
+B 10
+L
+B 66
+L
+B 34
+L
+B 137
+L
+B 6
+L
+B 145
+L
+B 129
+L
+B 50
+L
+L
+B 73
+B 74
+B 144
+L
+L
+B 82
+L
+B 66
+L
+B 34
+L
+B 50
+L
+B 18
+L
+B 194
+L
+B 130
+L
+L
+B 74
+B 81
+L
+B 65
+L
+B 33
+L
+B 49
+L
+B 17
+L
+B 193
+L
+B 129
+L
+L
+B 81
+B 82
+L
+B 66
+L
+B 34
+L
+B 50
+L
+B 18
+L
+B 194
+L
+L
+B 65
+L
+B 33
+L
+B 82
+B 49
+L
+B 17
+L
+B 193
+L
+L
+B 66
+L
+B 34
+L
+B 49
+B 50
+L
+B 18
+L
+B 137
+L
+L
+B 17
+L
+B 50
+B 138
+L
+L
+B 18
+L
+B 193
+L
+B 194
+L
+B 129
+L
+B 1
+L
+L
+B 224
+L
+B 69
+B 162
+B 88
+L
+B 104
+B 22
+L
+B 137
+L
+B 161
+L
+L
+B 72
+L
+B 112
+L
+B 80
+L
+B 96
+L
+L
+B 70
+B 160
+L
+B 164
+L
+B 136
+L
+B 140
+L
+B 144
+L
+B 148
+L
+B 128
+L
+L
+B 74
+B 160
+L
+B 144
+L
+B 136
+L
+B 140
+L
+B 132
+L
+L
+B 82
+B 160
+L
+B 136
+L
+B 144
+L
+B 148
+L
+B 132
+L
+L
+B 66
+L
+B 161
+B 22
+B 98
+L
+B 138
+L
+B 42
+B 88
+L
+L
+B 88
+L
+B 104
+L
+B 72
+L
+L
+B 42
+B 134
+L
+B 146
+L
+B 130
+L
+B 152
+L
+B 148
+L
+L
+B 134
+L
+B 138
+L
+B 130
+L
+B 6
+L
+B 10
+L
+B 18
+L
+B 34
+L
+L
+B 160
+L
+B 22
+B 168
+L
+B 136
+L
+B 140
+L
+B 132
+L
+B 128
+L
+L
+B 42
+B 152
+L
+B 148
+L
+B 144
+L
+B 140
+L
+B 136
+L
+B 132
+L
+L
+B 34
+L
+B 41
+B 134
+L
+B 6
+L
+B 130
+L
+B 18
+L
+B 145
+L
+L
+B 134
+L
+B 6
+L
+B 137
+B 130
+L
+L
+B 130
+L
+B 145
+L
+B 18
+L
+B 129
+L
+B 10
+L
+L
+B 162
+B 68
+L
+B 73
+B 70
+L
+B 84
+L
+B 100
+L
+B 112
+L
+B 80
+L
+B 96
+L
+L
+B 65
+L
+B 70
+B 21
+B 97
+L
+B 137
+L
+B 161
+L
+B 41
+L
+B 88
+L
+B 104
+L
+B 72
+L
+L
+B 41
+B 81
+L
+B 133
+L
+B 145
+L
+B 80
+L
+L
+B 133
+L
+B 137
+L
+B 145
+L
+B 129
+L
+B 5
+L
+B 9
+L
+B 17
+L
+L
+B 21
+B 72
+L
+B 88
+L
+B 104
+L
+B 64
+L
+B 80
+L
+B 96
+L
+L
+B 41
+B 72
+L
+B 84
+L
+B 80
+L
+B 64
+L
+B 112
+L
+B 96
+L
+L
+B 76
+L
+B 72
+L
+B 100
+L
+B 104
+B 5
+L
+L
+B 64
+L
+B 96
+L
+B 84
+L
+B 80
+L
+B 112
+L
+L
+B 70
+B 161
+B 21
+B 42
+L
+B 88
+L
+B 104
+L
+B 72
+L
+L
+B 42
+B 73
+L
+B 81
+L
+B 152
+L
+B 148
+L
+L
+B 88
+L
+B 104
+L
+B 72
+L
+B 112
+L
+B 80
+L
+L
+B 160
+L
+B 73
+B 144
+L
+B 136
+L
+B 140
+L
+B 132
+L
+L
+B 81
+B 136
+L
+B 144
+L
+B 148
+L
+B 132
+L
+L
+B 65
+L
+B 21
+B 168
+L
+B 136
+L
+B 140
+L
+B 132
+L
+B 128
+L
+L
+B 41
+B 152
+L
+B 148
+L
+B 144
+L
+B 140
+L
+B 136
+L
+B 132
+L
+L
+B 33
+L
+B 42
+B 133
+L
+B 5
+L
+B 129
+L
+B 17
+L
+B 146
+L
+L
+B 133
+L
+B 5
+L
+B 138
+B 129
+L
+L
+B 129
+L
+B 146
+L
+B 17
+L
+B 130
+L
+B 9
+L
+L
+B 161
+B 68
+L
+B 74
+B 21
+B 134
+L
+L
+B 84
+L
+B 100
+L
+B 112
+L
+B 80
+L
+L
+B 66
+L
+B 22
+B 72
+L
+B 88
+L
+B 104
+L
+B 64
+L
+B 80
+L
+B 96
+L
+L
+B 42
+B 72
+L
+B 84
+L
+B 80
+L
+B 64
+L
+B 112
+L
+L
+B 76
+L
+B 72
+L
+B 100
+L
+B 104
+B 6
+L
+L
+B 64
+L
+B 96
+L
+B 84
+L
+B 80
+L
+L
+B 68
+L
+B 160
+L
+B 73
+B 74
+B 140
+L
+B 132
+L
+B 144
+L
+B 152
+L
+L
+B 66
+L
+B 22
+B 98
+L
+B 138
+L
+B 42
+B 164
+L
+B 168
+L
+B 136
+L
+L
+B 164
+L
+B 168
+L
+B 136
+L
+B 132
+L
+L
+B 42
+B 148
+L
+B 140
+L
+B 132
+L
+B 144
+L
+B 152
+L
+L
+B 34
+L
+B 21
+B 134
+L
+B 130
+L
+B 6
+L
+L
+B 134
+L
+B 6
+L
+B 130
+L
+B 133
+L
+B 10
+L
+B 145
+L
+L
+B 74
+B 65
+L
+B 21
+B 97
+L
+B 137
+L
+B 41
+B 164
+L
+B 168
+L
+B 136
+L
+L
+B 164
+L
+B 168
+L
+B 136
+L
+B 132
+L
+L
+B 41
+B 148
+L
+B 140
+L
+B 132
+L
+B 144
+L
+B 152
+L
+L
+B 33
+L
+B 22
+B 133
+L
+B 129
+L
+B 5
+L
+L
+B 133
+L
+B 5
+L
+B 129
+L
+B 134
+L
+B 9
+L
+B 146
+L
+L
+B 65
+L
+B 66
+L
+B 21
+B 72
+L
+B 104
+B 129
+L
+B 128
+L
+L
+B 64
+L
+B 96
+L
+B 88
+L
+B 112
+L
+B 80
+L
+B 120
+L
+B 76
+L
+B 84
+L
+L
+B 41
+B 84
+L
+B 64
+L
+B 80
+L
+B 81
+L
+B 22
+B 98
+L
+B 72
+L
+B 96
+L
+L
+B 100
+L
+B 112
+L
+B 96
+L
+B 116
+L
+B 72
+L
+L
+B 22
+B 98
+B 33
+L
+B 133
+L
+B 129
+L
+L
+B 64
+L
+B 72
+L
+B 96
+L
+B 104
+L
+B 88
+L
+B 112
+L
+B 80
+L
+B 120
+L
+L
+B 42
+B 82
+B 133
+L
+B 129
+L
+L
+B 64
+L
+B 80
+L
+B 84
+L
+B 100
+L
+B 112
+L
+B 96
+L
+B 116
+L
+B 72
+L
+L
+B 33
+L
+B 34
+L
+B 133
+B 134
+L
+B 6
+L
+L
+B 134
+B 5
+L
+L
+B 5
+L
+B 6
+L
+B 137
+L
+B 129
+L
+B 138
+L
+B 130
+L
+B 37
+B 81
+L
+B 145
+L
+L
+B 38
+B 82
+L
+L
+B 9
+L
+B 1
+L
+L
+B 92
+B 228
+B 184
+B 21
+B 42
+B 73
+B 146
+B 70
+B 161
+L
+B 33
+L
+L
+B 161
+B 6
+L
+L
+B 6
+L
+B 33
+L
+L
+B 70
+B 161
+B 18
+L
+B 130
+L
+L
+B 130
+L
+B 162
+L
+B 18
+L
+L
+B 22
+B 161
+B 194
+L
+L
+B 194
+L
+B 66
+L
+L
+B 6
+L
+B 134
+B 161
+L
+L
+B 130
+L
+B 82
+L
+B 66
+L
+L
+B 146
+B 161
+B 70
+B 9
+L
+B 65
+L
+L
+B 65
+L
+B 69
+L
+B 9
+L
+L
+B 41
+B 70
+B 193
+L
+L
+B 193
+L
+B 129
+L
+L
+B 33
+L
+B 70
+B 97
+L
+B 137
+L
+L
+B 97
+L
+B 65
+L
+B 137
+L
+L
+B 70
+B 161
+B 9
+L
+B 18
+L
+B 65
+L
+L
+B 41
+B 193
+B 130
+L
+L
+B 129
+L
+B 130
+L
+L
+B 33
+L
+B 97
+B 137
+L
+L
+B 137
+L
+B 9
+L
+B 193
+L
+B 129
+L
+L
+B 161
+B 22
+B 194
+B 65
+L
+L
+B 66
+L
+B 65
+L
+L
+B 6
+L
+B 134
+B 82
+L
+L
+B 82
+L
+B 18
+L
+B 194
+L
+B 66
+L
+L
+B 22
+B 41
+B 193
+L
+B 194
+L
+B 66
+L
+L
+B 33
+L
+B 97
+L
+B 65
+L
+B 137
+L
+L
+B 41
+B 6
+L
+B 134
+L
+B 130
+L
+B 82
+L
+L
+B 6
+L
+B 33
+L
+B 97
+B 134
+L
+L
+B 134
+L
+B 65
+L
+B 137
+L
+L
+B 34
+B 73
+L
+B 41
+L
+L
+B 162
+B 41
+B 70
+B 26
+L
+B 193
+L
+B 10
+L
+L
+B 26
+B 193
+L
+B 6
+L
+L
+B 74
+B 22
+L
+B 193
+L
+L
+B 66
+L
+B 10
+L
+B 193
+L
+L
+B 70
+B 73
+B 26
+L
+B 10
+L
+L
+B 9
+L
+B 97
+L
+B 193
+L
+B 65
+L
+B 26
+L
+L
+B 73
+B 26
+B 6
+L
+L
+B 10
+L
+B 74
+L
+B 66
+L
+L
+B 9
+L
+B 97
+B 26
+L
+B 10
+L
+B 74
+L
+L
+B 193
+B 26
+L
+B 10
+L
+L
+B 65
+L
+B 26
+B 33
+L
+L
+B 10
+L
+B 74
+L
+B 66
+L
+L
+B 41
+B 70
+B 146
+B 193
+L
+B 129
+L
+L
+B 130
+L
+B 138
+L
+B 50
+L
+B 193
+L
+B 26
+L
+L
+B 66
+L
+B 98
+B 134
+L
+B 130
+L
+B 6
+L
+L
+B 6
+L
+B 14
+B 82
+L
+L
+B 2
+L
+B 193
+B 69
+L
+L
+B 65
+L
+B 129
+L
+L
+B 70
+B 73
+B 146
+B 161
+L
+B 33
+L
+L
+B 130
+L
+B 138
+L
+B 50
+L
+B 10
+L
+L
+B 9
+L
+B 97
+B 146
+L
+B 130
+L
+B 138
+L
+L
+B 146
+B 161
+L
+B 33
+L
+L
+B 130
+L
+B 193
+L
+B 65
+L
+B 161
+L
+B 33
+L
+L
+B 73
+B 66
+L
+B 98
+B 134
+L
+B 130
+L
+L
+B 6
+L
+B 14
+L
+B 10
+L
+B 161
+L
+B 33
+L
+L
+B 66
+L
+B 98
+B 134
+B 9
+L
+L
+B 9
+L
+B 97
+L
+B 161
+L
+B 33
+L
+L
+B 6
+L
+B 14
+B 82
+L
+B 9
+L
+B 97
+L
+L
+B 10
+L
+B 9
+L
+B 97
+B 137
+L
+L
+B 193
+L
+B 65
+L
+B 161
+L
+B 33
+L
+L
+B 42
+B 5
+B 146
+L
+B 22
+L
+L
+B 69
+B 22
+B 161
+B 25
+L
+B 194
+L
+B 17
+L
+L
+B 25
+B 194
+L
+B 33
+L
+L
+B 137
+B 49
+L
+B 194
+L
+L
+B 129
+L
+B 145
+L
+B 17
+L
+L
+B 161
+B 146
+B 25
+L
+B 17
+L
+L
+B 18
+L
+B 134
+L
+B 194
+L
+B 130
+L
+B 25
+L
+L
+B 146
+B 25
+B 33
+L
+L
+B 17
+L
+B 145
+L
+B 129
+L
+L
+B 18
+L
+B 134
+B 25
+L
+B 17
+L
+B 145
+L
+L
+B 194
+B 25
+L
+B 17
+L
+L
+B 130
+L
+B 25
+B 6
+L
+L
+B 17
+L
+B 145
+L
+B 129
+L
+L
+B 22
+B 161
+B 73
+B 194
+L
+B 66
+L
+L
+B 65
+L
+B 81
+L
+B 13
+L
+B 194
+L
+B 25
+L
+L
+B 73
+B 133
+B 194
+L
+B 49
+L
+L
+B 49
+B 194
+L
+L
+B 33
+L
+B 194
+L
+B 145
+L
+L
+B 65
+L
+B 129
+L
+B 133
+B 97
+L
+L
+B 33
+L
+B 194
+B 70
+L
+L
+B 66
+L
+B 130
+L
+L
+B 161
+B 146
+B 73
+B 70
+L
+B 6
+L
+L
+B 65
+L
+B 81
+L
+B 13
+L
+B 17
+L
+L
+B 18
+L
+B 70
+B 73
+L
+B 13
+L
+B 81
+L
+B 65
+L
+L
+B 73
+B 134
+L
+B 6
+L
+L
+B 134
+B 65
+L
+L
+B 6
+L
+B 13
+L
+B 81
+L
+B 65
+L
+L
+B 146
+B 73
+B 133
+B 70
+L
+L
+B 49
+L
+B 33
+L
+B 70
+L
+L
+B 65
+L
+B 129
+L
+B 133
+L
+B 33
+L
+B 70
+L
+B 6
+L
+L
+B 73
+B 18
+L
+B 70
+B 133
+L
+B 49
+L
+B 33
+L
+L
+B 134
+B 133
+L
+B 49
+L
+L
+B 6
+L
+B 133
+L
+B 49
+L
+B 33
+L
+L
+B 65
+L
+B 129
+L
+B 133
+B 97
+L
+B 18
+L
+B 134
+L
+L
+B 33
+L
+B 18
+L
+B 134
+B 82
+L
+L
+B 194
+L
+B 130
+L
+B 70
+L
+B 6
+L
+L
+B 22
+B 41
+B 74
+B 145
+B 69
+L
+B 162
+L
+B 5
+L
+L
+B 69
+B 162
+B 17
+L
+L
+B 17
+L
+L
+B 5
+L
+B 133
+L
+B 129
+L
+B 81
+L
+L
+B 145
+B 162
+B 69
+B 10
+L
+L
+B 10
+L
+L
+B 34
+L
+B 98
+L
+B 66
+L
+B 138
+L
+L
+B 69
+B 162
+B 10
+L
+B 17
+L
+L
+B 34
+L
+B 98
+L
+B 138
+L
+B 10
+L
+B 194
+L
+L
+B 162
+B 5
+L
+B 133
+L
+B 81
+L
+B 17
+L
+B 193
+L
+L
+B 5
+L
+B 34
+L
+B 98
+B 133
+L
+L
+B 133
+L
+B 66
+L
+B 138
+L
+L
+B 69
+B 161
+B 74
+B 25
+L
+B 9
+L
+L
+B 10
+L
+B 98
+B 25
+L
+L
+B 194
+L
+B 66
+L
+B 25
+L
+B 34
+L
+L
+B 74
+B 33
+L
+B 145
+B 162
+L
+L
+B 129
+L
+B 137
+L
+B 49
+L
+L
+B 33
+L
+B 10
+L
+B 98
+B 145
+L
+B 129
+L
+L
+B 162
+B 145
+L
+B 25
+L
+L
+B 34
+L
+B 145
+L
+B 194
+L
+B 66
+L
+L
+B 5
+L
+B 74
+B 161
+B 73
+B 162
+L
+L
+B 65
+L
+B 9
+L
+L
+B 33
+L
+B 37
+B 193
+L
+B 65
+L
+L
+B 9
+L
+B 1
+L
+B 162
+L
+B 34
+L
+L
+B 161
+B 10
+L
+B 98
+B 73
+L
+B 65
+L
+L
+B 194
+B 73
+L
+B 65
+L
+L
+B 66
+L
+B 73
+L
+B 65
+L
+B 9
+L
+L
+B 33
+L
+B 37
+B 193
+B 10
+L
+L
+B 10
+L
+B 98
+L
+B 162
+L
+B 34
+L
+L
+B 9
+L
+B 1
+L
+B 10
+L
+B 98
+B 138
+L
+L
+B 194
+L
+B 66
+L
+B 162
+L
+B 34
+L
+L
+B 41
+B 70
+B 162
+B 145
+B 26
+L
+B 18
+L
+L
+B 17
+L
+B 133
+B 26
+L
+L
+B 193
+L
+B 129
+L
+B 26
+L
+B 5
+L
+L
+B 145
+B 34
+L
+B 146
+B 69
+L
+L
+B 130
+L
+B 18
+L
+L
+B 17
+L
+B 133
+B 34
+L
+B 146
+L
+B 130
+L
+L
+B 34
+L
+B 193
+B 146
+L
+B 130
+L
+L
+B 129
+L
+B 146
+L
+B 130
+L
+B 18
+L
+L
+B 6
+L
+B 145
+B 162
+B 74
+B 69
+L
+L
+B 66
+L
+B 82
+L
+B 14
+L
+L
+B 34
+L
+B 38
+B 194
+L
+B 66
+L
+L
+B 18
+L
+B 2
+L
+B 69
+L
+B 5
+L
+L
+B 162
+B 17
+L
+B 69
+B 74
+L
+B 14
+L
+B 10
+L
+L
+B 133
+B 74
+L
+B 66
+L
+L
+B 5
+L
+B 74
+L
+B 193
+L
+B 129
+L
+L
+B 34
+L
+B 38
+B 194
+B 17
+L
+L
+B 17
+L
+B 69
+L
+B 133
+L
+B 5
+L
+L
+B 18
+L
+B 2
+L
+B 17
+L
+B 133
+B 81
+L
+L
+B 193
+L
+B 129
+L
+B 69
+L
+B 5
+L
+L
+B 69
+B 161
+B 74
+B 146
+B 25
+L
+B 38
+L
+B 9
+L
+L
+B 18
+L
+B 134
+B 25
+L
+L
+B 25
+L
+B 38
+L
+B 6
+L
+B 34
+L
+L
+B 10
+L
+B 6
+L
+B 34
+L
+B 18
+L
+B 2
+L
+B 25
+L
+B 9
+L
+L
+B 74
+B 33
+L
+B 146
+B 145
+B 38
+L
+B 34
+L
+L
+B 129
+L
+B 17
+L
+B 25
+L
+L
+B 18
+L
+B 134
+B 145
+L
+B 129
+L
+L
+B 145
+B 162
+L
+B 34
+L
+L
+B 129
+L
+B 38
+L
+B 6
+L
+B 34
+L
+L
+B 10
+L
+B 162
+B 145
+B 14
+B 82
+L
+L
+B 82
+L
+B 18
+L
+B 26
+L
+L
+B 14
+B 17
+L
+B 25
+L
+B 82
+L
+L
+B 17
+L
+B 25
+B 82
+L
+L
+B 82
+L
+B 18
+L
+B 9
+L
+L
+B 34
+L
+B 6
+L
+B 130
+L
+B 145
+B 33
+L
+B 9
+L
+L
+B 25
+B 33
+L
+L
+B 17
+L
+B 33
+L
+B 49
+L
+L
+B 5
+L
+B 162
+B 70
+B 73
+B 26
+B 133
+L
+L
+B 133
+L
+B 145
+L
+B 49
+L
+B 17
+L
+L
+B 9
+L
+B 33
+L
+B 65
+L
+B 26
+L
+B 10
+L
+L
+B 73
+B 6
+L
+B 74
+B 133
+L
+B 145
+L
+B 49
+L
+L
+B 133
+B 10
+L
+L
+B 145
+B 10
+L
+L
+B 10
+L
+B 14
+L
+B 49
+L
+L
+B 9
+L
+B 33
+L
+B 65
+L
+B 74
+B 6
+L
+B 18
+L
+L
+B 6
+L
+B 10
+L
+B 14
+L
+B 26
+L
+L
+B 34
+L
+B 6
+L
+B 33
+L
+B 70
+B 161
+B 73
+L
+B 146
+L
+B 9
+L
+L
+B 37
+B 193
+L
+B 146
+L
+L
+B 9
+L
+B 1
+L
+B 146
+L
+B 130
+L
+L
+B 161
+B 38
+B 194
+L
+B 73
+L
+L
+B 10
+L
+B 2
+L
+B 73
+L
+B 65
+L
+L
+B 37
+B 38
+L
+B 10
+L
+B 2
+L
+B 193
+L
+L
+B 38
+B 9
+L
+B 1
+L
+B 194
+L
+L
+B 9
+L
+B 1
+L
+B 10
+L
+B 2
+L
+B 28
+L
+B 20
+L
+L
+B 56
+L
+B 41
+B 162
+B 21
+B 70
+B 26
+B 193
+L
+L
+B 152
+L
+B 24
+L
+B 193
+L
+L
+B 26
+B 193
+B 6
+L
+L
+B 6
+L
+B 66
+L
+L
+B 74
+B 22
+L
+B 193
+L
+B 6
+L
+L
+B 66
+L
+B 82
+B 193
+L
+L
+B 193
+B 14
+L
+L
+B 14
+L
+B 10
+L
+L
+B 70
+B 145
+B 26
+L
+B 24
+L
+L
+B 17
+L
+B 133
+B 26
+L
+B 24
+L
+L
+B 26
+B 193
+L
+L
+B 193
+L
+B 129
+L
+B 5
+L
+L
+B 145
+B 22
+B 74
+L
+B 69
+L
+B 66
+L
+L
+B 6
+L
+B 74
+L
+B 66
+L
+B 82
+L
+L
+B 22
+B 69
+B 74
+L
+B 152
+L
+L
+B 74
+B 81
+L
+B 17
+L
+L
+B 81
+B 133
+L
+L
+B 17
+L
+B 133
+L
+B 5
+L
+L
+B 6
+L
+B 17
+L
+B 69
+B 74
+L
+B 14
+L
+B 82
+L
+L
+B 133
+B 74
+L
+L
+B 5
+L
+B 74
+L
+B 193
+L
+L
+B 42
+B 152
+L
+B 144
+L
+B 176
+L
+B 21
+B 70
+L
+B 130
+L
+L
+B 20
+L
+B 22
+L
+B 48
+L
+B 52
+L
+L
+B 50
+B 21
+B 138
+B 70
+L
+B 193
+L
+L
+B 70
+B 152
+L
+B 193
+L
+L
+B 130
+L
+B 134
+L
+B 14
+L
+B 6
+L
+L
+B 145
+B 138
+B 69
+L
+L
+B 70
+B 130
+L
+L
+B 130
+L
+B 134
+L
+B 6
+L
+L
+B 138
+B 17
+L
+B 69
+L
+B 5
+L
+L
+B 17
+L
+B 69
+B 130
+L
+B 134
+L
+L
+B 5
+L
+B 130
+L
+B 133
+L
+B 70
+L
+L
+B 34
+L
+B 22
+B 145
+B 74
+L
+B 138
+L
+B 10
+L
+B 98
+L
+B 69
+L
+B 194
+L
+L
+B 74
+B 69
+L
+B 21
+L
+B 5
+L
+L
+B 69
+B 138
+L
+B 10
+L
+B 98
+L
+B 194
+L
+B 130
+L
+L
+B 138
+B 21
+L
+L
+B 10
+L
+B 21
+B 98
+L
+B 194
+L
+L
+B 98
+L
+B 5
+L
+B 133
+L
+B 194
+L
+L
+B 21
+B 138
+B 70
+L
+B 6
+L
+L
+B 146
+B 70
+L
+B 6
+L
+L
+B 130
+L
+B 26
+L
+B 18
+L
+B 70
+B 193
+L
+B 10
+L
+L
+B 6
+L
+B 2
+L
+B 193
+L
+B 65
+L
+L
+B 138
+B 145
+B 70
+L
+B 6
+L
+L
+B 69
+B 82
+L
+B 18
+L
+L
+B 5
+L
+B 17
+L
+B 133
+L
+L
+B 146
+B 145
+B 70
+L
+L
+B 69
+B 74
+L
+L
+B 5
+L
+B 17
+L
+L
+B 18
+L
+B 130
+L
+B 6
+L
+B 70
+B 145
+L
+B 26
+L
+B 17
+L
+L
+B 66
+L
+B 2
+L
+B 145
+B 69
+L
+L
+B 17
+L
+B 133
+L
+B 193
+L
+B 129
+L
+L
+B 42
+B 161
+B 22
+B 69
+B 25
+L
+B 152
+L
+B 24
+L
+L
+B 25
+B 194
+B 5
+L
+L
+B 5
+L
+B 65
+L
+L
+B 73
+B 21
+L
+B 194
+L
+B 152
+L
+L
+B 9
+L
+B 65
+L
+B 194
+L
+B 81
+L
+L
+B 69
+B 146
+B 25
+L
+B 24
+L
+L
+B 18
+L
+B 134
+B 25
+L
+L
+B 194
+L
+B 130
+L
+B 25
+L
+B 6
+L
+L
+B 146
+B 21
+B 73
+L
+B 70
+L
+L
+B 5
+L
+B 73
+L
+B 65
+L
+L
+B 21
+B 70
+B 73
+L
+B 152
+L
+L
+B 73
+B 82
+L
+L
+B 82
+L
+B 18
+L
+B 134
+L
+B 6
+L
+L
+B 5
+L
+B 18
+L
+B 70
+B 73
+L
+B 152
+L
+L
+B 134
+L
+B 6
+L
+B 73
+L
+L
+B 49
+B 22
+B 137
+B 69
+L
+B 194
+L
+L
+B 69
+B 152
+L
+B 194
+L
+L
+B 129
+L
+B 133
+L
+B 13
+L
+B 5
+L
+L
+B 146
+B 137
+B 69
+L
+L
+B 69
+B 129
+L
+L
+B 129
+L
+B 133
+L
+B 5
+L
+L
+B 137
+B 18
+L
+B 70
+L
+B 6
+L
+L
+B 18
+L
+B 70
+B 129
+L
+B 133
+L
+L
+B 6
+L
+B 129
+L
+B 134
+L
+B 69
+L
+L
+B 33
+L
+B 21
+B 146
+B 73
+L
+B 137
+L
+B 9
+L
+B 97
+L
+B 70
+L
+B 193
+L
+L
+B 73
+B 70
+L
+B 22
+L
+B 6
+L
+L
+B 70
+B 137
+L
+B 9
+L
+B 97
+L
+B 193
+L
+B 129
+L
+L
+B 137
+B 22
+L
+L
+B 9
+L
+B 22
+B 97
+L
+B 193
+L
+L
+B 97
+L
+B 6
+L
+B 134
+L
+B 193
+L
+L
+B 22
+B 137
+B 69
+L
+B 5
+L
+L
+B 145
+B 69
+L
+B 5
+L
+L
+B 129
+L
+B 25
+L
+B 17
+L
+B 69
+B 194
+L
+B 9
+L
+L
+B 5
+L
+B 1
+L
+B 194
+L
+B 66
+L
+L
+B 137
+B 146
+B 69
+L
+B 5
+L
+L
+B 70
+B 81
+L
+B 17
+L
+L
+B 6
+L
+B 18
+L
+B 134
+L
+L
+B 145
+B 146
+B 69
+L
+L
+B 70
+B 73
+L
+L
+B 6
+L
+B 18
+L
+L
+B 17
+L
+B 129
+L
+B 5
+L
+B 69
+B 146
+L
+B 25
+L
+B 18
+L
+L
+B 65
+L
+B 1
+L
+B 146
+B 70
+L
+L
+B 18
+L
+B 134
+L
+B 194
+L
+B 130
+L
+L
+B 161
+B 50
+B 69
+B 138
+B 25
+L
+B 40
+L
+L
+B 152
+L
+B 10
+L
+B 134
+L
+B 194
+L
+B 130
+L
+B 25
+L
+L
+B 138
+B 21
+B 73
+L
+B 70
+L
+L
+B 5
+L
+B 73
+L
+B 65
+L
+B 9
+L
+L
+B 21
+B 10
+L
+B 70
+B 73
+L
+L
+B 134
+L
+B 6
+L
+L
+B 5
+L
+B 10
+L
+B 70
+B 152
+L
+B 73
+L
+L
+B 134
+B 73
+L
+L
+B 6
+L
+B 73
+L
+B 194
+L
+L
+B 138
+B 69
+B 22
+B 25
+L
+B 40
+L
+L
+B 18
+L
+B 25
+L
+B 98
+L
+B 34
+L
+B 6
+L
+L
+B 21
+B 70
+B 73
+L
+B 40
+L
+L
+B 73
+B 34
+L
+L
+B 34
+L
+B 22
+L
+B 6
+L
+L
+B 22
+B 5
+L
+B 73
+L
+B 65
+L
+L
+B 5
+L
+B 70
+B 73
+L
+B 9
+L
+L
+B 73
+B 6
+L
+L
+B 6
+L
+B 9
+L
+B 13
+L
+L
+B 146
+B 69
+B 40
+L
+B 25
+L
+B 10
+L
+B 98
+L
+L
+B 21
+B 40
+L
+B 14
+L
+B 10
+L
+B 38
+L
+L
+B 40
+L
+B 5
+L
+B 70
+B 73
+L
+L
+B 73
+L
+B 9
+L
+L
+B 22
+B 69
+B 74
+B 25
+L
+L
+B 10
+L
+B 40
+L
+B 98
+L
+B 34
+L
+L
+B 74
+B 25
+L
+B 9
+L
+B 73
+L
+L
+B 10
+L
+B 40
+L
+B 98
+L
+B 34
+L
+B 25
+L
+B 162
+L
+B 73
+L
+B 9
+L
+L
+B 18
+L
+B 69
+B 162
+B 152
+L
+B 24
+L
+B 40
+L
+L
+B 34
+L
+B 26
+B 25
+L
+L
+B 10
+L
+B 6
+L
+B 2
+L
+B 25
+L
+B 9
+L
+L
+B 162
+B 152
+L
+B 24
+L
+B 21
+L
+B 70
+L
+B 40
+L
+B 20
+L
+L
+B 34
+L
+B 6
+L
+B 70
+B 21
+B 26
+L
+B 10
+L
+L
+B 26
+L
+B 10
+L
+B 73
+L
+B 25
+L
+L
+B 26
+B 21
+L
+B 5
+L
+L
+B 10
+L
+B 2
+L
+B 21
+B 73
+L
+L
+B 73
+B 5
+L
+L
+B 5
+L
+B 9
+L
+L
+B 162
+B 49
+B 70
+B 137
+B 26
+L
+B 40
+L
+L
+B 152
+L
+B 9
+L
+B 133
+L
+B 129
+L
+L
+B 22
+B 137
+B 74
+L
+L
+B 69
+B 74
+L
+B 152
+L
+L
+B 9
+L
+B 74
+L
+B 133
+L
+L
+B 137
+B 6
+L
+B 74
+L
+B 66
+L
+L
+B 6
+L
+B 9
+L
+B 69
+B 152
+L
+L
+B 133
+L
+B 5
+L
+B 74
+L
+L
+B 33
+L
+B 21
+B 70
+B 73
+L
+B 137
+L
+B 9
+L
+B 40
+L
+B 97
+L
+L
+B 73
+B 26
+L
+B 74
+L
+B 10
+L
+L
+B 137
+B 26
+L
+B 74
+L
+L
+B 9
+L
+B 40
+L
+B 97
+L
+B 26
+L
+B 74
+L
+B 10
+L
+L
+B 70
+B 137
+B 26
+L
+B 17
+L
+L
+B 145
+B 40
+L
+L
+B 17
+L
+B 25
+B 26
+L
+L
+B 9
+L
+B 5
+L
+B 1
+L
+B 26
+L
+B 10
+L
+L
+B 137
+B 22
+B 69
+L
+B 74
+L
+L
+B 6
+L
+B 69
+L
+B 5
+L
+B 74
+L
+L
+B 145
+B 22
+B 40
+L
+L
+B 6
+L
+B 40
+L
+L
+B 17
+L
+B 5
+L
+B 69
+B 22
+B 25
+L
+B 9
+L
+L
+B 25
+L
+B 9
+L
+B 74
+L
+B 26
+L
+L
+B 25
+B 22
+L
+B 6
+L
+L
+B 9
+L
+B 1
+L
+B 22
+B 74
+L
+L
+B 74
+B 6
+L
+L
+B 6
+L
+B 10
+L
+L
+B 49
+B 50
+B 152
+L
+B 136
+L
+B 168
+L
+B 40
+L
+B 44
+L
+B 8
+L
+L
+B 34
+L
+B 22
+B 137
+B 74
+L
+B 138
+L
+B 10
+L
+B 98
+L
+B 69
+L
+L
+B 74
+B 69
+L
+B 9
+L
+L
+B 138
+B 69
+L
+L
+B 10
+L
+B 69
+B 98
+L
+B 168
+L
+B 40
+L
+L
+B 98
+L
+B 9
+L
+B 133
+L
+B 5
+L
+L
+B 138
+B 137
+B 70
+L
+B 6
+L
+L
+B 69
+B 18
+L
+L
+B 70
+B 9
+L
+L
+B 6
+L
+B 9
+L
+L
+B 146
+B 137
+B 70
+L
+L
+B 69
+B 40
+L
+L
+B 9
+L
+B 5
+L
+L
+B 18
+L
+B 130
+L
+B 6
+L
+B 70
+B 137
+L
+B 26
+L
+B 9
+L
+L
+B 66
+L
+B 2
+L
+B 137
+B 69
+L
+L
+B 9
+L
+B 133
+L
+B 129
+L
+L
+B 33
+L
+B 50
+B 21
+B 138
+B 73
+L
+B 137
+L
+B 9
+L
+B 97
+L
+B 70
+L
+L
+B 73
+B 70
+L
+B 10
+L
+L
+B 137
+B 70
+L
+L
+B 9
+L
+B 70
+B 97
+L
+B 168
+L
+B 40
+L
+L
+B 97
+L
+B 10
+L
+B 134
+L
+B 6
+L
+L
+B 137
+B 138
+B 69
+L
+B 5
+L
+L
+B 70
+B 17
+L
+L
+B 69
+B 10
+L
+L
+B 5
+L
+B 10
+L
+L
+B 145
+B 138
+B 69
+L
+L
+B 70
+B 40
+L
+L
+B 10
+L
+B 6
+L
+L
+B 17
+L
+B 129
+L
+B 5
+L
+B 69
+B 138
+L
+B 25
+L
+B 10
+L
+L
+B 65
+L
+B 1
+L
+B 138
+B 70
+L
+L
+B 10
+L
+B 134
+L
+B 130
+L
+L
+B 34
+L
+B 21
+B 138
+B 73
+L
+B 137
+L
+B 9
+L
+B 70
+L
+B 97
+L
+B 193
+L
+B 65
+L
+L
+B 146
+B 40
+L
+B 137
+L
+B 73
+L
+B 9
+L
+B 70
+L
+B 14
+L
+L
+B 26
+B 70
+B 73
+L
+L
+B 73
+L
+B 137
+L
+B 9
+L
+B 97
+L
+B 130
+L
+L
+B 10
+L
+B 70
+B 73
+L
+B 137
+L
+B 9
+L
+B 97
+L
+B 130
+L
+B 168
+L
+B 40
+L
+L
+B 6
+L
+B 73
+B 66
+L
+L
+B 66
+L
+B 130
+L
+B 137
+L
+B 9
+L
+B 97
+L
+B 193
+L
+L
+B 22
+B 137
+B 74
+L
+B 138
+L
+B 10
+L
+B 69
+L
+B 98
+L
+B 5
+L
+L
+B 145
+B 40
+L
+B 138
+L
+B 74
+L
+B 10
+L
+B 69
+L
+L
+B 17
+L
+B 69
+B 74
+L
+B 25
+L
+B 138
+L
+B 10
+L
+B 98
+L
+B 9
+L
+L
+B 5
+L
+B 65
+L
+B 74
+B 129
+L
+L
+B 129
+L
+B 1
+L
+B 138
+L
+B 10
+L
+B 98
+L
+B 194
+L
+L
+B 137
+B 138
+B 48
+L
+B 32
+L
+L
+B 146
+B 69
+L
+B 5
+L
+L
+B 18
+L
+B 70
+B 26
+L
+B 10
+L
+B 81
+L
+L
+B 6
+L
+B 66
+L
+B 130
+L
+B 2
+L
+B 81
+L
+B 17
+L
+L
+B 138
+B 145
+B 70
+L
+B 6
+L
+L
+B 17
+L
+B 69
+B 25
+L
+B 9
+L
+B 82
+L
+L
+B 5
+L
+B 65
+L
+B 129
+L
+B 1
+L
+B 82
+L
+B 18
+L
+L
+B 145
+B 146
+B 40
+L
+B 32
+L
+L
+B 18
+L
+B 70
+B 26
+L
+B 10
+L
+L
+B 6
+L
+B 66
+L
+B 130
+L
+B 2
+L
+B 73
+L
+L
+B 17
+L
+B 146
+B 69
+B 25
+L
+B 9
+L
+L
+B 5
+L
+B 65
+L
+B 129
+L
+B 1
+L
+B 74
+L
+L
+B 18
+L
+B 69
+B 130
+L
+B 26
+L
+B 10
+L
+B 2
+L
+B 25
+L
+B 9
+L
+L
+B 5
+L
+B 130
+L
+B 6
+L
+B 26
+B 129
+L
+L
+B 70
+B 129
+L
+B 25
+L
+L
+B 2
+L
+B 129
+L
+B 65
+L
+B 1
+L
+B 152
+L
+L
+B 184
+B 69
+B 162
+B 22
+B 41
+B 74
+B 145
+L
+B 17
+L
+B 129
+L
+L
+B 145
+B 10
+L
+B 66
+L
+L
+B 10
+L
+B 17
+L
+B 66
+L
+L
+B 74
+B 145
+B 9
+L
+B 33
+L
+L
+B 137
+B 49
+L
+B 33
+L
+L
+B 9
+L
+B 25
+L
+B 161
+L
+B 129
+L
+L
+B 145
+B 9
+L
+B 10
+L
+B 40
+L
+L
+B 137
+B 49
+B 10
+L
+L
+B 33
+L
+B 10
+L
+L
+B 9
+L
+B 25
+B 161
+L
+B 129
+L
+L
+B 161
+B 10
+L
+L
+B 129
+L
+B 33
+L
+L
+B 41
+B 74
+B 145
+B 6
+L
+B 18
+L
+L
+B 6
+L
+B 17
+L
+B 18
+L
+L
+B 145
+B 70
+B 26
+L
+B 18
+L
+L
+B 6
+L
+B 14
+L
+B 82
+L
+B 66
+L
+L
+B 70
+B 26
+B 17
+L
+L
+B 18
+L
+B 17
+L
+L
+B 6
+L
+B 14
+B 82
+L
+B 66
+L
+L
+B 82
+B 17
+L
+L
+B 66
+L
+B 18
+L
+L
+B 74
+B 145
+B 6
+L
+B 9
+L
+B 18
+L
+B 33
+L
+L
+B 137
+B 49
+B 6
+L
+L
+B 33
+L
+B 52
+L
+B 20
+L
+L
+B 9
+L
+B 25
+B 161
+L
+B 129
+L
+L
+B 161
+B 6
+L
+L
+B 129
+L
+B 33
+L
+B 17
+L
+L
+B 145
+B 70
+B 26
+B 9
+L
+L
+B 18
+L
+B 9
+L
+B 10
+L
+L
+B 6
+L
+B 14
+B 82
+L
+B 66
+L
+L
+B 82
+B 9
+L
+L
+B 66
+L
+B 18
+L
+B 10
+L
+L
+B 70
+B 137
+B 26
+B 49
+L
+L
+B 49
+L
+B 18
+L
+B 33
+L
+L
+B 9
+L
+B 26
+B 25
+L
+B 161
+L
+L
+B 25
+B 161
+L
+L
+B 161
+L
+B 129
+L
+B 33
+L
+L
+B 6
+L
+B 137
+B 49
+B 14
+L
+B 82
+L
+L
+B 14
+B 82
+L
+L
+B 82
+L
+B 66
+L
+B 18
+L
+L
+B 9
+L
+B 14
+B 25
+L
+B 82
+L
+B 161
+L
+L
+B 25
+B 82
+L
+B 66
+L
+L
+B 82
+B 161
+L
+L
+B 66
+L
+B 161
+L
+B 129
+L
+L
+B 98
+B 41
+B 22
+B 145
+B 138
+L
+B 130
+L
+L
+B 138
+B 129
+L
+L
+B 164
+L
+B 130
+L
+B 129
+L
+L
+B 134
+B 145
+B 26
+L
+L
+B 17
+L
+B 21
+L
+B 26
+L
+L
+B 145
+B 130
+L
+B 6
+L
+B 138
+L
+L
+B 130
+L
+B 6
+L
+B 138
+L
+B 18
+L
+B 26
+L
+L
+B 22
+B 161
+B 25
+B 138
+L
+L
+B 138
+B 9
+L
+L
+B 9
+L
+B 130
+L
+L
+B 33
+L
+B 145
+B 138
+L
+B 164
+L
+L
+B 129
+L
+B 137
+L
+B 9
+L
+B 25
+L
+L
+B 161
+B 134
+B 25
+L
+B 9
+L
+B 26
+L
+L
+B 6
+L
+B 25
+B 138
+L
+B 130
+L
+L
+B 138
+B 9
+L
+L
+B 130
+L
+B 18
+L
+L
+B 134
+B 33
+L
+B 145
+B 26
+L
+B 9
+L
+L
+B 129
+L
+B 137
+L
+B 9
+L
+L
+B 33
+L
+B 6
+L
+B 145
+B 138
+L
+B 130
+L
+B 18
+L
+L
+B 129
+L
+B 138
+B 137
+L
+L
+B 130
+L
+B 137
+L
+B 9
+L
+L
+B 134
+B 41
+B 145
+B 34
+L
+B 42
+L
+B 74
+L
+B 82
+L
+B 66
+L
+L
+B 34
+L
+B 42
+B 82
+L
+B 17
+L
+L
+B 74
+B 50
+L
+B 17
+L
+L
+B 82
+B 17
+L
+L
+B 66
+L
+B 18
+L
+B 26
+L
+L
+B 161
+B 42
+B 25
+L
+B 82
+L
+B 9
+L
+L
+B 34
+L
+B 25
+B 74
+L
+B 82
+L
+L
+B 74
+B 50
+L
+L
+B 82
+L
+B 66
+L
+B 18
+L
+L
+B 42
+B 145
+B 82
+B 33
+L
+L
+B 33
+L
+B 224
+L
+L
+B 129
+L
+B 137
+B 49
+L
+L
+B 25
+L
+B 9
+L
+B 17
+L
+L
+B 34
+L
+B 33
+L
+B 145
+B 74
+L
+B 82
+L
+B 66
+L
+B 18
+L
+L
+B 74
+B 25
+L
+B 17
+L
+L
+B 25
+B 82
+L
+B 66
+L
+L
+B 17
+L
+B 82
+L
+B 66
+L
+B 49
+L
+L
+B 194
+B 41
+B 22
+B 145
+L
+B 42
+L
+B 34
+L
+L
+B 38
+B 145
+L
+B 17
+L
+L
+B 6
+L
+B 34
+L
+B 145
+L
+B 18
+L
+B 26
+L
+L
+B 161
+B 22
+B 25
+L
+B 42
+L
+B 34
+L
+L
+B 42
+B 25
+L
+B 6
+L
+L
+B 34
+L
+B 6
+L
+B 25
+L
+B 18
+L
+L
+B 22
+B 33
+L
+B 145
+B 42
+L
+L
+B 42
+L
+B 129
+L
+B 137
+L
+L
+B 33
+L
+B 38
+B 145
+L
+B 129
+L
+B 137
+L
+L
+B 34
+L
+B 6
+L
+B 145
+B 18
+L
+L
+B 25
+L
+B 17
+L
+B 49
+L
+L
+B 130
+L
+B 22
+B 41
+B 74
+B 145
+L
+L
+B 145
+B 66
+L
+B 138
+L
+B 42
+L
+L
+B 66
+L
+B 138
+L
+B 42
+L
+B 34
+L
+B 10
+L
+L
+B 161
+B 42
+B 25
+L
+L
+B 74
+L
+B 25
+B 34
+L
+L
+B 34
+L
+B 66
+L
+B 138
+L
+L
+B 42
+B 145
+L
+B 129
+L
+B 137
+L
+L
+B 34
+L
+B 74
+B 33
+L
+L
+B 33
+L
+B 145
+B 66
+L
+L
+B 66
+L
+B 138
+L
+B 25
+L
+B 10
+L
+L
+B 34
+L
+B 38
+B 41
+B 145
+L
+B 74
+L
+B 66
+L
+L
+B 161
+B 25
+L
+B 74
+L
+L
+B 33
+L
+B 145
+L
+B 25
+L
+B 17
+L
+L
+B 6
+L
+B 10
+B 161
+B 25
+L
+L
+B 164
+L
+B 160
+L
+B 25
+L
+L
+B 2
+L
+B 18
+L
+B 161
+B 25
+B 100
+L
+L
+B 9
+L
+B 17
+L
+L
+B 41
+B 145
+L
+B 129
+L
+B 17
+L
+L
+B 145
+B 33
+L
+B 9
+L
+L
+B 25
+B 33
+L
+B 129
+L
+L
+B 33
+L
+B 17
+L
+B 49
+L
+B 137
+L
+L
+B 162
+B 97
+B 22
+B 133
+B 74
+B 25
+L
+B 9
+L
+L
+B 10
+L
+B 25
+B 42
+L
+L
+B 42
+L
+B 66
+L
+L
+B 74
+B 5
+L
+B 13
+L
+B 137
+L
+B 145
+L
+B 129
+L
+L
+B 5
+L
+B 13
+B 145
+L
+B 10
+L
+L
+B 137
+B 21
+L
+B 10
+L
+L
+B 145
+B 10
+L
+L
+B 129
+L
+B 9
+L
+B 25
+L
+L
+B 70
+B 21
+B 26
+B 137
+L
+L
+B 137
+B 18
+L
+L
+B 18
+L
+B 9
+L
+L
+B 133
+B 26
+L
+B 18
+L
+B 25
+L
+L
+B 5
+L
+B 26
+B 137
+L
+B 145
+L
+L
+B 137
+B 18
+L
+L
+B 145
+L
+B 129
+L
+B 9
+L
+L
+B 21
+B 74
+B 137
+B 6
+L
+L
+B 6
+L
+B 196
+L
+L
+B 66
+L
+B 82
+B 14
+L
+B 137
+L
+L
+B 6
+L
+B 14
+L
+B 10
+L
+L
+B 133
+B 6
+L
+B 74
+B 20
+L
+L
+B 66
+L
+B 82
+L
+B 14
+L
+B 10
+L
+L
+B 5
+L
+B 6
+L
+B 74
+B 137
+L
+B 145
+L
+B 129
+L
+B 9
+L
+L
+B 137
+B 14
+L
+B 10
+L
+L
+B 14
+B 82
+L
+B 145
+L
+L
+B 10
+L
+B 145
+L
+B 129
+L
+B 26
+L
+L
+B 133
+B 22
+B 41
+B 74
+B 81
+L
+L
+B 81
+B 66
+L
+L
+B 65
+L
+B 100
+L
+L
+B 74
+B 65
+L
+B 33
+L
+B 73
+L
+L
+B 65
+L
+B 33
+L
+B 73
+L
+B 9
+L
+B 25
+L
+L
+B 70
+B 41
+B 26
+L
+B 81
+L
+B 18
+L
+L
+B 26
+B 33
+L
+B 73
+L
+B 65
+L
+L
+B 33
+L
+B 73
+B 18
+L
+L
+B 65
+L
+B 9
+L
+L
+B 41
+B 6
+L
+B 74
+B 81
+L
+B 65
+L
+L
+B 66
+L
+B 82
+L
+B 14
+L
+B 18
+L
+L
+B 6
+L
+B 33
+L
+B 74
+B 73
+L
+B 65
+L
+B 9
+L
+L
+B 66
+L
+B 73
+B 82
+L
+L
+B 65
+L
+B 82
+L
+B 14
+L
+L
+B 193
+B 22
+B 41
+B 74
+L
+B 21
+L
+B 5
+L
+L
+B 37
+B 74
+L
+B 10
+L
+L
+B 5
+L
+B 74
+B 33
+L
+L
+B 33
+L
+B 9
+L
+B 25
+L
+L
+B 70
+B 41
+B 21
+L
+B 26
+L
+B 5
+L
+L
+B 21
+B 26
+L
+B 18
+L
+L
+B 5
+L
+B 33
+L
+B 26
+L
+B 9
+L
+L
+B 41
+B 6
+L
+B 74
+B 21
+L
+L
+B 21
+L
+B 66
+L
+B 82
+L
+L
+B 6
+L
+B 21
+B 74
+L
+B 66
+L
+B 82
+L
+L
+B 5
+L
+B 33
+L
+B 74
+B 9
+L
+L
+B 14
+L
+B 82
+L
+B 66
+L
+L
+B 65
+L
+B 41
+B 22
+B 145
+B 74
+L
+L
+B 74
+B 129
+L
+B 81
+L
+B 21
+L
+L
+B 129
+L
+B 81
+L
+B 21
+L
+B 5
+L
+B 17
+L
+L
+B 70
+B 21
+B 26
+L
+L
+B 145
+L
+B 5
+L
+B 26
+L
+B 129
+L
+B 81
+L
+L
+B 21
+B 74
+L
+B 66
+L
+B 82
+L
+L
+B 5
+L
+B 145
+B 6
+L
+L
+B 6
+L
+B 74
+B 129
+L
+L
+B 129
+L
+B 81
+L
+B 14
+L
+B 82
+L
+L
+B 5
+L
+B 21
+B 70
+B 26
+B 137
+L
+L
+B 137
+L
+B 9
+L
+B 161
+L
+L
+B 26
+B 137
+L
+B 9
+L
+B 161
+L
+B 33
+L
+L
+B 74
+B 22
+L
+B 137
+L
+B 9
+L
+L
+B 10
+L
+B 137
+L
+B 9
+L
+B 14
+L
+B 82
+L
+L
+B 33
+L
+B 9
+L
+B 1
+L
+B 17
+L
+B 70
+B 26
+B 100
+L
+L
+B 10
+L
+B 18
+L
+L
+B 22
+B 74
+L
+B 66
+L
+B 10
+L
+L
+B 74
+B 6
+L
+B 18
+L
+L
+B 6
+L
+B 14
+B 82
+L
+L
+B 82
+L
+B 66
+L
+B 26
+L
+L
+B 70
+B 161
+B 21
+B 42
+B 73
+B 146
+L
+B 130
+L
+L
+B 146
+B 65
+L
+L
+B 65
+L
+B 130
+L
+L
+B 34
+L
+B 73
+B 146
+L
+B 26
+L
+B 10
+L
+L
+B 146
+B 65
+L
+L
+B 26
+B 65
+L
+L
+B 10
+L
+B 138
+L
+B 130
+L
+L
+B 42
+B 5
+L
+B 146
+B 73
+L
+B 13
+L
+B 81
+L
+L
+B 73
+B 130
+L
+L
+B 13
+B 81
+L
+L
+B 81
+L
+B 65
+L
+B 17
+L
+L
+B 5
+L
+B 34
+L
+B 73
+B 146
+B 10
+L
+L
+B 26
+L
+B 10
+L
+B 138
+L
+L
+B 146
+B 13
+L
+B 81
+L
+B 65
+L
+L
+B 13
+B 26
+L
+B 10
+L
+L
+B 26
+B 81
+L
+B 65
+L
+L
+B 10
+L
+B 81
+L
+B 65
+L
+L
+B 97
+B 42
+B 21
+B 146
+L
+B 137
+L
+B 130
+L
+L
+B 133
+B 146
+L
+B 130
+L
+L
+B 5
+L
+B 146
+B 137
+L
+L
+B 137
+L
+B 129
+L
+B 25
+L
+L
+B 21
+B 34
+L
+B 146
+B 137
+L
+B 164
+L
+L
+B 130
+L
+B 138
+L
+B 10
+L
+L
+B 133
+B 34
+L
+B 146
+B 25
+L
+L
+B 130
+L
+B 138
+L
+B 10
+L
+L
+B 5
+L
+B 34
+L
+B 146
+B 137
+L
+B 129
+L
+L
+B 130
+L
+B 137
+L
+B 129
+L
+B 138
+L
+L
+B 133
+B 42
+B 146
+B 33
+L
+B 41
+L
+B 73
+L
+L
+B 33
+L
+B 41
+B 81
+L
+L
+B 73
+L
+B 65
+L
+B 25
+L
+L
+B 41
+B 146
+B 81
+L
+B 34
+L
+L
+B 130
+L
+B 138
+L
+B 26
+L
+B 10
+L
+L
+B 33
+L
+B 34
+L
+B 146
+B 73
+L
+B 65
+L
+L
+B 26
+B 73
+L
+B 65
+L
+L
+B 18
+L
+B 73
+L
+B 65
+L
+L
+B 193
+B 42
+B 21
+B 146
+L
+B 130
+L
+L
+B 5
+L
+B 146
+L
+B 33
+L
+B 25
+L
+L
+B 21
+B 34
+L
+B 146
+L
+B 130
+L
+B 41
+L
+L
+B 34
+L
+B 5
+L
+B 33
+L
+B 146
+L
+B 26
+L
+B 18
+L
+L
+B 129
+L
+B 21
+B 42
+B 73
+L
+B 65
+L
+B 146
+L
+B 137
+L
+B 41
+L
+B 33
+L
+L
+B 41
+B 146
+L
+B 130
+L
+L
+B 33
+L
+B 34
+L
+B 73
+L
+B 65
+L
+B 146
+L
+B 26
+L
+B 137
+L
+L
+B 5
+L
+B 33
+L
+B 1
+L
+B 9
+B 164
+L
+B 160
+L
+L
+B 42
+B 146
+L
+B 130
+L
+B 18
+L
+L
+B 146
+B 34
+L
+B 10
+L
+L
+B 26
+B 34
+L
+B 130
+L
+L
+B 34
+L
+B 18
+L
+B 50
+L
+B 138
+L
+L
+B 161
+B 98
+B 21
+B 134
+B 73
+L
+B 65
+L
+B 26
+L
+L
+B 73
+B 6
+L
+B 14
+L
+B 138
+L
+L
+B 6
+L
+B 14
+B 65
+L
+L
+B 138
+L
+B 130
+L
+B 26
+L
+L
+B 22
+B 73
+B 138
+B 5
+L
+L
+B 5
+L
+B 196
+L
+L
+B 65
+L
+B 81
+B 13
+L
+L
+B 5
+L
+B 13
+L
+B 9
+L
+L
+B 134
+B 5
+L
+B 73
+B 20
+L
+L
+B 65
+L
+B 81
+L
+B 13
+L
+L
+B 6
+L
+B 5
+L
+B 73
+B 138
+L
+B 130
+L
+L
+B 13
+B 81
+L
+B 138
+L
+L
+B 9
+L
+B 138
+L
+B 130
+L
+L
+B 134
+B 21
+B 42
+B 73
+L
+B 65
+L
+L
+B 34
+L
+B 73
+B 74
+L
+L
+B 74
+L
+B 66
+L
+B 26
+L
+L
+B 42
+B 5
+L
+B 73
+B 82
+L
+L
+B 65
+L
+B 81
+L
+B 13
+L
+L
+B 5
+L
+B 34
+L
+B 73
+B 74
+L
+B 66
+L
+L
+B 65
+L
+B 74
+L
+B 66
+L
+B 81
+L
+L
+B 194
+B 21
+B 42
+B 73
+L
+B 65
+L
+L
+B 34
+L
+B 73
+L
+B 6
+L
+B 26
+L
+L
+B 42
+B 5
+L
+B 73
+L
+B 65
+L
+B 22
+L
+L
+B 5
+L
+B 34
+L
+B 6
+L
+B 73
+L
+B 13
+L
+B 81
+L
+B 65
+L
+L
+B 66
+L
+B 42
+B 21
+B 146
+L
+B 130
+L
+B 73
+L
+B 82
+L
+B 22
+L
+B 6
+L
+L
+B 22
+B 73
+L
+B 65
+L
+L
+B 6
+L
+B 5
+L
+B 146
+L
+B 130
+L
+B 73
+L
+B 13
+L
+B 81
+L
+L
+B 34
+L
+B 6
+L
+B 2
+L
+B 10
+L
+B 21
+B 73
+L
+B 65
+L
+B 9
+L
+L
+B 73
+B 5
+L
+B 17
+L
+L
+B 5
+L
+B 13
+B 81
+L
+L
+B 81
+L
+B 65
+L
+B 25
+L
+L
+B 97
+B 98
+B 164
+L
+B 196
+L
+B 132
+L
+B 21
+B 130
+L
+B 138
+L
+L
+B 5
+L
+B 4
+L
+B 22
+L
+B 20
+L
+L
+B 134
+B 21
+B 42
+B 137
+L
+B 82
+L
+L
+B 34
+L
+B 74
+L
+B 66
+L
+B 26
+L
+L
+B 42
+B 133
+B 82
+L
+L
+B 5
+L
+B 137
+L
+B 129
+L
+L
+B 34
+L
+B 133
+B 74
+L
+B 66
+L
+L
+B 5
+L
+B 74
+L
+B 66
+L
+B 137
+L
+L
+B 194
+B 21
+B 42
+B 137
+L
+L
+B 34
+L
+B 6
+L
+B 26
+L
+L
+B 42
+B 133
+L
+B 5
+L
+B 22
+L
+B 137
+L
+L
+B 34
+L
+B 133
+B 22
+L
+L
+B 5
+L
+B 6
+L
+B 137
+L
+L
+B 66
+L
+B 42
+B 21
+B 130
+L
+B 82
+L
+B 22
+L
+B 6
+L
+L
+B 22
+B 133
+L
+B 5
+L
+L
+B 133
+B 6
+L
+B 130
+L
+L
+B 5
+L
+B 6
+L
+B 130
+L
+B 82
+L
+L
+B 34
+L
+B 6
+L
+B 2
+L
+B 10
+L
+B 133
+B 25
+L
+B 9
+L
+L
+B 21
+B 137
+L
+B 129
+L
+L
+B 5
+L
+B 137
+L
+B 129
+L
+L
+B 98
+B 133
+B 22
+B 41
+B 138
+L
+B 81
+L
+L
+B 33
+L
+B 73
+L
+B 65
+L
+B 25
+L
+L
+B 41
+B 134
+B 81
+L
+L
+B 6
+L
+B 138
+L
+B 130
+L
+L
+B 33
+L
+B 134
+B 73
+L
+B 65
+L
+L
+B 6
+L
+B 73
+L
+B 65
+L
+B 138
+L
+L
+B 193
+B 22
+B 41
+B 138
+L
+L
+B 33
+L
+B 5
+L
+B 25
+L
+L
+B 41
+B 134
+L
+B 6
+L
+B 21
+L
+B 138
+L
+L
+B 33
+L
+B 134
+B 21
+L
+L
+B 6
+L
+B 5
+L
+B 138
+L
+L
+B 65
+L
+B 41
+B 22
+B 129
+L
+B 81
+L
+B 21
+L
+B 5
+L
+L
+B 21
+B 134
+L
+B 6
+L
+L
+B 134
+B 5
+L
+B 129
+L
+L
+B 6
+L
+B 5
+L
+B 129
+L
+B 81
+L
+L
+B 33
+L
+B 5
+L
+B 1
+L
+B 9
+L
+B 134
+B 26
+L
+B 10
+L
+L
+B 22
+B 138
+L
+B 130
+L
+L
+B 6
+L
+B 138
+L
+B 130
+L
+L
+B 133
+B 134
+B 96
+L
+B 100
+L
+B 41
+B 66
+L
+B 82
+L
+L
+B 33
+L
+B 32
+L
+B 42
+L
+B 40
+L
+L
+B 194
+B 41
+B 22
+L
+B 6
+L
+B 34
+L
+L
+B 33
+L
+B 22
+B 42
+L
+B 73
+L
+L
+B 6
+L
+B 34
+L
+B 73
+L
+L
+B 66
+L
+B 42
+B 22
+B 65
+L
+L
+B 6
+L
+B 130
+L
+B 65
+L
+B 73
+L
+B 41
+L
+L
+B 34
+L
+B 6
+L
+B 2
+L
+B 10
+L
+B 41
+B 81
+L
+B 65
+L
+L
+B 33
+L
+B 73
+L
+B 65
+L
+L
+B 134
+B 193
+B 42
+B 21
+L
+B 5
+L
+B 33
+L
+L
+B 34
+L
+B 21
+B 41
+L
+B 74
+L
+L
+B 5
+L
+B 33
+L
+B 74
+L
+L
+B 65
+L
+B 41
+B 21
+B 66
+L
+L
+B 5
+L
+B 129
+L
+B 66
+L
+B 74
+L
+B 42
+L
+L
+B 33
+L
+B 5
+L
+B 1
+L
+B 9
+L
+B 42
+B 82
+L
+B 66
+L
+L
+B 34
+L
+B 74
+L
+B 66
+L
+L
+B 193
+B 194
+B 100
+L
+B 164
+L
+B 36
+L
+B 5
+L
+B 34
+L
+L
+B 66
+L
+B 42
+B 22
+B 37
+L
+L
+B 6
+L
+B 21
+L
+B 5
+L
+B 130
+L
+L
+B 34
+L
+B 6
+L
+B 2
+L
+B 10
+L
+B 37
+L
+B 5
+L
+B 33
+L
+L
+B 194
+B 65
+L
+B 41
+B 21
+B 38
+L
+L
+B 5
+L
+B 22
+L
+B 6
+L
+B 129
+L
+L
+B 33
+L
+B 5
+L
+B 1
+L
+B 9
+L
+B 38
+L
+B 6
+L
+B 34
+L
+L
+B 65
+L
+B 66
+L
+B 41
+B 130
+L
+B 22
+B 129
+L
+B 81
+L
+B 138
+L
+B 21
+L
+L
+B 6
+L
+B 18
+L
+B 2
+L
+B 145
+L
+B 129
+L
+B 21
+L
+B 5
+L
+L
+B 33
+L
+B 130
+L
+B 22
+B 129
+L
+B 9
+L
+B 1
+L
+B 42
+L
+B 34
+L
+L
+B 6
+L
+B 5
+L
+B 34
+L
+B 2
+L
+B 129
+L
+B 1
+L
+B 100
+L
+B 164
+L
+L
+B 232
+B 180
+B 69
+B 42
+B 194
+B 25
+B 22
+B 161
+L
+L
+B 161
+L
+B 6
+L
+L
+B 161
+B 22
+B 9
+L
+L
+B 17
+L
+B 21
+L
+L
+B 22
+B 137
+L
+B 129
+L
+B 145
+L
+L
+B 137
+B 49
+L
+B 33
+L
+L
+B 129
+L
+B 145
+L
+B 17
+L
+L
+B 25
+B 22
+B 161
+B 66
+L
+L
+B 130
+L
+B 160
+L
+L
+B 82
+B 161
+L
+B 134
+L
+B 6
+L
+L
+B 18
+L
+B 146
+L
+B 161
+L
+B 130
+L
+L
+B 22
+B 161
+B 9
+L
+B 66
+L
+L
+B 137
+B 49
+L
+B 33
+L
+L
+B 129
+L
+B 145
+L
+B 41
+L
+B 9
+L
+B 49
+L
+L
+B 161
+B 82
+B 134
+L
+B 6
+L
+L
+B 18
+L
+B 146
+L
+B 70
+L
+B 66
+L
+B 134
+L
+L
+B 82
+B 137
+B 49
+L
+B 134
+L
+L
+B 129
+L
+B 145
+L
+B 17
+L
+L
+B 18
+L
+B 137
+B 146
+L
+B 130
+L
+L
+B 146
+B 129
+L
+L
+B 129
+L
+B 145
+L
+B 130
+L
+L
+B 22
+B 41
+B 162
+B 74
+L
+B 145
+L
+B 10
+L
+L
+B 74
+B 145
+B 34
+L
+L
+B 34
+L
+B 160
+L
+L
+B 34
+L
+B 98
+B 138
+L
+L
+B 138
+L
+B 10
+L
+B 145
+L
+L
+B 162
+B 25
+B 74
+L
+B 10
+L
+L
+B 74
+B 9
+L
+B 49
+L
+L
+B 9
+L
+B 49
+L
+B 145
+L
+B 17
+L
+B 10
+L
+L
+B 25
+B 34
+L
+B 74
+B 161
+L
+L
+B 10
+L
+B 98
+L
+B 138
+L
+L
+B 34
+L
+B 74
+B 137
+B 49
+L
+L
+B 9
+L
+B 49
+L
+B 145
+L
+B 17
+L
+L
+B 137
+B 10
+L
+B 98
+L
+B 138
+L
+L
+B 9
+L
+B 49
+B 10
+L
+L
+B 10
+L
+B 145
+L
+B 17
+L
+B 161
+L
+L
+B 41
+B 162
+B 74
+B 145
+B 6
+L
+L
+B 6
+L
+B 18
+L
+L
+B 70
+B 26
+L
+B 145
+L
+B 10
+L
+L
+B 6
+L
+B 14
+L
+B 10
+L
+B 145
+L
+L
+B 34
+L
+B 82
+B 14
+L
+B 6
+L
+B 145
+L
+B 38
+L
+L
+B 18
+L
+B 14
+B 50
+L
+B 145
+L
+L
+B 6
+L
+B 10
+L
+B 145
+L
+B 17
+L
+L
+B 162
+B 25
+B 74
+B 161
+B 6
+L
+L
+B 6
+L
+L
+B 10
+L
+B 14
+L
+B 6
+L
+B 70
+L
+L
+B 74
+B 9
+L
+B 49
+B 137
+L
+L
+B 145
+L
+B 17
+L
+B 33
+L
+L
+B 9
+L
+B 10
+L
+B 49
+B 14
+L
+B 6
+L
+L
+B 14
+B 82
+L
+L
+B 6
+L
+B 145
+L
+B 17
+L
+L
+B 34
+L
+B 25
+B 82
+B 14
+L
+B 6
+L
+L
+B 18
+L
+B 14
+L
+B 6
+L
+B 10
+L
+B 161
+L
+L
+B 82
+B 14
+B 137
+L
+B 9
+L
+L
+B 137
+B 6
+L
+L
+B 9
+L
+B 49
+L
+B 6
+L
+B 145
+L
+L
+B 18
+L
+B 14
+B 137
+L
+B 9
+L
+B 49
+L
+B 145
+L
+L
+B 6
+L
+B 10
+L
+B 137
+B 49
+L
+L
+B 9
+L
+B 49
+L
+B 145
+L
+B 17
+L
+L
+B 42
+B 5
+B 194
+L
+L
+B 21
+B 70
+B 161
+B 73
+L
+B 146
+L
+L
+B 73
+B 146
+L
+B 33
+L
+L
+B 41
+B 146
+L
+L
+B 33
+L
+B 146
+L
+B 97
+L
+L
+B 161
+B 194
+B 73
+L
+L
+B 73
+B 82
+L
+L
+B 82
+L
+B 66
+L
+B 134
+L
+B 146
+L
+L
+B 194
+B 73
+B 22
+L
+L
+B 65
+L
+B 97
+L
+B 33
+L
+L
+B 73
+B 82
+B 134
+L
+L
+B 66
+L
+B 134
+L
+B 146
+L
+B 130
+L
+L
+B 82
+B 65
+L
+B 97
+L
+B 33
+L
+L
+B 66
+L
+B 134
+B 65
+L
+L
+B 146
+L
+B 130
+L
+B 65
+L
+B 97
+L
+L
+B 70
+B 161
+B 73
+B 146
+L
+B 17
+L
+L
+B 13
+B 81
+L
+L
+B 81
+L
+B 65
+L
+B 146
+L
+L
+B 13
+B 81
+L
+B 17
+L
+B 146
+L
+B 49
+L
+L
+B 129
+L
+B 193
+B 41
+L
+B 146
+L
+L
+B 81
+B 146
+L
+L
+B 17
+L
+B 146
+L
+B 18
+L
+L
+B 161
+B 194
+B 73
+B 22
+L
+L
+B 65
+L
+B 81
+L
+B 13
+L
+L
+B 22
+B 73
+B 66
+L
+L
+B 65
+L
+B 81
+L
+B 13
+L
+L
+B 73
+B 6
+L
+B 82
+L
+B 66
+L
+L
+B 6
+L
+B 13
+B 81
+L
+L
+B 81
+L
+B 65
+L
+B 82
+L
+L
+B 194
+B 13
+B 81
+L
+B 17
+L
+L
+B 129
+L
+B 193
+L
+B 65
+L
+B 1
+L
+B 22
+L
+L
+B 13
+B 81
+B 22
+L
+B 6
+L
+L
+B 22
+B 65
+L
+B 49
+L
+L
+B 6
+L
+B 82
+L
+B 66
+L
+B 134
+L
+L
+B 129
+L
+B 193
+B 22
+B 41
+L
+L
+B 6
+L
+B 41
+L
+L
+B 65
+L
+B 1
+L
+B 82
+B 134
+L
+L
+B 66
+L
+B 134
+L
+B 146
+L
+B 130
+L
+L
+B 70
+B 41
+B 193
+B 26
+B 21
+L
+B 162
+L
+L
+B 162
+B 21
+L
+B 5
+L
+L
+B 21
+B 138
+L
+B 10
+L
+L
+B 138
+L
+B 10
+L
+B 50
+L
+B 34
+L
+L
+B 26
+B 21
+B 162
+L
+B 34
+L
+L
+B 81
+B 162
+L
+L
+B 65
+L
+B 133
+L
+B 5
+L
+L
+B 21
+B 162
+B 10
+L
+L
+B 138
+B 50
+L
+L
+B 10
+L
+B 50
+L
+B 34
+L
+L
+B 162
+B 81
+B 133
+L
+L
+B 65
+L
+B 133
+L
+B 5
+L
+L
+B 81
+B 138
+L
+B 10
+L
+B 50
+L
+B 34
+L
+L
+B 65
+L
+B 133
+B 138
+L
+L
+B 5
+L
+B 138
+L
+B 10
+L
+B 50
+L
+L
+B 21
+B 161
+B 26
+B 73
+L
+B 9
+L
+L
+B 73
+B 10
+L
+L
+B 10
+L
+B 50
+L
+B 146
+L
+B 18
+L
+L
+B 26
+B 33
+L
+B 73
+L
+B 9
+L
+B 97
+L
+L
+B 33
+L
+B 73
+B 138
+L
+B 10
+L
+B 50
+L
+B 146
+L
+L
+B 138
+B 9
+L
+B 97
+L
+L
+B 10
+L
+B 50
+L
+B 146
+L
+B 18
+L
+B 162
+L
+B 34
+L
+L
+B 5
+L
+B 26
+B 161
+B 73
+L
+B 9
+L
+B 13
+L
+L
+B 33
+L
+B 13
+L
+B 9
+L
+B 17
+L
+B 162
+L
+L
+B 161
+B 10
+L
+B 50
+B 73
+L
+B 9
+L
+L
+B 73
+B 146
+L
+L
+B 9
+L
+B 146
+L
+B 18
+L
+L
+B 33
+L
+B 13
+B 81
+L
+B 138
+L
+B 10
+L
+B 50
+L
+L
+B 9
+L
+B 17
+L
+B 138
+B 50
+L
+L
+B 10
+L
+B 50
+L
+B 146
+L
+B 18
+L
+L
+B 41
+B 22
+B 162
+B 193
+B 74
+L
+B 66
+L
+L
+B 65
+L
+B 74
+L
+B 133
+L
+B 145
+L
+B 129
+L
+L
+B 193
+B 74
+B 34
+L
+L
+B 34
+L
+B 66
+L
+B 98
+L
+L
+B 65
+L
+B 74
+B 133
+L
+B 145
+L
+B 129
+L
+B 5
+L
+L
+B 133
+B 34
+L
+B 66
+L
+L
+B 145
+B 34
+L
+L
+B 129
+L
+B 66
+L
+B 194
+L
+B 34
+L
+L
+B 6
+L
+B 193
+B 162
+B 74
+L
+B 66
+L
+B 82
+L
+L
+B 34
+L
+B 14
+L
+B 66
+L
+B 130
+L
+B 21
+L
+L
+B 162
+B 21
+B 74
+L
+B 66
+L
+B 82
+L
+L
+B 5
+L
+B 74
+B 81
+L
+L
+B 81
+L
+B 65
+L
+B 133
+L
+B 14
+L
+L
+B 34
+L
+B 14
+B 82
+L
+B 21
+L
+B 5
+L
+L
+B 66
+L
+B 130
+L
+B 81
+B 133
+L
+L
+B 65
+L
+B 133
+L
+B 145
+L
+B 129
+L
+L
+B 21
+B 82
+B 161
+B 14
+B 73
+L
+B 9
+L
+L
+B 73
+B 6
+L
+L
+B 6
+L
+B 138
+L
+B 10
+L
+B 9
+L
+L
+B 14
+B 33
+L
+B 73
+L
+B 65
+L
+L
+B 33
+L
+B 73
+B 6
+L
+B 138
+L
+L
+B 6
+L
+B 138
+L
+B 10
+L
+B 162
+L
+B 34
+L
+L
+B 66
+L
+B 34
+L
+B 161
+B 6
+L
+B 10
+L
+B 2
+L
+B 73
+L
+B 9
+L
+L
+B 6
+L
+B 162
+B 73
+L
+B 193
+L
+B 65
+L
+L
+B 130
+L
+B 73
+B 33
+L
+L
+B 193
+L
+B 65
+L
+B 33
+L
+L
+B 5
+L
+B 82
+B 14
+B 161
+B 73
+L
+B 9
+L
+L
+B 33
+L
+B 13
+L
+B 65
+L
+B 129
+L
+B 162
+L
+L
+B 161
+B 6
+L
+B 73
+B 138
+L
+L
+B 9
+L
+B 138
+L
+B 10
+L
+L
+B 33
+L
+B 13
+B 81
+L
+B 6
+L
+B 138
+L
+L
+B 65
+L
+B 129
+L
+B 6
+L
+B 138
+L
+B 10
+L
+B 162
+L
+L
+B 66
+L
+B 34
+L
+B 6
+L
+B 162
+B 13
+B 81
+L
+L
+B 193
+L
+B 65
+L
+B 33
+L
+B 17
+L
+L
+B 130
+L
+B 13
+B 81
+L
+B 193
+L
+B 65
+L
+L
+B 193
+B 37
+L
+B 25
+L
+L
+B 65
+L
+B 33
+L
+B 17
+L
+B 56
+L
+L
+B 52
+L
+B 164
+L
+B 176
+L
+B 21
+B 162
+B 70
+B 41
+B 26
+L
+L
+B 73
+B 26
+L
+L
+B 26
+L
+B 9
+L
+B 56
+L
+L
+B 41
+B 74
+B 22
+L
+L
+B 66
+L
+B 82
+L
+B 193
+L
+L
+B 73
+B 74
+B 22
+L
+L
+B 66
+L
+B 82
+L
+B 14
+L
+L
+B 74
+B 9
+L
+B 22
+L
+B 137
+L
+L
+B 66
+L
+B 9
+L
+B 82
+L
+B 14
+L
+B 6
+L
+L
+B 160
+L
+B 70
+B 48
+L
+B 50
+L
+B 41
+B 146
+L
+B 26
+L
+B 144
+L
+L
+B 146
+L
+B 33
+L
+B 26
+L
+B 73
+L
+B 42
+L
+B 34
+L
+L
+B 38
+B 41
+B 146
+L
+L
+B 146
+L
+B 33
+L
+B 73
+L
+B 26
+L
+L
+B 42
+B 73
+B 134
+L
+B 146
+L
+B 130
+L
+L
+B 134
+L
+B 146
+L
+B 130
+L
+B 6
+L
+L
+B 34
+L
+B 134
+B 48
+L
+L
+B 6
+L
+B 41
+B 22
+L
+B 146
+L
+B 130
+L
+B 66
+L
+L
+B 73
+B 22
+L
+B 146
+L
+B 130
+L
+B 66
+L
+L
+B 22
+B 40
+L
+L
+B 33
+L
+B 146
+L
+B 130
+L
+B 66
+L
+L
+B 162
+B 69
+B 48
+L
+B 49
+B 22
+L
+B 74
+L
+L
+B 22
+B 145
+L
+B 41
+L
+B 74
+L
+B 25
+L
+B 17
+L
+L
+B 145
+L
+B 41
+B 20
+L
+L
+B 56
+L
+B 74
+B 17
+L
+L
+B 17
+L
+B 161
+L
+B 70
+L
+L
+B 5
+L
+B 37
+B 148
+L
+B 20
+L
+B 70
+L
+B 56
+L
+L
+B 41
+B 20
+L
+B 70
+B 133
+L
+L
+B 74
+B 133
+L
+L
+B 133
+L
+B 145
+L
+B 6
+L
+L
+B 70
+B 49
+L
+B 33
+L
+B 145
+L
+B 17
+L
+B 9
+L
+B 1
+L
+L
+B 22
+B 49
+L
+B 33
+L
+B 74
+B 145
+L
+B 17
+L
+L
+B 145
+L
+B 17
+L
+B 9
+L
+B 65
+L
+L
+B 49
+B 6
+L
+L
+B 33
+L
+B 6
+L
+B 145
+L
+B 17
+L
+B 9
+L
+B 74
+L
+B 161
+L
+B 1
+L
+L
+B 160
+L
+B 161
+B 22
+B 69
+B 42
+L
+B 74
+L
+L
+B 42
+B 73
+L
+L
+B 73
+B 74
+L
+L
+B 74
+L
+B 65
+L
+B 5
+L
+L
+B 70
+B 50
+L
+B 48
+L
+B 146
+L
+B 73
+L
+B 42
+L
+B 56
+L
+L
+B 38
+B 20
+L
+B 148
+L
+L
+B 6
+L
+B 42
+B 20
+L
+B 69
+L
+B 73
+L
+L
+B 34
+L
+B 69
+B 25
+L
+B 146
+L
+B 18
+L
+L
+B 5
+L
+B 73
+B 146
+L
+L
+B 146
+L
+B 18
+L
+B 10
+L
+L
+B 22
+B 69
+B 48
+L
+B 42
+B 49
+L
+B 145
+L
+B 25
+L
+L
+B 49
+L
+B 34
+L
+B 145
+L
+B 74
+L
+B 25
+L
+B 17
+L
+L
+B 37
+B 42
+L
+B 34
+L
+B 145
+L
+B 74
+L
+L
+B 5
+L
+B 41
+B 74
+L
+B 133
+L
+B 145
+L
+B 129
+L
+L
+B 33
+L
+B 42
+B 145
+L
+B 129
+L
+B 65
+L
+L
+B 74
+B 145
+L
+B 129
+L
+B 65
+L
+L
+B 34
+L
+B 145
+L
+B 129
+L
+B 65
+L
+L
+B 69
+B 48
+L
+B 42
+B 49
+L
+B 145
+L
+B 144
+L
+B 146
+L
+B 148
+L
+B 20
+L
+L
+B 50
+B 49
+L
+B 145
+L
+B 134
+L
+L
+B 34
+L
+B 49
+B 134
+L
+B 6
+L
+L
+B 145
+B 134
+L
+L
+B 56
+L
+B 134
+L
+B 6
+L
+B 25
+L
+B 17
+L
+B 41
+L
+B 33
+L
+L
+B 38
+B 37
+B 148
+L
+B 144
+L
+B 20
+L
+L
+B 5
+L
+B 41
+B 144
+L
+L
+B 33
+L
+B 146
+B 145
+L
+L
+B 145
+L
+B 17
+L
+B 1
+L
+L
+B 37
+B 42
+B 144
+L
+B 20
+L
+L
+B 34
+L
+B 70
+B 50
+L
+B 48
+L
+L
+B 6
+L
+B 145
+L
+B 146
+L
+B 18
+L
+B 10
+L
+L
+B 5
+L
+B 36
+L
+B 42
+B 49
+L
+B 33
+L
+B 70
+L
+B 6
+L
+B 134
+L
+B 145
+L
+L
+B 34
+L
+B 70
+B 41
+L
+B 33
+L
+B 48
+L
+B 50
+L
+L
+B 6
+L
+B 41
+B 133
+L
+B 146
+L
+L
+B 33
+L
+B 145
+L
+B 17
+L
+B 146
+L
+B 18
+L
+B 129
+L
+L
+B 224
+L
+B 168
+L
+B 160
+L
+B 240
+B 172
+B 21
+B 70
+B 41
+B 26
+L
+B 162
+L
+L
+B 26
+B 73
+L
+L
+B 73
+L
+B 42
+L
+B 40
+L
+L
+B 42
+B 73
+B 134
+L
+L
+B 134
+L
+B 6
+L
+B 146
+L
+B 130
+L
+L
+B 22
+B 41
+B 74
+L
+L
+B 40
+L
+B 73
+L
+B 74
+L
+L
+B 6
+L
+B 34
+L
+B 73
+B 66
+L
+L
+B 41
+L
+B 66
+L
+B 162
+L
+B 130
+L
+L
+B 22
+B 69
+B 42
+B 25
+L
+L
+B 25
+L
+B 74
+L
+B 41
+L
+B 40
+L
+L
+B 41
+B 74
+L
+B 133
+L
+B 5
+L
+B 145
+L
+B 129
+L
+L
+B 5
+L
+B 33
+L
+B 74
+B 65
+L
+L
+B 42
+L
+B 65
+L
+B 161
+L
+B 129
+L
+L
+B 69
+B 42
+B 134
+L
+B 25
+L
+B 146
+L
+B 130
+L
+L
+B 134
+B 25
+L
+B 40
+L
+B 41
+L
+L
+B 6
+L
+B 34
+L
+B 25
+L
+B 18
+L
+B 162
+L
+B 41
+L
+L
+B 70
+B 41
+B 26
+L
+B 133
+L
+B 5
+L
+B 145
+L
+L
+B 5
+L
+B 33
+L
+B 26
+L
+B 17
+L
+B 161
+L
+B 42
+L
+L
+B 5
+L
+B 6
+L
+B 41
+B 162
+L
+B 130
+L
+B 146
+L
+B 82
+L
+L
+B 33
+L
+B 42
+B 161
+L
+B 81
+L
+L
+B 34
+L
+B 17
+L
+B 18
+L
+L
+B 164
+L
+B 44
+L
+B 41
+B 162
+B 70
+L
+B 21
+L
+B 22
+L
+B 69
+L
+B 6
+L
+L
+B 22
+B 42
+L
+B 69
+B 138
+L
+B 74
+L
+L
+B 138
+L
+B 133
+L
+B 74
+L
+B 5
+L
+B 145
+L
+L
+B 70
+B 21
+B 42
+L
+B 138
+L
+B 26
+L
+L
+B 42
+L
+B 133
+B 138
+L
+L
+B 138
+L
+B 26
+L
+B 145
+L
+B 129
+L
+L
+B 21
+B 38
+L
+B 6
+L
+B 42
+L
+B 34
+L
+B 14
+L
+B 26
+L
+L
+B 38
+L
+B 6
+L
+B 42
+B 132
+L
+L
+B 34
+L
+B 69
+B 14
+L
+L
+B 133
+L
+B 5
+L
+B 14
+L
+B 145
+L
+L
+B 40
+L
+B 42
+B 161
+B 22
+L
+L
+B 21
+B 70
+L
+B 137
+L
+B 134
+L
+B 6
+L
+L
+B 22
+B 69
+L
+B 37
+L
+B 5
+L
+B 33
+L
+L
+B 69
+B 134
+L
+B 137
+L
+B 25
+L
+L
+B 37
+L
+B 5
+L
+B 33
+L
+B 70
+L
+B 134
+L
+B 6
+L
+L
+B 161
+B 22
+B 69
+L
+B 138
+L
+B 56
+L
+B 74
+L
+B 10
+L
+L
+B 69
+B 38
+L
+B 134
+L
+B 6
+L
+B 138
+L
+B 162
+L
+L
+B 38
+L
+B 70
+B 21
+L
+B 138
+L
+L
+B 6
+L
+B 21
+B 138
+L
+L
+B 138
+L
+B 162
+L
+B 34
+L
+B 5
+L
+L
+B 22
+B 56
+L
+B 69
+B 162
+L
+B 137
+L
+B 136
+L
+B 138
+L
+B 25
+L
+B 74
+L
+B 10
+L
+L
+B 162
+B 37
+L
+B 33
+L
+L
+B 37
+B 138
+L
+L
+B 33
+L
+B 138
+L
+B 25
+B 36
+L
+L
+B 133
+L
+B 5
+L
+B 74
+L
+B 10
+L
+B 17
+L
+L
+B 162
+B 21
+B 70
+L
+B 137
+L
+B 56
+L
+L
+B 69
+B 137
+L
+B 56
+L
+L
+B 70
+B 37
+L
+B 5
+L
+L
+B 37
+L
+B 5
+L
+B 33
+L
+B 6
+L
+L
+B 21
+B 70
+B 56
+L
+B 137
+L
+B 136
+L
+B 138
+L
+B 26
+L
+B 73
+L
+L
+B 56
+L
+B 38
+L
+B 34
+L
+B 6
+L
+B 137
+L
+B 73
+B 14
+L
+L
+B 9
+L
+B 14
+L
+B 26
+L
+B 10
+L
+L
+B 69
+B 38
+B 137
+L
+B 56
+L
+L
+B 34
+L
+B 56
+L
+B 137
+L
+B 134
+L
+B 6
+L
+B 25
+L
+B 14
+L
+B 26
+L
+B 18
+L
+L
+B 38
+B 37
+L
+B 5
+L
+B 33
+L
+B 138
+L
+L
+B 34
+L
+B 37
+B 70
+L
+B 6
+L
+L
+B 5
+L
+B 33
+L
+B 70
+B 138
+L
+B 13
+L
+B 25
+L
+B 17
+L
+L
+B 6
+L
+B 13
+L
+B 14
+L
+B 25
+L
+B 17
+L
+B 26
+L
+L
+B 176
+L
+B 172
+B 161
+B 70
+B 21
+B 146
+L
+B 50
+L
+B 42
+L
+B 73
+L
+B 162
+L
+B 26
+L
+L
+B 146
+B 73
+L
+L
+B 50
+L
+B 48
+L
+B 42
+L
+B 73
+L
+B 52
+L
+B 162
+L
+L
+B 22
+B 69
+B 98
+L
+B 194
+L
+B 42
+L
+B 25
+L
+B 162
+L
+B 34
+L
+L
+B 98
+L
+B 194
+L
+B 42
+B 25
+L
+L
+B 25
+B 66
+L
+B 162
+L
+L
+B 66
+L
+B 162
+L
+B 73
+L
+B 65
+L
+L
+B 69
+B 98
+L
+B 146
+L
+B 194
+L
+B 42
+L
+B 50
+L
+B 34
+L
+B 6
+L
+B 18
+L
+B 25
+L
+L
+B 98
+B 21
+L
+B 5
+L
+B 146
+L
+L
+B 146
+B 21
+L
+B 5
+L
+L
+B 21
+B 194
+L
+B 66
+L
+B 42
+L
+B 162
+L
+B 34
+L
+B 73
+L
+L
+B 194
+B 5
+L
+L
+B 66
+L
+B 42
+L
+B 162
+L
+B 34
+L
+B 6
+L
+B 5
+L
+B 73
+L
+L
+B 70
+B 162
+B 21
+B 97
+L
+B 193
+L
+B 41
+L
+B 26
+L
+B 33
+L
+L
+B 97
+L
+B 145
+L
+B 193
+L
+B 41
+L
+B 33
+L
+B 17
+L
+B 26
+L
+B 5
+L
+L
+B 21
+B 41
+B 146
+L
+B 50
+L
+B 26
+L
+B 193
+L
+B 144
+L
+L
+B 146
+B 97
+L
+B 193
+L
+B 33
+L
+L
+B 97
+B 50
+L
+B 42
+L
+L
+B 33
+L
+B 50
+L
+B 48
+L
+B 193
+L
+B 26
+L
+B 42
+L
+B 34
+L
+L
+B 41
+B 146
+B 133
+L
+L
+B 50
+L
+B 144
+L
+B 145
+L
+B 208
+L
+B 193
+L
+B 192
+L
+L
+B 97
+B 146
+L
+B 50
+L
+B 144
+L
+B 42
+L
+B 145
+L
+L
+B 33
+L
+B 146
+B 145
+L
+B 17
+L
+B 193
+L
+B 129
+L
+L
+B 48
+L
+B 50
+B 145
+L
+L
+B 52
+L
+B 56
+L
+B 112
+L
+B 32
+L
+L
+B 162
+B 21
+B 97
+L
+B 193
+L
+B 41
+B 26
+L
+L
+B 26
+B 33
+L
+L
+B 74
+B 22
+L
+L
+B 66
+L
+B 33
+L
+L
+B 69
+B 22
+B 145
+L
+B 49
+L
+B 74
+L
+L
+B 145
+L
+B 49
+L
+B 74
+B 41
+L
+L
+B 41
+L
+B 6
+L
+B 14
+L
+L
+B 97
+B 22
+L
+B 6
+L
+L
+B 22
+B 145
+L
+B 193
+L
+B 65
+L
+B 41
+L
+B 33
+L
+B 74
+L
+L
+B 145
+B 6
+L
+L
+B 193
+L
+B 65
+L
+B 41
+L
+B 33
+L
+B 5
+L
+B 6
+L
+B 74
+L
+L
+B 21
+B 98
+B 97
+B 208
+L
+L
+B 193
+L
+B 41
+L
+B 33
+L
+B 146
+L
+B 73
+L
+B 65
+L
+L
+B 97
+B 146
+L
+B 194
+L
+B 66
+L
+B 42
+L
+B 34
+L
+B 130
+L
+L
+B 96
+L
+B 146
+B 193
+L
+B 41
+L
+B 33
+L
+L
+B 193
+B 194
+L
+B 66
+L
+B 42
+L
+L
+B 194
+B 41
+L
+L
+B 66
+L
+B 42
+B 192
+L
+L
+B 34
+L
+B 130
+L
+B 6
+L
+B 41
+L
+B 22
+L
+L
+B 69
+B 22
+B 42
+B 145
+L
+B 49
+L
+B 208
+L
+B 144
+L
+L
+B 145
+B 98
+L
+L
+B 98
+L
+B 34
+L
+B 49
+L
+B 48
+L
+B 194
+L
+B 25
+L
+L
+B 42
+B 145
+L
+B 49
+L
+B 134
+L
+B 144
+L
+B 146
+L
+B 208
+L
+B 194
+L
+L
+B 98
+B 145
+L
+B 49
+L
+B 144
+L
+L
+B 34
+L
+B 145
+B 6
+L
+B 146
+L
+L
+B 49
+B 6
+L
+L
+B 48
+L
+B 6
+L
+B 146
+L
+B 18
+L
+B 25
+L
+B 41
+L
+B 33
+L
+L
+B 22
+B 97
+B 98
+L
+B 194
+L
+B 42
+L
+B 34
+L
+B 145
+L
+L
+B 98
+B 145
+L
+B 193
+L
+B 65
+L
+B 41
+L
+B 33
+L
+L
+B 96
+L
+B 145
+B 194
+L
+L
+B 193
+L
+B 194
+L
+B 65
+L
+B 41
+L
+B 33
+L
+B 5
+L
+B 129
+L
+L
+B 97
+B 98
+B 208
+L
+B 144
+L
+L
+B 146
+L
+B 194
+L
+B 66
+L
+B 42
+L
+B 34
+L
+B 6
+L
+B 130
+L
+L
+B 98
+B 145
+L
+B 193
+L
+B 65
+L
+B 41
+L
+B 33
+L
+B 5
+L
+B 129
+L
+L
+B 145
+B 146
+B 96
+L
+L
+B 194
+L
+B 66
+L
+B 42
+L
+B 34
+L
+B 6
+L
+B 130
+L
+L
+B 146
+B 193
+L
+B 65
+L
+B 41
+L
+B 33
+L
+B 5
+L
+B 129
+L
+L
+B 193
+B 194
+L
+B 66
+L
+B 42
+L
+B 34
+L
+B 6
+L
+L
+B 194
+B 65
+L
+B 41
+L
+B 33
+L
+B 5
+L
+L
+B 65
+L
+B 41
+B 66
+L
+B 130
+L
+B 6
+L
+L
+B 33
+L
+B 66
+L
+B 130
+L
+B 6
+L
+B 5
+L
+B 129
+L
+B 42
+L
+B 34
+L
+L
+B 164
+L
+B 44
+L
+B 52
+B 41
+L
+B 42
+L
+B 128
+L
+B 136
+L
+B 192
+L
+L
+B 56
+L
+B 40
+L
+B 41
+B 42
+B 132
+L
+B 140
+L
+B 144
+L
+B 152
+L
+L
+B 98
+B 132
+L
+B 144
+L
+L
+B 34
+L
+B 36
+L
+B 48
+L
+B 100
+L
+B 112
+L
+B 32
+L
+B 96
+L
+L
+B 42
+B 97
+B 132
+L
+B 144
+L
+L
+B 33
+L
+B 36
+L
+B 48
+L
+B 100
+L
+B 112
+L
+B 32
+L
+B 96
+L
+L
+B 36
+L
+B 48
+L
+B 100
+B 180
+L
+L
+B 104
+L
+B 112
+L
+B 96
+L
+B 32
+L
+B 116
+B 69
+L
+B 22
+L
+L
+B 108
+B 180
+L
+B 21
+L
+L
+B 120
+B 180
+L
+L
+B 37
+L
+B 33
+L
+B 38
+L
+B 34
+L
+B 21
+B 70
+B 26
+L
+B 73
+L
+L
+B 134
+L
+B 138
+L
+B 146
+L
+L
+B 70
+B 133
+L
+B 137
+L
+B 145
+L
+L
+B 22
+B 69
+L
+B 133
+L
+L
+B 69
+B 134
+L
+L
+B 5
+L
+B 6
+L
+L
+B 28
+B 228
+B 41
+L
+L
+B 100
+L
+B 232
+L
+B 224
+L
+B 96
+L
+B 104
+L
+B 108
+L
+B 112
+L
+B 116
+L
+B 120
+L
+B 160
+L
+B 164
+L
+B 168
+L
+L
+B 156
+B 228
+B 120
+B 161
+B 42
+B 69
+B 22
+B 194
+L
+B 25
+L
+L
+B 82
+B 134
+L
+L
+B 18
+L
+B 194
+L
+B 70
+L
+B 66
+L
+L
+B 22
+B 73
+B 194
+L
+B 21
+L
+B 5
+L
+L
+B 65
+L
+B 13
+L
+B 5
+L
+B 194
+L
+L
+B 70
+B 21
+B 73
+L
+L
+B 5
+L
+B 73
+L
+B 81
+L
+B 65
+L
+L
+B 21
+B 82
+L
+B 146
+L
+B 18
+L
+B 194
+L
+B 66
+L
+L
+B 82
+B 5
+L
+B 73
+L
+B 81
+L
+L
+B 20
+L
+B 5
+L
+B 146
+L
+B 18
+L
+B 194
+L
+L
+B 69
+B 22
+B 138
+B 98
+L
+L
+B 10
+L
+B 162
+L
+B 194
+L
+B 130
+L
+L
+B 138
+B 82
+B 38
+L
+B 6
+L
+L
+B 18
+L
+B 38
+L
+B 34
+L
+L
+B 10
+L
+B 162
+B 70
+L
+B 6
+L
+L
+B 34
+L
+B 6
+L
+B 18
+L
+B 2
+L
+B 25
+L
+L
+B 22
+B 138
+B 73
+B 21
+L
+B 5
+L
+L
+B 65
+L
+B 13
+L
+B 5
+L
+L
+B 10
+L
+B 162
+B 73
+L
+B 65
+L
+B 13
+L
+L
+B 194
+B 73
+L
+B 65
+L
+L
+B 130
+L
+B 73
+B 34
+L
+L
+B 65
+L
+B 13
+L
+B 5
+L
+L
+B 70
+B 162
+B 21
+L
+B 5
+L
+B 73
+L
+B 81
+L
+L
+B 21
+B 138
+L
+B 34
+L
+B 146
+L
+L
+B 138
+B 5
+L
+B 73
+L
+B 81
+L
+L
+B 5
+L
+B 34
+L
+B 73
+L
+B 146
+L
+B 130
+L
+L
+B 6
+L
+B 10
+L
+B 21
+B 34
+L
+B 66
+L
+B 2
+L
+B 73
+L
+L
+B 34
+L
+B 5
+L
+B 130
+L
+B 2
+L
+B 73
+L
+B 81
+L
+L
+B 162
+B 69
+B 22
+B 41
+B 74
+L
+B 145
+L
+L
+B 33
+L
+B 137
+L
+B 145
+L
+B 129
+L
+B 74
+L
+L
+B 41
+B 70
+B 145
+L
+L
+B 6
+L
+B 74
+L
+B 82
+L
+B 66
+L
+L
+B 70
+B 33
+L
+B 137
+L
+B 145
+L
+B 129
+L
+L
+B 33
+L
+B 137
+B 6
+L
+B 74
+L
+L
+B 6
+L
+B 145
+L
+B 129
+L
+B 74
+L
+B 82
+L
+L
+B 70
+B 41
+B 21
+L
+B 81
+L
+B 17
+L
+B 193
+L
+L
+B 21
+B 137
+L
+B 9
+L
+B 193
+L
+L
+B 33
+L
+B 5
+L
+B 9
+L
+B 17
+L
+B 1
+L
+B 26
+L
+L
+B 41
+B 21
+B 74
+B 193
+L
+L
+B 66
+L
+B 14
+L
+B 22
+L
+L
+B 22
+B 81
+L
+B 145
+L
+B 17
+L
+B 193
+L
+L
+B 81
+B 6
+L
+B 74
+L
+L
+B 6
+L
+B 20
+L
+B 74
+L
+B 145
+L
+L
+B 21
+B 137
+B 74
+L
+B 66
+L
+B 14
+L
+L
+B 9
+L
+B 74
+B 193
+L
+B 65
+L
+L
+B 66
+L
+B 193
+L
+B 65
+L
+L
+B 5
+L
+B 33
+L
+B 9
+L
+B 22
+B 65
+L
+B 1
+L
+B 74
+L
+L
+B 6
+L
+B 129
+L
+B 1
+L
+B 74
+L
+B 82
+L
+L
+B 69
+B 42
+B 22
+B 137
+B 194
+L
+B 49
+L
+L
+B 129
+L
+B 41
+L
+B 49
+L
+B 33
+L
+L
+B 82
+B 137
+B 49
+L
+L
+B 129
+L
+B 41
+L
+B 49
+L
+L
+B 137
+B 18
+L
+B 194
+L
+B 130
+L
+L
+B 129
+L
+B 18
+L
+B 194
+L
+B 130
+L
+B 41
+L
+L
+B 22
+B 41
+B 138
+L
+B 130
+L
+B 74
+L
+B 10
+L
+L
+B 138
+B 33
+L
+B 137
+L
+B 145
+L
+L
+B 33
+L
+B 34
+L
+B 137
+L
+B 145
+L
+B 129
+L
+B 10
+L
+L
+B 34
+L
+B 138
+B 41
+B 38
+L
+B 6
+L
+L
+B 33
+L
+B 137
+L
+B 145
+L
+B 129
+L
+B 38
+L
+L
+B 41
+B 130
+L
+B 18
+L
+B 6
+L
+B 2
+L
+B 145
+L
+L
+B 130
+L
+B 18
+L
+B 6
+L
+B 2
+L
+B 137
+L
+B 129
+L
+B 49
+L
+L
+B 42
+B 21
+B 70
+B 137
+L
+B 129
+L
+B 41
+L
+B 73
+L
+L
+B 137
+B 82
+L
+B 146
+L
+B 194
+L
+B 66
+L
+L
+B 82
+B 129
+L
+B 41
+L
+L
+B 129
+L
+B 41
+B 146
+L
+L
+B 73
+L
+B 9
+L
+B 65
+L
+L
+B 5
+L
+B 70
+B 33
+L
+B 17
+L
+B 129
+L
+B 1
+L
+B 146
+L
+L
+B 22
+B 33
+L
+B 137
+L
+B 9
+L
+B 129
+L
+B 65
+L
+L
+B 33
+L
+B 17
+L
+B 82
+B 129
+L
+L
+B 129
+L
+B 65
+L
+B 146
+L
+B 18
+L
+L
+B 70
+B 21
+B 41
+B 138
+L
+B 130
+L
+B 50
+L
+L
+B 137
+B 34
+L
+B 138
+L
+L
+B 34
+L
+B 138
+B 33
+L
+L
+B 33
+L
+B 146
+L
+B 130
+L
+L
+B 41
+B 81
+B 138
+L
+B 130
+L
+L
+B 138
+B 17
+L
+B 193
+L
+L
+B 130
+L
+B 17
+L
+B 193
+L
+B 129
+L
+L
+B 33
+L
+B 5
+L
+B 17
+L
+B 129
+L
+B 1
+L
+B 138
+L
+B 130
+L
+B 50
+L
+L
+B 21
+B 34
+L
+B 41
+B 138
+B 22
+L
+B 6
+L
+L
+B 130
+L
+B 66
+L
+B 10
+L
+B 6
+L
+L
+B 137
+B 138
+L
+B 130
+L
+B 10
+L
+L
+B 138
+B 22
+L
+B 33
+L
+B 9
+L
+L
+B 130
+L
+B 10
+L
+B 66
+L
+B 6
+L
+B 9
+L
+L
+B 34
+L
+B 22
+B 41
+B 138
+L
+B 81
+L
+B 130
+L
+B 74
+L
+L
+B 33
+L
+B 5
+L
+B 138
+B 137
+L
+L
+B 137
+L
+B 9
+L
+B 129
+L
+B 65
+L
+L
+B 6
+L
+B 41
+B 18
+L
+B 81
+B 130
+L
+L
+B 130
+L
+B 66
+L
+B 145
+L
+B 17
+L
+L
+B 33
+L
+B 5
+L
+B 137
+B 138
+L
+B 10
+L
+B 130
+L
+L
+B 9
+L
+B 138
+B 129
+L
+L
+B 10
+L
+B 129
+L
+B 1
+L
+B 130
+L
+B 2
+L
+L
+B 56
+L
+B 88
+L
+B 41
+B 162
+B 24
+L
+B 70
+B 21
+B 112
+L
+L
+B 81
+L
+B 80
+L
+B 112
+L
+L
+B 74
+B 20
+L
+L
+B 82
+B 21
+L
+L
+B 80
+L
+B 21
+B 66
+L
+L
+B 69
+L
+B 22
+L
+B 81
+L
+B 66
+L
+L
+B 42
+B 80
+L
+B 112
+L
+B 21
+B 70
+L
+L
+B 20
+L
+B 22
+L
+B 48
+L
+L
+B 50
+B 21
+B 70
+L
+B 74
+L
+B 66
+L
+L
+B 69
+B 74
+L
+B 138
+L
+L
+B 70
+B 81
+L
+L
+B 81
+L
+B 74
+L
+B 5
+L
+B 17
+L
+L
+B 34
+L
+B 22
+B 69
+B 74
+L
+B 138
+L
+B 10
+L
+L
+B 74
+L
+B 81
+L
+B 138
+L
+B 10
+L
+B 65
+L
+L
+B 69
+B 74
+L
+B 82
+L
+B 18
+L
+B 26
+L
+B 10
+L
+B 130
+L
+B 6
+L
+L
+B 74
+B 20
+L
+B 112
+L
+B 48
+L
+L
+B 82
+B 21
+L
+B 81
+L
+B 5
+L
+L
+B 18
+L
+B 70
+B 21
+L
+B 26
+L
+B 81
+L
+B 24
+L
+L
+B 6
+L
+B 66
+L
+B 130
+L
+B 81
+L
+B 2
+L
+B 21
+L
+L
+B 42
+B 161
+B 24
+L
+B 69
+B 22
+L
+B 82
+L
+B 80
+L
+L
+B 73
+B 20
+L
+L
+B 22
+B 81
+L
+B 65
+L
+B 25
+L
+L
+B 81
+L
+B 80
+L
+B 70
+L
+B 82
+L
+B 65
+L
+L
+B 49
+B 22
+B 69
+L
+B 73
+L
+B 65
+L
+L
+B 69
+B 82
+L
+B 18
+L
+L
+B 70
+B 73
+L
+L
+B 82
+L
+B 73
+L
+B 6
+L
+B 18
+L
+L
+B 33
+L
+B 21
+B 70
+B 73
+L
+B 137
+L
+B 9
+L
+L
+B 73
+L
+B 82
+L
+B 137
+L
+B 9
+L
+B 66
+L
+L
+B 69
+B 22
+B 25
+L
+B 24
+L
+B 17
+L
+L
+B 25
+L
+B 24
+L
+B 82
+B 17
+L
+L
+B 17
+L
+B 18
+L
+B 194
+L
+L
+B 5
+L
+B 22
+B 73
+L
+B 81
+L
+B 65
+L
+B 25
+L
+B 17
+L
+B 129
+L
+L
+B 73
+B 20
+L
+L
+B 70
+B 81
+L
+B 17
+L
+B 65
+L
+B 129
+L
+L
+B 81
+L
+B 17
+L
+B 65
+L
+B 129
+L
+B 82
+L
+B 25
+L
+B 1
+L
+L
+B 161
+B 24
+L
+B 22
+B 69
+B 74
+L
+B 138
+L
+B 10
+L
+B 104
+L
+B 40
+L
+B 72
+L
+L
+B 73
+B 74
+L
+B 138
+L
+B 10
+L
+L
+B 72
+L
+B 74
+L
+B 81
+L
+B 104
+L
+B 40
+L
+B 76
+L
+B 10
+L
+L
+B 69
+B 50
+B 74
+L
+B 72
+L
+L
+B 74
+B 18
+L
+L
+B 82
+B 40
+L
+L
+B 18
+L
+B 98
+B 40
+L
+L
+B 34
+L
+B 26
+L
+B 10
+L
+B 6
+L
+B 2
+L
+L
+B 50
+B 73
+L
+B 81
+L
+B 72
+L
+B 70
+L
+B 21
+L
+B 74
+L
+L
+B 74
+B 73
+L
+B 81
+L
+B 65
+L
+B 25
+L
+B 21
+L
+B 18
+L
+L
+B 73
+B 82
+L
+B 18
+L
+B 70
+L
+B 66
+L
+B 26
+L
+B 10
+L
+L
+B 72
+L
+B 82
+B 81
+L
+B 65
+L
+L
+B 18
+L
+B 70
+B 81
+L
+B 80
+L
+L
+B 81
+B 66
+L
+L
+B 66
+L
+B 80
+L
+B 26
+L
+B 10
+L
+B 6
+L
+L
+B 162
+B 24
+L
+B 69
+B 74
+B 49
+L
+B 33
+L
+B 17
+L
+B 22
+L
+L
+B 82
+B 49
+L
+B 33
+L
+B 17
+L
+L
+B 49
+B 22
+L
+B 26
+L
+L
+B 22
+B 33
+L
+B 40
+L
+L
+B 26
+B 33
+L
+B 9
+L
+L
+B 33
+L
+B 18
+L
+B 9
+L
+B 70
+L
+B 137
+L
+B 17
+L
+L
+B 70
+B 21
+B 73
+L
+B 137
+L
+B 9
+L
+B 104
+L
+B 40
+L
+L
+B 49
+B 73
+L
+L
+B 33
+L
+B 5
+L
+B 17
+L
+B 25
+L
+B 73
+L
+B 9
+L
+B 1
+L
+L
+B 21
+B 74
+B 73
+L
+L
+B 82
+L
+B 72
+L
+B 73
+L
+B 104
+L
+B 40
+L
+L
+B 49
+B 74
+L
+B 82
+L
+B 72
+L
+B 22
+L
+L
+B 74
+B 33
+L
+B 5
+L
+B 17
+L
+B 25
+L
+L
+B 33
+L
+B 5
+L
+B 82
+B 17
+L
+L
+B 17
+L
+B 25
+L
+B 26
+L
+B 66
+L
+B 22
+L
+B 73
+L
+B 9
+L
+B 65
+L
+L
+B 49
+B 50
+B 72
+L
+B 104
+L
+B 40
+L
+B 24
+L
+L
+B 34
+L
+B 22
+B 40
+L
+B 72
+L
+B 69
+L
+L
+B 70
+B 26
+L
+B 24
+L
+B 18
+L
+B 73
+L
+B 40
+L
+L
+B 6
+L
+B 74
+B 69
+L
+L
+B 69
+B 82
+L
+B 18
+L
+B 66
+L
+B 130
+L
+L
+B 82
+L
+B 18
+L
+B 66
+L
+B 130
+L
+B 26
+L
+B 10
+L
+B 73
+L
+L
+B 33
+L
+B 21
+B 50
+B 40
+L
+B 72
+L
+B 70
+L
+L
+B 34
+L
+B 70
+B 40
+L
+B 73
+L
+B 26
+L
+B 24
+L
+B 72
+L
+L
+B 74
+B 73
+L
+B 137
+L
+B 9
+L
+L
+B 82
+B 40
+L
+B 73
+L
+L
+B 66
+L
+B 26
+L
+B 10
+L
+B 73
+L
+B 6
+L
+B 137
+L
+B 130
+L
+B 2
+L
+L
+B 50
+B 69
+B 25
+L
+B 24
+L
+B 17
+L
+B 74
+L
+B 40
+L
+L
+B 5
+L
+B 73
+B 70
+L
+L
+B 70
+B 81
+L
+B 17
+L
+B 65
+L
+B 129
+L
+L
+B 81
+L
+B 17
+L
+B 65
+L
+B 129
+L
+B 25
+L
+B 9
+L
+B 74
+L
+L
+B 34
+L
+B 22
+B 69
+B 40
+L
+B 74
+L
+B 25
+L
+B 24
+L
+B 138
+L
+L
+B 5
+L
+B 73
+L
+B 74
+B 81
+L
+B 65
+L
+L
+B 81
+L
+B 65
+L
+B 25
+L
+B 17
+L
+B 138
+L
+B 9
+L
+B 1
+L
+L
+B 69
+B 74
+B 25
+L
+B 17
+L
+B 48
+L
+L
+B 82
+B 25
+L
+B 40
+L
+L
+B 18
+L
+B 25
+B 26
+L
+B 10
+L
+L
+B 24
+L
+B 26
+L
+B 10
+L
+B 17
+L
+B 98
+L
+B 130
+L
+B 194
+L
+L
+B 5
+L
+B 74
+B 73
+L
+B 81
+L
+B 17
+L
+B 65
+L
+B 25
+L
+B 9
+L
+B 1
+L
+L
+B 82
+B 73
+L
+B 81
+L
+B 17
+L
+B 65
+L
+B 25
+L
+B 9
+L
+L
+B 18
+L
+B 70
+B 73
+L
+B 81
+L
+B 17
+L
+B 26
+L
+B 65
+L
+B 25
+L
+B 9
+L
+L
+B 6
+L
+B 73
+B 66
+L
+B 26
+L
+L
+B 81
+B 66
+L
+L
+B 17
+L
+B 65
+L
+B 25
+L
+B 66
+L
+B 26
+L
+B 9
+L
+B 129
+L
+B 10
+L
+L
+B 232
+B 116
+B 161
+B 42
+B 69
+B 194
+B 22
+L
+B 25
+L
+L
+B 22
+B 25
+L
+B 66
+L
+L
+B 146
+B 25
+L
+L
+B 134
+L
+B 130
+L
+B 70
+L
+B 6
+L
+L
+B 194
+B 73
+B 22
+L
+L
+B 65
+L
+B 21
+L
+B 5
+L
+L
+B 70
+B 73
+L
+B 21
+B 146
+L
+L
+B 81
+L
+B 65
+L
+B 13
+L
+L
+B 73
+B 22
+L
+B 146
+L
+B 6
+L
+L
+B 22
+B 65
+L
+B 13
+L
+B 25
+L
+L
+B 65
+L
+B 21
+B 146
+L
+L
+B 146
+L
+B 13
+L
+B 5
+L
+L
+B 70
+B 73
+B 50
+B 21
+L
+L
+B 34
+L
+B 146
+L
+B 18
+L
+L
+B 50
+B 21
+B 9
+L
+L
+B 69
+L
+B 81
+L
+B 65
+L
+B 13
+L
+L
+B 21
+B 34
+L
+B 146
+L
+B 26
+L
+B 18
+L
+L
+B 34
+L
+B 146
+B 69
+L
+B 81
+L
+L
+B 26
+B 69
+L
+L
+B 18
+L
+B 69
+L
+B 81
+L
+B 65
+L
+L
+B 69
+B 146
+B 14
+B 25
+L
+L
+B 10
+L
+B 6
+L
+B 25
+L
+L
+B 194
+B 22
+B 25
+L
+L
+B 50
+L
+B 18
+L
+B 34
+L
+L
+B 130
+L
+B 34
+L
+B 6
+L
+B 22
+L
+B 18
+L
+B 25
+L
+L
+B 146
+B 73
+B 14
+L
+B 6
+L
+B 74
+L
+B 10
+L
+L
+B 14
+B 21
+L
+B 5
+L
+B 65
+L
+L
+B 6
+L
+B 21
+B 74
+L
+B 10
+L
+L
+B 5
+L
+B 74
+L
+B 10
+L
+B 13
+L
+L
+B 73
+B 194
+B 22
+L
+B 6
+L
+B 14
+L
+L
+B 66
+L
+B 10
+L
+B 18
+L
+B 22
+L
+B 6
+L
+L
+B 194
+B 21
+B 50
+L
+B 34
+L
+B 14
+L
+L
+B 5
+L
+B 50
+B 65
+L
+L
+B 34
+L
+B 14
+L
+B 6
+L
+L
+B 66
+L
+B 10
+L
+B 18
+L
+B 22
+B 65
+L
+L
+B 6
+L
+B 65
+L
+B 13
+L
+B 25
+L
+L
+B 42
+B 69
+B 194
+B 49
+B 22
+L
+L
+B 33
+L
+B 145
+L
+B 17
+L
+L
+B 49
+B 22
+B 137
+L
+L
+B 146
+L
+B 130
+L
+B 70
+L
+L
+B 22
+B 33
+L
+B 145
+L
+B 25
+L
+B 17
+L
+L
+B 33
+L
+B 145
+B 146
+L
+B 130
+L
+L
+B 146
+B 25
+L
+L
+B 25
+L
+B 17
+L
+B 130
+L
+L
+B 194
+B 145
+B 13
+B 22
+L
+L
+B 5
+L
+B 73
+L
+B 22
+L
+B 41
+L
+L
+B 129
+L
+B 5
+L
+B 33
+L
+B 21
+L
+B 17
+L
+B 22
+L
+L
+B 145
+B 70
+B 13
+L
+B 73
+L
+B 5
+L
+B 41
+L
+L
+B 13
+B 22
+L
+B 146
+L
+B 130
+L
+L
+B 22
+B 73
+L
+B 41
+L
+B 9
+L
+B 37
+L
+L
+B 146
+B 5
+L
+B 73
+L
+L
+B 5
+L
+B 73
+L
+B 130
+L
+B 6
+L
+L
+B 129
+L
+B 5
+L
+B 33
+L
+B 70
+B 21
+L
+B 17
+L
+L
+B 21
+B 146
+L
+B 130
+L
+L
+B 17
+L
+B 146
+L
+B 130
+L
+B 82
+L
+L
+B 162
+B 41
+B 70
+B 193
+L
+B 21
+B 26
+L
+L
+B 145
+L
+B 129
+L
+B 69
+L
+L
+B 193
+B 74
+L
+B 66
+L
+B 22
+L
+L
+B 69
+B 74
+L
+B 22
+L
+B 82
+L
+L
+B 74
+B 21
+L
+B 145
+L
+L
+B 21
+B 66
+L
+L
+B 66
+L
+B 22
+L
+B 145
+L
+B 129
+L
+L
+B 69
+B 74
+B 49
+L
+B 33
+L
+B 145
+L
+B 17
+L
+L
+B 49
+B 22
+L
+B 10
+L
+L
+B 33
+L
+B 145
+B 22
+L
+L
+B 22
+B 25
+L
+L
+B 25
+L
+B 17
+L
+B 70
+L
+B 82
+L
+L
+B 70
+B 33
+L
+B 21
+B 73
+L
+B 9
+L
+L
+B 5
+L
+B 145
+L
+B 17
+L
+B 9
+L
+L
+B 33
+L
+B 5
+L
+B 74
+B 21
+L
+B 145
+L
+B 17
+L
+L
+B 21
+B 73
+L
+B 9
+L
+L
+B 145
+B 13
+L
+B 66
+L
+L
+B 17
+L
+B 9
+L
+B 66
+L
+B 14
+L
+L
+B 41
+B 70
+B 193
+B 50
+L
+B 34
+L
+B 146
+L
+B 18
+L
+L
+B 50
+B 21
+L
+B 129
+L
+L
+B 34
+L
+B 21
+B 146
+L
+B 26
+L
+L
+B 146
+L
+B 145
+L
+B 129
+L
+B 26
+L
+B 18
+L
+L
+B 193
+B 34
+L
+B 6
+L
+B 130
+L
+B 22
+L
+B 18
+L
+L
+B 34
+L
+B 6
+L
+B 130
+L
+B 22
+B 69
+L
+B 145
+L
+L
+B 18
+L
+B 69
+L
+B 145
+L
+B 129
+L
+B 81
+L
+L
+B 69
+B 34
+L
+B 22
+B 49
+B 74
+L
+B 10
+L
+L
+B 33
+L
+B 74
+B 145
+L
+L
+B 145
+L
+B 10
+L
+B 25
+L
+L
+B 18
+L
+B 146
+B 49
+L
+B 33
+L
+B 145
+L
+B 14
+L
+L
+B 49
+B 130
+L
+B 6
+L
+L
+B 33
+L
+B 130
+L
+B 6
+L
+B 145
+L
+B 25
+L
+L
+B 70
+B 33
+L
+B 21
+B 50
+B 73
+L
+L
+B 34
+L
+B 146
+L
+B 73
+L
+B 26
+L
+B 18
+L
+L
+B 5
+L
+B 50
+B 129
+L
+B 17
+L
+L
+B 34
+L
+B 129
+L
+B 17
+L
+B 146
+L
+B 26
+L
+L
+B 33
+L
+B 34
+L
+B 5
+L
+B 6
+L
+B 129
+L
+B 130
+L
+B 21
+B 66
+L
+L
+B 17
+L
+B 66
+L
+L
+B 52
+L
+B 84
+L
+B 100
+L
+B 69
+B 22
+B 42
+B 161
+L
+B 49
+L
+B 194
+L
+L
+B 161
+B 138
+L
+B 10
+L
+L
+B 162
+B 41
+L
+L
+B 41
+L
+B 49
+L
+B 33
+L
+B 34
+L
+L
+B 162
+B 20
+L
+B 70
+B 112
+L
+L
+B 41
+B 82
+L
+B 74
+L
+L
+B 82
+L
+B 49
+L
+B 74
+L
+B 33
+L
+B 145
+L
+L
+B 20
+L
+B 38
+B 112
+L
+B 24
+L
+L
+B 34
+L
+B 161
+B 70
+L
+B 6
+L
+B 82
+L
+B 18
+L
+L
+B 70
+B 48
+L
+L
+B 6
+L
+B 41
+B 82
+L
+L
+B 49
+L
+B 33
+L
+B 82
+L
+B 18
+L
+L
+B 70
+B 21
+B 162
+B 41
+L
+B 137
+L
+L
+B 41
+B 50
+L
+L
+B 42
+L
+B 161
+L
+B 50
+L
+B 34
+L
+B 33
+L
+L
+B 161
+B 20
+L
+B 42
+B 81
+L
+B 73
+L
+L
+B 81
+L
+B 50
+L
+B 73
+L
+B 34
+L
+B 146
+L
+L
+B 20
+L
+B 37
+B 112
+L
+L
+B 5
+L
+B 162
+B 41
+L
+B 33
+L
+B 81
+L
+B 17
+L
+L
+B 41
+B 50
+L
+B 81
+L
+B 146
+L
+L
+B 33
+L
+B 42
+B 81
+L
+L
+B 50
+L
+B 34
+L
+B 81
+L
+B 17
+L
+L
+B 68
+L
+B 20
+L
+B 21
+B 162
+B 41
+L
+B 82
+L
+B 196
+L
+B 74
+L
+B 66
+L
+L
+B 38
+L
+B 41
+B 50
+L
+B 34
+L
+B 22
+L
+B 6
+L
+L
+B 50
+L
+B 34
+L
+B 22
+L
+B 6
+L
+B 161
+L
+B 33
+L
+L
+B 22
+B 161
+B 42
+L
+B 81
+L
+B 196
+L
+B 138
+L
+L
+B 42
+B 37
+L
+B 5
+L
+B 49
+L
+B 33
+L
+L
+B 37
+L
+B 5
+L
+B 41
+B 162
+L
+L
+B 33
+L
+B 162
+L
+B 34
+L
+L
+B 161
+B 42
+B 196
+L
+B 81
+L
+B 80
+L
+B 82
+L
+B 194
+L
+B 73
+L
+B 65
+L
+L
+B 196
+L
+B 38
+B 81
+L
+L
+B 6
+L
+B 81
+L
+B 50
+L
+B 34
+L
+B 73
+B 4
+L
+L
+B 65
+L
+B 26
+L
+B 10
+L
+L
+B 162
+B 41
+B 196
+L
+B 82
+L
+B 80
+L
+B 81
+L
+B 74
+L
+B 66
+L
+L
+B 196
+L
+B 37
+L
+B 5
+L
+B 33
+L
+B 82
+L
+B 74
+B 4
+L
+L
+B 66
+L
+B 25
+L
+B 9
+L
+L
+B 37
+B 38
+L
+B 6
+L
+B 42
+L
+B 34
+L
+B 81
+L
+B 82
+L
+L
+B 5
+L
+B 38
+B 41
+L
+B 33
+L
+B 82
+L
+B 81
+L
+L
+B 6
+L
+B 41
+B 50
+L
+B 34
+L
+B 81
+L
+B 82
+L
+B 18
+L
+L
+B 33
+L
+B 42
+B 82
+L
+B 81
+L
+B 17
+L
+L
+B 34
+L
+B 36
+L
+B 81
+L
+B 17
+L
+B 82
+L
+L
+B 224
+L
+B 240
+B 108
+B 21
+B 162
+B 41
+B 70
+L
+B 82
+L
+B 66
+L
+B 22
+L
+L
+B 70
+B 137
+L
+B 9
+L
+B 161
+L
+L
+B 82
+B 137
+L
+B 9
+L
+L
+B 137
+B 66
+L
+L
+B 9
+L
+B 66
+L
+B 22
+L
+B 161
+L
+L
+B 42
+B 70
+B 137
+L
+B 161
+L
+B 41
+L
+L
+B 137
+B 82
+L
+B 22
+L
+B 6
+L
+L
+B 161
+B 82
+L
+B 22
+L
+L
+B 82
+B 41
+L
+B 73
+L
+L
+B 41
+B 22
+L
+L
+B 22
+L
+B 73
+L
+B 9
+L
+B 193
+L
+L
+B 70
+B 41
+B 26
+L
+B 34
+L
+L
+B 137
+B 34
+L
+L
+B 161
+B 26
+L
+L
+B 160
+L
+B 34
+L
+L
+B 34
+L
+B 41
+B 6
+L
+B 130
+L
+B 66
+L
+L
+B 137
+B 6
+L
+B 130
+L
+L
+B 6
+L
+B 130
+L
+B 161
+L
+B 66
+L
+B 2
+L
+L
+B 162
+B 41
+B 69
+B 22
+L
+B 82
+L
+B 18
+L
+L
+B 70
+B 5
+L
+B 193
+L
+L
+B 22
+B 81
+L
+B 133
+L
+L
+B 82
+B 5
+L
+L
+B 20
+L
+B 5
+L
+L
+B 69
+B 22
+B 137
+L
+B 9
+L
+L
+B 82
+B 137
+L
+B 9
+L
+L
+B 137
+B 18
+L
+L
+B 18
+L
+B 70
+L
+B 9
+L
+L
+B 5
+L
+B 70
+B 33
+L
+B 17
+L
+B 9
+L
+L
+B 82
+B 33
+L
+B 17
+L
+L
+B 22
+B 33
+L
+B 25
+L
+B 17
+L
+L
+B 33
+L
+B 17
+L
+B 9
+L
+B 1
+L
+L
+B 22
+B 41
+B 69
+B 138
+L
+B 130
+L
+L
+B 138
+B 5
+L
+L
+B 130
+L
+B 5
+L
+B 193
+L
+B 42
+L
+L
+B 69
+B 42
+B 161
+L
+B 137
+L
+L
+B 161
+B 138
+L
+L
+B 138
+L
+B 160
+L
+B 10
+L
+L
+B 161
+B 42
+B 81
+L
+L
+B 138
+L
+B 81
+L
+B 10
+L
+B 65
+L
+L
+B 42
+B 5
+L
+B 33
+L
+B 129
+L
+B 65
+L
+L
+B 33
+L
+B 5
+L
+B 138
+B 129
+L
+L
+B 129
+L
+B 65
+L
+B 1
+L
+L
+B 41
+B 69
+B 82
+B 138
+L
+B 130
+L
+L
+B 18
+L
+B 34
+L
+B 6
+L
+L
+B 70
+B 42
+B 81
+L
+L
+B 81
+B 138
+L
+L
+B 138
+L
+B 133
+L
+B 5
+L
+B 193
+L
+L
+B 6
+L
+B 130
+L
+B 34
+L
+B 5
+L
+B 193
+L
+B 18
+L
+L
+B 69
+B 42
+B 161
+B 70
+L
+L
+B 70
+L
+B 82
+L
+B 137
+L
+B 25
+L
+B 9
+L
+L
+B 34
+L
+B 18
+L
+B 161
+B 6
+L
+L
+B 6
+L
+B 130
+L
+B 10
+L
+L
+B 42
+B 70
+B 161
+L
+B 81
+L
+B 17
+L
+B 33
+L
+L
+B 161
+B 81
+L
+B 20
+L
+L
+B 5
+L
+B 33
+L
+B 17
+L
+B 129
+L
+B 65
+L
+L
+B 70
+B 161
+B 81
+L
+B 138
+L
+B 17
+L
+L
+B 33
+L
+B 5
+L
+B 17
+L
+B 129
+L
+B 9
+L
+L
+B 161
+B 6
+L
+B 34
+L
+B 81
+L
+B 18
+L
+B 10
+L
+L
+B 5
+L
+B 33
+L
+B 6
+L
+B 34
+L
+B 17
+L
+B 18
+L
+B 129
+L
+B 1
+L
+L
+B 44
+L
+B 76
+L
+B 100
+L
+B 104
+L
+B 41
+B 70
+B 21
+L
+B 162
+L
+B 42
+L
+L
+B 68
+L
+B 22
+B 96
+L
+B 42
+L
+L
+B 162
+B 12
+L
+B 21
+L
+L
+B 38
+L
+B 6
+L
+B 21
+B 42
+L
+L
+B 42
+L
+B 34
+L
+B 5
+L
+B 14
+L
+L
+B 70
+B 40
+L
+B 21
+B 96
+L
+B 72
+L
+L
+B 161
+B 12
+L
+L
+B 37
+L
+B 33
+L
+B 162
+B 69
+L
+L
+B 69
+L
+B 5
+L
+B 13
+L
+B 34
+L
+L
+B 42
+B 69
+B 22
+L
+L
+B 68
+L
+B 21
+B 96
+L
+L
+B 161
+B 12
+L
+L
+B 22
+B 37
+L
+B 33
+L
+L
+B 37
+L
+B 5
+L
+B 33
+L
+B 6
+L
+B 13
+L
+L
+B 40
+L
+B 69
+B 22
+B 96
+L
+B 161
+L
+L
+B 162
+B 12
+L
+L
+B 38
+L
+B 34
+L
+B 6
+L
+B 161
+L
+B 14
+L
+B 33
+L
+L
+B 68
+L
+B 21
+B 96
+L
+B 162
+L
+B 72
+L
+B 73
+L
+B 74
+L
+L
+B 162
+B 12
+L
+B 72
+L
+B 74
+L
+B 73
+L
+L
+B 22
+B 96
+L
+B 161
+L
+B 72
+L
+L
+B 161
+B 12
+L
+B 72
+L
+L
+B 37
+B 38
+L
+L
+B 5
+L
+B 33
+L
+B 38
+L
+B 6
+L
+B 34
+L
+B 36
+L
+B 13
+L
+B 14
+L
+L
+B 108
+B 161
+B 162
+B 112
+L
+B 80
+L
+B 208
+L
+B 20
+L
+B 192
+L
+B 200
+L
+L
+B 194
+B 69
+B 42
+L
+B 22
+L
+B 50
+L
+B 34
+L
+B 18
+L
+L
+B 42
+B 21
+L
+B 81
+L
+B 22
+L
+B 20
+L
+L
+B 21
+B 50
+L
+B 34
+L
+B 22
+L
+L
+B 22
+B 81
+L
+B 65
+L
+L
+B 81
+L
+B 50
+L
+B 34
+L
+B 65
+L
+L
+B 42
+B 70
+B 21
+L
+B 81
+L
+B 17
+L
+L
+B 21
+B 82
+L
+B 66
+L
+B 134
+L
+B 146
+L
+B 130
+L
+L
+B 69
+B 22
+L
+B 82
+L
+B 66
+L
+B 134
+L
+L
+B 22
+B 81
+L
+B 192
+L
+L
+B 81
+B 82
+L
+B 66
+L
+L
+B 82
+L
+B 66
+L
+B 208
+L
+B 192
+L
+B 80
+L
+L
+B 70
+B 21
+B 50
+L
+B 34
+L
+B 138
+L
+B 146
+L
+B 130
+L
+L
+B 81
+B 50
+L
+B 34
+L
+B 138
+L
+B 146
+L
+L
+B 50
+B 17
+L
+L
+B 34
+L
+B 17
+L
+B 138
+L
+B 69
+L
+B 146
+L
+B 130
+L
+L
+B 50
+B 21
+B 192
+L
+L
+B 69
+B 134
+L
+L
+B 81
+L
+B 5
+L
+B 17
+L
+L
+B 34
+L
+B 22
+B 69
+B 98
+L
+B 138
+L
+B 130
+L
+L
+B 81
+B 98
+L
+B 138
+L
+L
+B 98
+L
+B 138
+L
+B 65
+L
+B 192
+L
+L
+B 6
+L
+B 69
+B 82
+L
+B 18
+L
+B 146
+L
+B 130
+L
+B 2
+L
+L
+B 81
+B 82
+L
+B 18
+L
+B 66
+L
+B 10
+L
+L
+B 82
+L
+B 18
+L
+B 66
+L
+B 10
+L
+B 21
+L
+B 146
+L
+B 2
+L
+L
+B 162
+B 193
+B 70
+B 41
+L
+B 21
+L
+B 49
+L
+B 33
+L
+B 17
+L
+L
+B 41
+B 22
+L
+B 82
+L
+B 21
+L
+B 20
+L
+L
+B 22
+B 49
+L
+B 33
+L
+B 21
+L
+L
+B 21
+B 82
+L
+B 66
+L
+L
+B 82
+L
+B 49
+L
+B 33
+L
+B 66
+L
+L
+B 41
+B 69
+B 22
+L
+B 82
+L
+B 18
+L
+L
+B 22
+B 81
+L
+B 65
+L
+B 133
+L
+B 145
+L
+B 129
+L
+L
+B 70
+B 21
+L
+B 81
+L
+B 65
+L
+B 133
+L
+L
+B 21
+B 82
+L
+B 192
+L
+L
+B 82
+B 81
+L
+B 65
+L
+L
+B 81
+L
+B 65
+L
+B 208
+L
+B 192
+L
+B 80
+L
+L
+B 69
+B 22
+B 49
+L
+B 33
+L
+B 137
+L
+B 145
+L
+B 129
+L
+L
+B 82
+B 49
+L
+B 33
+L
+B 137
+L
+B 145
+L
+L
+B 49
+B 18
+L
+L
+B 33
+L
+B 18
+L
+B 137
+L
+B 70
+L
+B 145
+L
+B 129
+L
+L
+B 49
+B 22
+B 192
+L
+L
+B 70
+B 133
+L
+L
+B 82
+L
+B 6
+L
+B 18
+L
+L
+B 33
+L
+B 21
+B 70
+B 97
+L
+B 137
+L
+B 129
+L
+L
+B 82
+B 97
+L
+B 137
+L
+L
+B 97
+L
+B 137
+L
+B 66
+L
+B 192
+L
+L
+B 5
+L
+B 70
+B 81
+L
+B 17
+L
+B 145
+L
+B 129
+L
+B 1
+L
+L
+B 82
+B 81
+L
+B 17
+L
+B 65
+L
+B 9
+L
+L
+B 81
+L
+B 17
+L
+B 65
+L
+B 9
+L
+B 22
+L
+B 145
+L
+B 1
+L
+L
+B 160
+L
+B 176
+B 81
+L
+L
+B 193
+B 194
+B 48
+L
+B 112
+L
+B 20
+L
+L
+B 42
+B 70
+L
+B 21
+L
+B 22
+L
+B 49
+L
+B 20
+L
+L
+B 70
+B 50
+L
+B 34
+L
+B 21
+L
+B 41
+L
+B 146
+L
+B 48
+L
+L
+B 50
+B 21
+L
+B 41
+L
+L
+B 34
+L
+B 22
+B 41
+L
+B 49
+L
+B 33
+L
+L
+B 6
+L
+B 41
+B 82
+L
+B 18
+L
+L
+B 49
+B 82
+L
+L
+B 33
+L
+B 21
+L
+B 82
+L
+B 66
+L
+B 18
+L
+L
+B 194
+B 41
+B 69
+L
+B 22
+L
+B 21
+L
+B 50
+L
+B 20
+L
+L
+B 69
+B 49
+L
+B 33
+L
+B 22
+L
+B 42
+L
+B 145
+L
+B 48
+L
+L
+B 49
+B 22
+L
+B 42
+L
+L
+B 33
+L
+B 21
+B 42
+L
+B 50
+L
+B 34
+L
+L
+B 5
+L
+B 42
+B 81
+L
+B 17
+L
+L
+B 50
+B 81
+L
+L
+B 34
+L
+B 22
+L
+B 81
+L
+B 65
+L
+B 17
+L
+L
+B 192
+L
+B 208
+L
+B 41
+B 69
+B 22
+L
+B 50
+L
+B 82
+L
+B 18
+L
+B 144
+L
+L
+B 22
+B 200
+L
+B 81
+L
+B 65
+L
+B 98
+L
+B 138
+L
+B 130
+L
+L
+B 200
+L
+B 50
+B 81
+L
+B 65
+L
+L
+B 70
+B 81
+L
+B 144
+L
+L
+B 82
+L
+B 18
+L
+B 81
+L
+B 65
+L
+B 66
+L
+B 21
+L
+B 146
+L
+L
+B 50
+B 69
+B 49
+L
+B 33
+L
+L
+B 49
+B 68
+L
+L
+B 33
+L
+B 21
+L
+B 5
+L
+B 81
+L
+B 17
+L
+L
+B 69
+B 42
+B 144
+L
+B 49
+L
+L
+B 34
+L
+B 22
+B 49
+L
+B 33
+L
+L
+B 49
+L
+B 48
+L
+B 164
+L
+B 33
+L
+B 82
+L
+B 18
+L
+L
+B 82
+B 49
+L
+B 33
+L
+B 21
+L
+B 5
+L
+B 81
+L
+L
+B 49
+B 22
+L
+B 18
+L
+B 42
+L
+B 34
+L
+B 70
+L
+L
+B 33
+L
+B 21
+B 70
+L
+B 66
+L
+B 146
+L
+B 130
+L
+B 42
+L
+L
+B 5
+L
+B 34
+L
+B 22
+B 42
+L
+B 81
+L
+L
+B 18
+L
+B 70
+L
+B 6
+L
+B 81
+L
+B 17
+L
+L
+B 100
+L
+B 104
+L
+B 96
+L
+B 116
+B 161
+B 42
+B 68
+L
+L
+B 162
+B 72
+L
+B 200
+L
+B 68
+L
+L
+B 194
+B 69
+L
+B 21
+L
+L
+B 70
+B 21
+L
+B 50
+L
+B 34
+L
+L
+B 74
+L
+B 66
+L
+B 22
+B 69
+L
+B 98
+L
+L
+B 69
+B 138
+L
+B 10
+L
+L
+B 138
+L
+B 10
+L
+B 6
+L
+B 73
+L
+L
+B 162
+B 41
+B 68
+L
+L
+B 193
+B 70
+L
+B 22
+L
+L
+B 69
+B 22
+L
+B 49
+L
+B 33
+L
+L
+B 73
+L
+B 65
+L
+B 21
+B 70
+L
+B 97
+L
+L
+B 70
+B 137
+L
+B 9
+L
+L
+B 137
+L
+B 9
+L
+B 5
+L
+B 74
+L
+L
+B 41
+B 194
+B 69
+L
+B 21
+L
+L
+B 42
+B 192
+L
+B 200
+L
+B 76
+L
+L
+B 70
+B 160
+L
+L
+B 74
+L
+B 66
+L
+B 22
+B 98
+L
+L
+B 138
+L
+B 130
+L
+B 193
+L
+B 6
+L
+L
+B 42
+B 193
+B 70
+L
+L
+B 69
+B 160
+L
+L
+B 73
+L
+B 65
+L
+B 21
+B 97
+L
+L
+B 137
+L
+B 129
+L
+B 194
+L
+B 5
+L
+L
+B 160
+L
+B 40
+L
+B 168
+L
+B 193
+B 194
+L
+B 44
+L
+B 22
+L
+B 70
+L
+B 74
+L
+L
+B 194
+B 44
+L
+B 21
+L
+B 69
+L
+B 73
+L
+L
+B 192
+L
+B 44
+L
+B 69
+B 22
+L
+B 74
+L
+L
+B 74
+L
+B 73
+L
+B 65
+L
+B 21
+L
+B 34
+L
+L
+B 112
+L
+B 161
+B 42
+B 68
+L
+B 80
+L
+B 192
+L
+B 200
+L
+L
+B 70
+B 88
+L
+B 40
+L
+B 24
+L
+B 72
+L
+L
+B 76
+L
+B 68
+L
+B 84
+L
+B 196
+L
+B 88
+L
+B 200
+L
+B 72
+L
+B 208
+L
+B 80
+L
+B 192
+L
+B 64
+L
+B 194
+L
+B 66
+L
+L
+B 162
+B 41
+B 68
+L
+B 80
+L
+B 200
+L
+B 72
+L
+L
+B 69
+B 88
+L
+B 40
+L
+B 24
+L
+B 72
+L
+L
+B 76
+L
+B 68
+L
+B 84
+L
+B 196
+L
+B 88
+L
+B 200
+L
+B 72
+L
+B 208
+L
+B 80
+L
+B 192
+L
+B 64
+L
+B 193
+L
+L
+B 41
+B 70
+B 88
+L
+B 52
+L
+B 48
+L
+B 80
+L
+L
+B 68
+L
+B 76
+L
+B 52
+L
+B 88
+L
+B 80
+L
+B 72
+L
+B 196
+L
+B 200
+L
+B 192
+L
+B 64
+L
+L
+B 70
+B 40
+L
+B 160
+L
+B 44
+L
+B 52
+L
+B 48
+L
+B 32
+L
+B 168
+L
+B 36
+L
+B 164
+L
+B 33
+L
+B 21
+L
+L
+B 42
+B 68
+L
+B 69
+B 88
+L
+L
+B 76
+L
+B 52
+L
+B 88
+L
+B 80
+L
+B 72
+L
+B 196
+L
+B 200
+L
+B 192
+L
+B 64
+L
+L
+B 40
+L
+B 44
+L
+B 56
+B 68
+L
+L
+B 160
+L
+B 52
+L
+B 69
+B 48
+L
+B 32
+L
+B 168
+L
+B 36
+L
+B 164
+L
+B 34
+L
+L
+B 68
+L
+B 76
+L
+B 84
+L
+B 88
+L
+B 36
+L
+B 164
+L
+B 168
+L
+B 32
+L
+B 176
+L
+B 48
+L
+L
+B 108
+B 240
+B 21
+B 22
+B 140
+L
+B 136
+L
+B 152
+L
+B 24
+L
+B 41
+B 162
+L
+L
+B 40
+L
+B 42
+L
+B 8
+L
+L
+B 26
+B 41
+B 70
+B 162
+L
+B 193
+L
+B 140
+L
+L
+B 162
+B 193
+L
+B 6
+L
+L
+B 134
+B 193
+L
+L
+B 6
+L
+B 130
+L
+B 34
+L
+L
+B 70
+B 161
+B 73
+L
+B 162
+L
+L
+B 137
+B 162
+L
+L
+B 33
+L
+B 162
+L
+B 9
+L
+L
+B 161
+B 134
+B 73
+L
+L
+B 6
+L
+B 162
+L
+B 194
+L
+B 130
+L
+B 66
+L
+L
+B 162
+B 137
+L
+B 9
+L
+B 193
+L
+B 129
+L
+L
+B 137
+B 134
+L
+B 6
+L
+B 194
+L
+L
+B 134
+B 9
+L
+L
+B 6
+L
+B 9
+L
+B 33
+L
+B 194
+L
+L
+B 42
+B 70
+B 161
+B 73
+L
+L
+B 137
+L
+B 129
+L
+B 41
+L
+B 73
+L
+L
+B 161
+B 134
+B 73
+L
+L
+B 6
+L
+B 82
+L
+B 146
+L
+B 18
+L
+B 73
+L
+B 194
+L
+L
+B 137
+B 134
+L
+B 6
+L
+B 82
+L
+B 146
+L
+B 18
+L
+B 194
+L
+L
+B 134
+B 129
+L
+B 41
+L
+B 73
+L
+L
+B 6
+L
+B 129
+L
+B 41
+B 82
+L
+B 146
+L
+B 18
+L
+L
+B 73
+B 82
+L
+B 146
+L
+L
+B 9
+L
+B 82
+L
+B 146
+L
+B 18
+L
+L
+B 70
+B 161
+B 138
+B 73
+L
+L
+B 10
+L
+B 50
+L
+B 146
+L
+B 18
+L
+B 73
+L
+B 162
+L
+L
+B 41
+B 162
+B 152
+L
+B 24
+L
+L
+B 138
+L
+B 10
+L
+B 50
+L
+B 34
+L
+B 146
+L
+L
+B 137
+B 162
+B 24
+L
+L
+B 138
+L
+B 10
+L
+B 50
+L
+B 34
+L
+L
+B 162
+B 24
+L
+B 152
+L
+B 88
+L
+B 9
+L
+L
+B 138
+B 9
+L
+L
+B 10
+L
+B 9
+L
+B 193
+B 50
+L
+L
+B 129
+L
+B 50
+L
+B 34
+L
+L
+B 134
+B 161
+B 24
+L
+B 10
+L
+L
+B 41
+B 24
+L
+B 152
+L
+L
+B 137
+B 10
+L
+L
+B 33
+L
+B 129
+L
+B 73
+L
+B 9
+L
+L
+B 6
+L
+B 162
+B 41
+B 14
+L
+B 82
+L
+B 18
+L
+B 193
+L
+B 10
+L
+L
+B 137
+B 14
+L
+B 82
+L
+B 10
+L
+B 18
+L
+L
+B 14
+B 9
+L
+L
+B 9
+L
+B 24
+L
+B 161
+L
+B 82
+L
+B 193
+L
+L
+B 34
+L
+B 41
+B 138
+L
+B 130
+L
+B 10
+L
+B 66
+L
+B 2
+L
+B 193
+L
+B 65
+L
+L
+B 137
+B 138
+L
+B 130
+L
+B 10
+L
+B 66
+L
+B 2
+L
+L
+B 138
+B 161
+L
+B 33
+L
+L
+B 130
+L
+B 10
+L
+B 66
+L
+B 161
+B 146
+L
+B 2
+L
+L
+B 146
+L
+B 2
+L
+B 9
+L
+B 193
+L
+L
+B 22
+B 25
+B 42
+B 69
+B 161
+L
+B 194
+L
+B 140
+L
+L
+B 161
+B 194
+L
+B 5
+L
+L
+B 133
+B 194
+L
+L
+B 5
+L
+B 129
+L
+B 33
+L
+L
+B 69
+B 162
+B 74
+L
+B 161
+L
+L
+B 138
+B 161
+L
+L
+B 34
+L
+B 161
+L
+B 10
+L
+L
+B 162
+B 133
+B 74
+L
+L
+B 5
+L
+B 161
+L
+B 193
+L
+B 129
+L
+B 65
+L
+L
+B 161
+B 138
+L
+B 10
+L
+B 194
+L
+B 130
+L
+L
+B 138
+B 133
+L
+B 5
+L
+B 193
+L
+L
+B 133
+B 10
+L
+L
+B 5
+L
+B 10
+L
+B 34
+L
+B 193
+L
+L
+B 41
+B 69
+B 162
+B 74
+L
+L
+B 138
+L
+B 130
+L
+B 42
+L
+B 74
+L
+L
+B 162
+B 133
+B 74
+L
+L
+B 5
+L
+B 81
+L
+B 145
+L
+B 17
+L
+B 74
+L
+B 193
+L
+L
+B 138
+B 133
+L
+B 5
+L
+B 81
+L
+B 145
+L
+B 17
+L
+B 193
+L
+L
+B 133
+B 130
+L
+B 42
+L
+B 74
+L
+L
+B 5
+L
+B 130
+L
+B 42
+B 81
+L
+B 145
+L
+B 17
+L
+L
+B 74
+B 81
+L
+B 145
+L
+L
+B 10
+L
+B 81
+L
+B 145
+L
+B 17
+L
+L
+B 69
+B 162
+B 137
+B 74
+L
+L
+B 9
+L
+B 49
+L
+B 145
+L
+B 17
+L
+B 74
+L
+B 161
+L
+L
+B 42
+B 161
+B 152
+L
+B 24
+L
+L
+B 137
+L
+B 9
+L
+B 49
+L
+B 33
+L
+B 145
+L
+L
+B 138
+B 161
+B 24
+L
+L
+B 137
+L
+B 9
+L
+B 49
+L
+B 33
+L
+L
+B 161
+B 24
+L
+B 152
+L
+B 88
+L
+B 10
+L
+L
+B 137
+B 10
+L
+L
+B 9
+L
+B 10
+L
+B 194
+B 49
+L
+L
+B 130
+L
+B 49
+L
+B 33
+L
+L
+B 133
+B 162
+B 24
+L
+B 9
+L
+L
+B 42
+B 24
+L
+B 152
+L
+L
+B 138
+B 9
+L
+L
+B 34
+L
+B 130
+L
+B 74
+L
+B 10
+L
+L
+B 5
+L
+B 161
+B 42
+B 13
+L
+B 81
+L
+B 17
+L
+B 194
+L
+B 9
+L
+L
+B 138
+B 13
+L
+B 81
+L
+B 9
+L
+B 17
+L
+L
+B 13
+B 10
+L
+L
+B 10
+L
+B 24
+L
+B 162
+L
+B 81
+L
+B 194
+L
+L
+B 33
+L
+B 42
+B 137
+L
+B 129
+L
+B 9
+L
+B 65
+L
+B 1
+L
+B 194
+L
+B 66
+L
+L
+B 138
+B 137
+L
+B 129
+L
+B 9
+L
+B 65
+L
+B 1
+L
+L
+B 137
+B 162
+L
+B 34
+L
+L
+B 129
+L
+B 9
+L
+B 65
+L
+B 162
+B 145
+L
+B 1
+L
+L
+B 145
+L
+B 1
+L
+B 10
+L
+B 194
+L
+L
+B 20
+L
+B 25
+B 26
+B 140
+L
+B 132
+L
+B 148
+L
+B 69
+L
+B 5
+L
+B 4
+L
+L
+B 42
+B 70
+B 161
+L
+B 133
+L
+B 129
+L
+L
+B 161
+B 134
+L
+B 6
+L
+B 146
+L
+B 18
+L
+L
+B 69
+B 134
+L
+B 6
+L
+B 82
+L
+B 18
+L
+L
+B 133
+B 134
+L
+B 6
+L
+B 82
+L
+L
+B 5
+L
+B 134
+L
+B 6
+L
+B 82
+L
+B 129
+L
+B 18
+L
+L
+B 70
+B 161
+B 138
+L
+B 10
+L
+B 50
+L
+B 18
+L
+L
+B 133
+B 162
+L
+B 138
+L
+B 10
+L
+B 34
+L
+L
+B 162
+B 5
+L
+B 193
+L
+L
+B 138
+L
+B 10
+L
+B 5
+L
+B 193
+L
+B 129
+L
+B 50
+L
+L
+B 134
+B 161
+B 69
+L
+B 10
+L
+L
+B 69
+B 10
+L
+L
+B 133
+L
+B 5
+L
+B 33
+L
+L
+B 6
+L
+B 162
+B 69
+B 14
+L
+B 10
+L
+L
+B 133
+B 14
+L
+B 10
+L
+L
+B 5
+L
+B 14
+L
+B 161
+L
+B 10
+L
+B 193
+L
+L
+B 34
+L
+B 69
+B 138
+L
+B 130
+L
+B 10
+L
+B 146
+L
+B 18
+L
+B 2
+L
+L
+B 133
+B 138
+L
+B 130
+L
+B 10
+L
+B 66
+L
+L
+B 5
+L
+B 161
+B 138
+L
+B 10
+L
+B 146
+L
+L
+B 138
+L
+B 10
+L
+B 130
+L
+B 66
+L
+B 146
+L
+B 2
+L
+L
+B 26
+B 41
+B 69
+B 162
+L
+B 134
+L
+B 130
+L
+L
+B 162
+B 133
+L
+B 5
+L
+B 145
+L
+B 17
+L
+L
+B 70
+B 133
+L
+B 5
+L
+B 81
+L
+B 17
+L
+L
+B 133
+B 134
+L
+L
+B 5
+L
+B 134
+B 81
+L
+L
+B 6
+L
+B 81
+L
+B 130
+L
+B 17
+L
+L
+B 69
+B 162
+B 137
+L
+B 9
+L
+B 49
+L
+B 17
+L
+L
+B 134
+B 161
+L
+B 137
+L
+B 9
+L
+B 33
+L
+L
+B 161
+B 6
+L
+B 194
+L
+L
+B 137
+L
+B 9
+L
+B 6
+L
+B 194
+L
+B 130
+L
+B 49
+L
+L
+B 133
+B 162
+B 70
+L
+B 9
+L
+L
+B 70
+B 9
+L
+L
+B 134
+L
+B 6
+L
+B 34
+L
+L
+B 5
+L
+B 161
+B 70
+B 13
+L
+B 9
+L
+L
+B 134
+B 13
+L
+B 9
+L
+L
+B 6
+L
+B 13
+L
+B 162
+L
+B 9
+L
+B 194
+L
+L
+B 33
+L
+B 70
+B 137
+L
+B 129
+L
+B 9
+L
+B 145
+L
+B 17
+L
+B 1
+L
+L
+B 134
+B 137
+L
+B 129
+L
+B 9
+L
+B 65
+L
+L
+B 6
+L
+B 162
+B 137
+L
+B 9
+L
+B 145
+L
+L
+B 137
+L
+B 9
+L
+B 129
+L
+B 65
+L
+B 145
+L
+B 1
+L
+L
+B 24
+L
+B 41
+B 69
+B 134
+B 18
+L
+L
+B 138
+L
+B 162
+B 82
+L
+B 18
+L
+L
+B 130
+L
+B 14
+L
+B 6
+L
+B 10
+L
+L
+B 134
+B 133
+B 18
+L
+L
+B 5
+L
+B 81
+L
+B 17
+L
+B 145
+L
+L
+B 138
+B 133
+L
+B 5
+L
+B 145
+L
+B 17
+L
+B 70
+L
+B 6
+L
+L
+B 162
+B 133
+B 70
+L
+L
+B 5
+L
+B 70
+L
+B 6
+L
+B 145
+L
+B 17
+L
+L
+B 130
+L
+B 70
+B 133
+L
+B 5
+L
+B 42
+L
+L
+B 6
+L
+B 14
+L
+B 133
+B 10
+L
+L
+B 5
+L
+B 10
+L
+B 34
+L
+B 66
+L
+B 2
+L
+L
+B 69
+B 134
+B 137
+L
+B 9
+L
+B 161
+B 42
+L
+L
+B 42
+L
+B 145
+L
+B 17
+L
+B 10
+L
+L
+B 138
+B 161
+L
+B 137
+L
+B 9
+L
+B 33
+L
+L
+B 162
+B 152
+L
+B 137
+L
+B 88
+L
+B 9
+L
+B 145
+L
+B 17
+L
+B 14
+L
+B 82
+L
+L
+B 130
+L
+B 42
+B 137
+L
+B 161
+L
+B 70
+L
+L
+B 10
+L
+B 34
+L
+B 137
+B 6
+L
+L
+B 6
+L
+B 146
+L
+B 18
+L
+B 2
+L
+L
+B 134
+B 133
+B 42
+L
+B 40
+L
+B 10
+L
+B 8
+L
+L
+B 5
+L
+B 161
+B 42
+L
+B 40
+L
+L
+B 33
+L
+B 137
+L
+B 129
+L
+B 9
+L
+B 65
+L
+B 1
+L
+L
+B 138
+B 133
+B 70
+L
+B 6
+L
+L
+B 5
+L
+B 161
+B 6
+L
+B 50
+L
+L
+B 33
+L
+B 137
+L
+B 129
+L
+B 9
+L
+B 65
+L
+B 1
+L
+L
+B 133
+B 162
+B 70
+B 9
+L
+L
+B 82
+L
+B 18
+L
+B 14
+L
+B 6
+L
+L
+B 130
+L
+B 42
+L
+B 70
+B 10
+L
+L
+B 6
+L
+B 34
+L
+B 10
+L
+B 66
+L
+B 146
+L
+L
+B 5
+L
+B 161
+B 42
+B 70
+L
+B 6
+L
+B 146
+L
+B 18
+L
+L
+B 10
+L
+B 6
+L
+B 146
+L
+B 18
+L
+B 34
+L
+B 13
+L
+B 66
+L
+L
+B 33
+L
+B 6
+L
+B 162
+B 137
+L
+B 9
+L
+B 145
+L
+B 129
+L
+B 65
+L
+B 1
+L
+L
+B 130
+L
+B 42
+B 137
+L
+B 129
+L
+B 9
+L
+L
+B 34
+L
+B 137
+L
+B 129
+L
+B 9
+L
+B 10
+L
+B 65
+L
+B 66
+L
+B 145
+L
+L
+B 180
+B 216
+B 161
+B 42
+B 70
+B 21
+L
+B 20
+L
+B 69
+L
+B 5
+L
+L
+B 21
+B 194
+B 22
+L
+L
+B 66
+L
+B 134
+L
+B 6
+L
+L
+B 69
+B 22
+L
+B 20
+L
+B 194
+L
+L
+B 22
+B 81
+L
+B 5
+L
+B 25
+L
+L
+B 20
+L
+B 6
+L
+B 5
+L
+B 81
+L
+L
+B 70
+B 21
+B 162
+B 26
+L
+L
+B 34
+L
+B 138
+L
+B 10
+L
+L
+B 162
+B 20
+L
+B 69
+L
+B 5
+L
+L
+B 20
+L
+B 34
+L
+B 69
+L
+B 5
+L
+B 81
+L
+L
+B 21
+B 98
+B 14
+L
+B 6
+L
+B 138
+L
+L
+B 34
+L
+B 66
+L
+B 130
+L
+B 6
+L
+L
+B 22
+B 69
+B 162
+L
+B 34
+L
+B 138
+L
+L
+B 162
+B 81
+L
+B 5
+L
+L
+B 34
+L
+B 138
+L
+B 81
+L
+B 194
+L
+B 66
+L
+L
+B 20
+L
+B 6
+L
+B 69
+B 10
+L
+B 18
+L
+L
+B 10
+L
+B 18
+L
+B 34
+L
+B 2
+L
+L
+B 42
+B 70
+B 21
+B 41
+B 193
+L
+L
+B 33
+L
+B 137
+L
+B 129
+L
+L
+B 97
+B 13
+L
+B 5
+L
+B 137
+L
+L
+B 33
+L
+B 193
+B 25
+L
+L
+B 129
+L
+B 5
+L
+B 65
+L
+L
+B 21
+B 41
+B 194
+B 193
+L
+L
+B 66
+L
+B 134
+L
+B 6
+L
+L
+B 33
+L
+B 137
+B 194
+L
+B 66
+L
+L
+B 194
+B 129
+L
+L
+B 66
+L
+B 129
+L
+L
+B 69
+B 22
+B 41
+L
+B 33
+L
+B 137
+L
+L
+B 41
+B 20
+L
+L
+B 20
+L
+B 194
+L
+B 33
+L
+B 6
+L
+L
+B 5
+L
+B 22
+B 129
+L
+B 97
+L
+B 65
+L
+B 33
+L
+L
+B 20
+L
+B 129
+L
+B 97
+L
+B 65
+L
+B 33
+L
+B 1
+L
+L
+B 70
+B 21
+B 41
+B 162
+L
+B 34
+L
+B 138
+L
+B 26
+L
+L
+B 162
+B 33
+L
+B 137
+L
+B 193
+L
+L
+B 33
+L
+B 34
+L
+B 137
+L
+B 193
+L
+B 129
+L
+L
+B 41
+B 162
+B 69
+L
+B 5
+L
+B 81
+L
+L
+B 69
+B 34
+L
+L
+B 5
+L
+B 34
+L
+B 138
+L
+B 26
+L
+L
+B 33
+L
+B 162
+B 193
+B 25
+L
+L
+B 17
+L
+B 65
+L
+B 5
+L
+L
+B 193
+B 34
+L
+B 25
+L
+B 138
+L
+B 17
+L
+L
+B 129
+L
+B 5
+L
+B 9
+L
+B 17
+L
+B 34
+L
+B 138
+L
+L
+B 21
+B 162
+B 41
+B 22
+L
+B 6
+L
+B 82
+L
+L
+B 22
+B 33
+L
+L
+B 33
+L
+B 137
+L
+B 193
+L
+B 129
+L
+B 6
+L
+L
+B 34
+L
+B 41
+B 66
+L
+B 130
+L
+B 6
+L
+L
+B 66
+L
+B 33
+L
+B 130
+L
+B 137
+L
+B 6
+L
+B 2
+L
+L
+B 162
+B 41
+B 69
+B 22
+L
+B 20
+L
+L
+B 22
+B 193
+L
+L
+B 20
+L
+B 5
+L
+B 6
+L
+L
+B 69
+B 22
+B 33
+L
+L
+B 20
+L
+B 33
+L
+B 82
+L
+L
+B 22
+B 33
+L
+B 193
+L
+B 65
+L
+B 17
+L
+L
+B 20
+L
+B 5
+L
+B 9
+L
+B 129
+L
+B 33
+L
+L
+B 41
+B 69
+B 22
+B 34
+L
+L
+B 34
+L
+B 194
+L
+B 66
+L
+B 18
+L
+L
+B 22
+B 34
+L
+B 138
+L
+B 193
+L
+B 194
+L
+L
+B 20
+L
+B 6
+L
+B 34
+L
+B 82
+L
+B 66
+L
+B 130
+L
+L
+B 69
+B 22
+B 34
+L
+B 33
+L
+B 138
+L
+L
+B 34
+L
+B 194
+B 33
+L
+B 26
+L
+L
+B 66
+L
+B 18
+L
+B 130
+L
+B 6
+L
+B 33
+L
+L
+B 22
+B 33
+L
+B 193
+B 34
+L
+B 138
+L
+L
+B 65
+L
+B 17
+L
+B 34
+L
+B 129
+L
+B 5
+L
+L
+B 20
+L
+B 33
+L
+B 34
+L
+B 193
+B 194
+L
+B 66
+L
+B 18
+L
+L
+B 65
+L
+B 17
+L
+B 194
+L
+B 66
+L
+B 18
+L
+B 129
+L
+L
+B 88
+L
+B 152
+L
+B 208
+L
+B 24
+L
+B 161
+B 80
+L
+B 112
+L
+B 70
+B 21
+B 42
+L
+L
+B 42
+B 25
+L
+B 17
+L
+L
+B 56
+L
+B 25
+L
+B 17
+L
+B 16
+L
+L
+B 42
+B 21
+L
+B 20
+L
+B 25
+L
+B 194
+L
+B 66
+L
+B 17
+L
+L
+B 21
+B 82
+L
+B 26
+L
+B 138
+L
+B 10
+L
+B 194
+L
+L
+B 82
+B 25
+L
+L
+B 26
+L
+B 138
+B 25
+L
+B 17
+L
+L
+B 10
+L
+B 22
+L
+B 6
+L
+B 25
+L
+B 17
+L
+B 18
+L
+B 16
+L
+L
+B 162
+B 80
+L
+B 112
+L
+B 21
+B 26
+L
+B 41
+L
+B 70
+L
+B 137
+L
+B 193
+L
+B 22
+L
+L
+B 69
+B 22
+L
+B 20
+L
+B 41
+L
+B 26
+L
+B 18
+L
+L
+B 22
+B 41
+L
+B 81
+L
+B 25
+L
+B 137
+L
+L
+B 20
+L
+B 41
+B 26
+L
+B 18
+L
+L
+B 81
+L
+B 25
+L
+B 26
+L
+B 137
+L
+B 9
+L
+B 5
+L
+L
+B 21
+B 26
+B 70
+B 41
+L
+L
+B 41
+L
+B 194
+L
+B 137
+L
+B 193
+L
+L
+B 42
+B 70
+B 137
+L
+B 193
+L
+B 129
+L
+B 200
+L
+B 136
+L
+L
+B 82
+L
+B 137
+L
+B 194
+L
+B 193
+L
+B 129
+L
+B 200
+L
+B 192
+L
+L
+B 70
+B 41
+B 138
+L
+B 193
+L
+B 200
+L
+B 136
+L
+L
+B 138
+L
+B 137
+L
+B 10
+L
+B 193
+L
+B 129
+L
+B 146
+L
+B 73
+L
+B 9
+L
+L
+B 82
+B 136
+L
+L
+B 41
+B 138
+L
+B 194
+L
+B 66
+L
+B 130
+L
+B 193
+L
+B 34
+L
+L
+B 138
+L
+B 194
+B 137
+L
+B 193
+L
+L
+B 66
+L
+B 34
+L
+B 137
+L
+B 130
+L
+B 193
+L
+B 10
+L
+B 6
+L
+L
+B 26
+B 25
+B 192
+L
+B 200
+L
+L
+B 70
+B 41
+B 81
+L
+L
+B 81
+L
+B 17
+L
+B 33
+L
+B 137
+L
+L
+B 41
+B 69
+L
+B 81
+L
+B 194
+L
+B 193
+L
+L
+B 69
+B 194
+L
+B 137
+L
+B 9
+L
+B 130
+L
+L
+B 81
+L
+B 17
+L
+B 33
+L
+B 194
+L
+B 137
+L
+B 9
+L
+B 5
+L
+L
+B 25
+B 42
+B 70
+B 193
+L
+L
+B 69
+L
+B 82
+L
+B 194
+L
+B 193
+L
+L
+B 70
+B 138
+L
+B 193
+L
+B 10
+L
+B 69
+L
+B 146
+L
+L
+B 69
+B 82
+L
+B 138
+L
+B 10
+L
+B 22
+L
+L
+B 82
+L
+B 138
+L
+B 10
+L
+B 22
+L
+B 193
+L
+B 6
+L
+B 18
+L
+L
+B 42
+B 70
+B 81
+L
+B 17
+L
+B 80
+L
+B 137
+L
+B 193
+L
+B 129
+L
+B 73
+L
+B 9
+L
+L
+B 81
+B 82
+L
+B 194
+L
+B 137
+L
+L
+B 80
+L
+B 17
+L
+B 69
+B 82
+L
+B 194
+L
+B 137
+L
+L
+B 82
+L
+B 194
+B 137
+L
+L
+B 137
+L
+B 193
+L
+B 65
+L
+B 129
+L
+B 5
+L
+L
+B 70
+B 81
+B 138
+L
+B 10
+L
+B 41
+L
+B 137
+L
+L
+B 17
+L
+B 41
+B 138
+L
+B 193
+L
+B 80
+L
+B 10
+L
+L
+B 33
+L
+B 138
+L
+B 137
+L
+B 9
+L
+B 10
+L
+B 146
+L
+B 193
+L
+B 129
+L
+B 5
+L
+L
+B 81
+B 82
+B 200
+L
+L
+B 138
+L
+B 10
+L
+B 22
+L
+B 6
+L
+B 18
+L
+B 34
+L
+L
+B 17
+L
+B 41
+B 82
+L
+B 80
+L
+B 138
+L
+B 69
+L
+B 194
+L
+B 66
+L
+B 130
+L
+B 193
+L
+L
+B 69
+B 82
+L
+B 138
+L
+B 194
+L
+B 130
+L
+B 10
+L
+B 22
+L
+B 6
+L
+B 137
+L
+L
+B 82
+B 33
+L
+B 137
+L
+B 9
+L
+L
+B 138
+B 33
+L
+B 80
+L
+L
+B 194
+B 33
+L
+B 137
+L
+B 9
+L
+B 5
+L
+L
+B 33
+L
+B 66
+L
+B 34
+L
+B 22
+L
+B 18
+L
+B 137
+L
+B 9
+L
+B 5
+L
+L
+B 176
+L
+B 148
+L
+B 144
+L
+B 184
+B 212
+B 161
+B 42
+B 70
+B 21
+L
+L
+B 20
+L
+B 21
+L
+B 22
+L
+L
+B 70
+B 21
+L
+B 20
+L
+B 25
+L
+L
+B 20
+L
+B 22
+L
+B 6
+L
+B 21
+L
+B 194
+L
+B 66
+L
+L
+B 162
+B 41
+B 69
+L
+B 20
+L
+B 22
+L
+L
+B 69
+B 22
+L
+B 20
+L
+L
+B 20
+L
+B 21
+L
+B 22
+L
+B 193
+L
+B 65
+L
+L
+B 41
+B 69
+B 22
+L
+B 194
+L
+B 20
+L
+L
+B 22
+B 194
+L
+B 74
+L
+B 130
+L
+L
+B 20
+L
+B 70
+L
+B 194
+L
+B 6
+L
+B 66
+L
+L
+B 69
+B 22
+B 194
+L
+B 42
+L
+B 160
+L
+L
+B 42
+B 20
+L
+L
+B 34
+L
+B 98
+L
+B 194
+L
+B 130
+L
+L
+B 22
+B 33
+L
+B 194
+L
+B 97
+L
+B 42
+L
+B 65
+L
+L
+B 20
+L
+B 42
+B 70
+L
+B 21
+L
+B 193
+L
+B 65
+L
+L
+B 70
+B 21
+L
+B 193
+L
+B 33
+L
+L
+B 21
+B 193
+L
+L
+B 193
+L
+B 194
+L
+B 33
+L
+B 34
+L
+L
+B 208
+L
+B 20
+L
+B 84
+L
+B 21
+B 70
+B 42
+L
+B 161
+L
+L
+B 162
+B 22
+L
+B 41
+L
+L
+B 42
+B 161
+L
+B 193
+L
+B 22
+L
+L
+B 161
+B 22
+L
+B 82
+L
+L
+B 22
+L
+B 41
+B 82
+L
+L
+B 82
+L
+B 134
+L
+B 193
+L
+L
+B 22
+B 69
+B 41
+L
+L
+B 161
+B 42
+L
+L
+B 41
+B 162
+L
+B 194
+L
+L
+B 162
+B 81
+L
+L
+B 42
+B 81
+L
+L
+B 81
+L
+B 133
+L
+B 194
+L
+L
+B 69
+B 162
+B 52
+L
+B 41
+L
+B 82
+L
+B 80
+L
+L
+B 41
+B 82
+L
+B 134
+L
+B 194
+L
+B 130
+L
+B 70
+L
+L
+B 82
+L
+B 134
+L
+B 194
+L
+B 130
+L
+B 42
+L
+B 161
+L
+B 70
+L
+B 6
+L
+L
+B 162
+B 52
+L
+B 41
+B 80
+L
+B 82
+L
+B 68
+L
+L
+B 80
+L
+B 82
+L
+B 81
+L
+B 70
+L
+B 68
+L
+B 133
+L
+L
+B 41
+B 70
+B 145
+L
+B 81
+L
+B 80
+L
+L
+B 82
+L
+B 134
+L
+B 6
+L
+B 145
+L
+B 81
+L
+B 80
+L
+B 194
+L
+B 130
+L
+L
+B 70
+B 161
+B 52
+L
+L
+B 42
+B 81
+L
+B 133
+L
+L
+B 81
+L
+B 133
+L
+B 193
+L
+B 129
+L
+B 5
+L
+L
+B 161
+B 52
+L
+B 68
+L
+B 42
+B 80
+L
+L
+B 80
+L
+B 81
+L
+L
+B 42
+B 81
+L
+B 133
+L
+B 5
+L
+B 146
+L
+B 82
+L
+B 80
+L
+L
+B 81
+B 82
+L
+B 134
+L
+L
+B 82
+B 133
+L
+L
+B 80
+L
+B 133
+L
+B 5
+L
+B 134
+L
+B 6
+L
+B 33
+L
+L
+B 152
+L
+B 212
+B 56
+L
+B 161
+B 24
+L
+B 42
+B 20
+L
+B 70
+L
+L
+B 70
+B 21
+L
+B 20
+L
+B 48
+L
+L
+B 20
+L
+B 21
+L
+B 26
+L
+B 50
+L
+B 48
+L
+B 138
+L
+L
+B 162
+B 24
+L
+B 41
+B 20
+L
+L
+B 69
+B 22
+L
+B 20
+L
+B 48
+L
+L
+B 20
+L
+B 22
+L
+B 25
+L
+B 49
+L
+B 48
+L
+L
+B 24
+L
+B 160
+L
+B 41
+B 26
+L
+B 69
+B 50
+L
+B 48
+L
+L
+B 50
+L
+B 48
+L
+B 138
+L
+B 20
+L
+L
+B 42
+B 69
+B 22
+L
+B 20
+L
+L
+B 70
+B 25
+L
+L
+B 25
+L
+B 49
+L
+B 22
+L
+B 20
+L
+L
+B 69
+B 26
+L
+B 50
+L
+B 48
+L
+B 34
+L
+B 22
+L
+B 18
+L
+L
+B 26
+B 25
+L
+B 49
+L
+L
+B 25
+B 50
+L
+L
+B 50
+L
+B 34
+L
+B 48
+L
+B 49
+L
+B 33
+L
+B 22
+L
+B 18
+L
+L
+B 208
+L
+B 20
+L
+B 52
+L
+B 84
+L
+B 56
+L
+B 88
+B 21
+L
+B 22
+L
+B 160
+L
+B 128
+L
+L
+B 24
+L
+B 48
+L
+B 80
+L
+B 112
+L
+B 21
+B 162
+L
+B 161
+L
+B 160
+L
+L
+B 16
+L
+B 22
+L
+B 161
+B 26
+L
+B 18
+L
+B 42
+L
+B 70
+L
+L
+B 162
+B 25
+L
+B 17
+L
+B 41
+L
+L
+B 120
+B 69
+L
+B 70
+L
+L
+B 116
+B 216
+L
+L
+B 25
+L
+B 26
+L
+B 17
+L
+B 18
+L
+B 41
+B 69
+L
+L
+B 69
+L
+B 42
+L
+B 70
+L
+L
+B 44
+B 240
+L
+B 112
+L
+B 212
+L
+B 84
+L
+B 208
+L
+B 80
+L
+B 88
+L
+B 116
+L
+B 120
+L
+B 148
+L
+B 144
+L
+B 152
+L
+L
+B 172
+B 240
+B 76
+L
+B 21
+B 70
+B 40
+L
+B 88
+L
+B 24
+L
+B 72
+L
+L
+B 22
+B 88
+L
+B 72
+L
+B 12
+L
+B 41
+L
+B 40
+L
+L
+B 26
+B 41
+B 162
+L
+B 6
+L
+L
+B 73
+B 162
+L
+L
+B 161
+B 12
+L
+L
+B 162
+B 12
+L
+L
+B 12
+L
+B 6
+L
+L
+B 42
+B 73
+B 134
+L
+B 6
+L
+B 82
+L
+B 161
+L
+L
+B 134
+B 161
+L
+L
+B 6
+L
+B 161
+B 12
+L
+L
+B 12
+L
+B 82
+L
+B 137
+L
+L
+B 74
+B 41
+B 162
+L
+L
+B 73
+L
+B 161
+L
+B 162
+L
+B 12
+L
+L
+B 10
+L
+B 162
+B 12
+L
+B 41
+L
+B 73
+L
+B 14
+L
+B 9
+L
+L
+B 41
+B 82
+L
+B 66
+L
+B 130
+L
+B 34
+L
+B 6
+L
+L
+B 73
+B 82
+L
+B 66
+L
+B 34
+L
+B 130
+L
+L
+B 82
+B 12
+L
+L
+B 66
+L
+B 34
+L
+B 130
+L
+B 6
+L
+B 2
+L
+L
+B 70
+B 25
+B 42
+B 69
+L
+B 161
+L
+B 5
+L
+L
+B 69
+B 162
+L
+B 26
+L
+L
+B 162
+B 12
+L
+L
+B 12
+L
+B 161
+L
+B 26
+L
+B 5
+L
+L
+B 41
+B 69
+B 24
+L
+B 88
+L
+B 162
+L
+L
+B 162
+B 133
+L
+B 5
+L
+B 12
+L
+L
+B 133
+B 24
+L
+L
+B 5
+L
+B 26
+B 81
+L
+L
+B 12
+L
+B 24
+L
+L
+B 69
+B 24
+L
+B 88
+L
+B 40
+L
+B 42
+L
+B 72
+L
+L
+B 73
+B 42
+B 20
+L
+L
+B 162
+B 12
+L
+L
+B 26
+L
+B 24
+L
+L
+B 9
+L
+B 161
+B 12
+L
+B 42
+L
+B 13
+L
+B 26
+L
+B 24
+L
+L
+B 42
+B 81
+L
+B 17
+L
+B 129
+L
+B 33
+L
+B 5
+L
+L
+B 81
+B 12
+L
+B 162
+L
+L
+B 17
+L
+B 33
+L
+B 26
+B 129
+L
+L
+B 129
+L
+B 5
+L
+B 1
+L
+L
+B 22
+B 69
+B 88
+L
+B 40
+L
+B 24
+L
+L
+B 25
+B 42
+B 161
+L
+B 68
+L
+L
+B 74
+L
+B 161
+B 12
+L
+L
+B 162
+L
+B 12
+L
+L
+B 41
+B 74
+B 133
+L
+B 5
+L
+B 81
+L
+L
+B 133
+L
+B 5
+L
+B 162
+B 81
+L
+L
+B 81
+L
+B 138
+L
+B 145
+L
+B 17
+L
+L
+B 73
+B 42
+L
+B 74
+L
+B 162
+L
+B 161
+L
+L
+B 9
+L
+B 161
+B 12
+L
+B 42
+L
+B 13
+L
+B 74
+L
+B 81
+L
+L
+B 33
+L
+B 74
+B 81
+L
+B 65
+L
+B 129
+L
+L
+B 81
+L
+B 65
+L
+B 129
+L
+B 42
+L
+B 17
+L
+L
+B 69
+B 26
+B 41
+B 162
+L
+B 20
+L
+L
+B 161
+B 12
+L
+L
+B 162
+B 12
+L
+L
+B 12
+L
+B 25
+L
+L
+B 42
+B 20
+L
+B 134
+L
+B 161
+L
+B 6
+L
+B 25
+L
+B 82
+L
+L
+B 74
+B 20
+L
+B 41
+L
+B 161
+L
+L
+B 10
+L
+B 162
+B 12
+L
+B 41
+L
+B 14
+L
+B 25
+L
+B 24
+L
+L
+B 34
+L
+B 25
+B 82
+L
+B 18
+L
+B 130
+L
+L
+B 24
+L
+B 82
+L
+B 18
+L
+B 130
+L
+B 41
+L
+L
+B 20
+L
+B 12
+L
+B 25
+B 26
+B 68
+L
+B 4
+L
+L
+B 42
+B 68
+L
+B 6
+L
+L
+B 74
+L
+B 10
+L
+B 162
+B 68
+L
+L
+B 6
+L
+B 34
+L
+B 130
+L
+L
+B 26
+B 41
+B 68
+L
+B 5
+L
+L
+B 73
+L
+B 9
+L
+B 161
+B 68
+L
+L
+B 5
+L
+B 33
+L
+B 129
+L
+L
+B 41
+B 74
+B 68
+L
+L
+B 6
+L
+B 162
+B 14
+L
+B 133
+L
+B 5
+L
+L
+B 82
+L
+B 18
+L
+B 130
+L
+B 133
+L
+B 5
+L
+L
+B 74
+B 73
+B 68
+L
+L
+B 9
+L
+B 161
+L
+B 5
+L
+B 33
+L
+B 129
+L
+L
+B 73
+B 6
+L
+B 162
+L
+B 42
+L
+B 34
+L
+B 10
+L
+L
+B 9
+L
+B 161
+B 6
+L
+B 42
+L
+B 10
+L
+B 82
+L
+B 18
+L
+B 13
+L
+B 66
+L
+L
+B 6
+L
+B 162
+B 5
+L
+B 81
+L
+B 14
+L
+B 17
+L
+B 33
+L
+L
+B 5
+L
+B 33
+L
+B 81
+L
+B 82
+L
+B 18
+L
+B 17
+L
+B 129
+L
+L
+B 212
+B 120
+B 161
+B 70
+B 21
+B 146
+L
+B 42
+L
+B 162
+L
+B 138
+L
+L
+B 146
+B 13
+L
+B 12
+L
+L
+B 13
+B 42
+L
+B 162
+L
+L
+B 12
+L
+B 162
+L
+B 42
+L
+B 138
+L
+L
+B 22
+B 194
+B 69
+L
+B 13
+L
+B 12
+L
+L
+B 69
+B 42
+L
+B 138
+L
+L
+B 13
+B 42
+L
+L
+B 12
+L
+B 42
+L
+B 138
+L
+L
+B 6
+L
+B 12
+L
+B 42
+B 69
+L
+B 13
+L
+B 21
+L
+L
+B 69
+B 162
+L
+B 34
+L
+L
+B 162
+B 13
+L
+L
+B 34
+L
+B 13
+L
+B 194
+L
+B 66
+L
+L
+B 162
+B 69
+B 22
+B 145
+L
+B 41
+L
+B 137
+L
+L
+B 145
+B 14
+L
+B 12
+L
+L
+B 14
+B 41
+L
+L
+B 12
+L
+B 41
+L
+B 137
+L
+L
+B 21
+B 70
+B 193
+L
+B 41
+L
+L
+B 193
+B 14
+L
+L
+B 14
+L
+B 12
+L
+B 41
+L
+L
+B 5
+L
+B 12
+L
+B 70
+B 41
+L
+B 33
+L
+L
+B 41
+B 14
+L
+L
+B 33
+L
+B 14
+L
+B 193
+L
+B 65
+L
+L
+B 69
+B 22
+B 194
+B 145
+L
+B 41
+L
+L
+B 145
+B 42
+L
+L
+B 42
+B 129
+L
+L
+B 130
+L
+B 41
+L
+B 74
+L
+L
+B 194
+B 145
+B 42
+L
+B 34
+L
+L
+B 41
+B 50
+L
+B 18
+L
+L
+B 33
+L
+B 50
+L
+B 18
+L
+L
+B 130
+L
+B 145
+B 42
+L
+B 34
+L
+B 98
+L
+L
+B 42
+B 129
+L
+B 49
+L
+L
+B 34
+L
+B 98
+L
+B 18
+L
+B 10
+L
+B 137
+L
+L
+B 22
+B 194
+B 193
+B 21
+L
+B 41
+L
+L
+B 129
+L
+B 41
+L
+B 33
+L
+B 65
+L
+L
+B 193
+B 21
+B 42
+L
+L
+B 42
+B 49
+L
+L
+B 130
+L
+B 34
+L
+L
+B 129
+L
+B 41
+B 130
+L
+B 74
+L
+L
+B 33
+L
+B 65
+L
+B 138
+L
+B 130
+L
+B 9
+L
+L
+B 70
+B 21
+B 193
+L
+B 146
+L
+B 41
+L
+B 129
+L
+L
+B 193
+B 146
+L
+B 20
+L
+B 42
+L
+L
+B 129
+L
+B 146
+B 41
+L
+B 33
+L
+L
+B 41
+B 20
+L
+L
+B 33
+L
+B 97
+L
+B 17
+L
+B 5
+L
+L
+B 21
+B 193
+B 194
+L
+B 130
+L
+B 42
+L
+B 34
+L
+L
+B 194
+B 41
+L
+B 129
+L
+B 33
+L
+L
+B 130
+L
+B 42
+B 129
+L
+L
+B 34
+L
+B 98
+L
+B 66
+L
+B 137
+L
+L
+B 20
+L
+B 193
+B 194
+B 12
+L
+L
+B 130
+L
+B 42
+L
+B 34
+L
+B 98
+L
+L
+B 194
+B 129
+L
+B 41
+L
+B 33
+L
+B 97
+L
+L
+B 129
+L
+B 130
+L
+B 41
+B 98
+L
+L
+B 33
+L
+B 98
+L
+B 66
+L
+B 34
+L
+L
+B 56
+L
+B 88
+L
+B 104
+L
+B 112
+L
+B 24
+L
+B 161
+B 72
+L
+B 152
+L
+B 76
+L
+B 12
+L
+B 42
+L
+B 40
+L
+B 70
+L
+B 80
+L
+L
+B 162
+B 72
+L
+B 76
+L
+B 152
+L
+B 12
+L
+B 41
+L
+B 40
+L
+B 69
+L
+L
+B 40
+L
+B 41
+B 26
+L
+B 50
+L
+B 69
+L
+B 74
+L
+B 21
+L
+B 98
+L
+B 34
+L
+L
+B 42
+B 25
+L
+B 70
+L
+B 49
+L
+B 22
+L
+B 33
+L
+L
+B 25
+B 26
+L
+B 50
+L
+B 34
+L
+L
+B 26
+B 49
+L
+B 33
+L
+L
+B 49
+B 12
+L
+L
+B 33
+L
+B 50
+L
+B 34
+L
+B 69
+B 22
+L
+B 18
+L
+B 48
+L
+L
+B 22
+B 74
+L
+L
+B 18
+L
+B 70
+L
+B 193
+L
+B 65
+L
+L
+B 208
+L
+B 84
+L
+B 216
+B 116
+B 161
+B 42
+B 20
+L
+B 22
+L
+B 70
+L
+L
+B 70
+B 21
+L
+B 20
+L
+L
+B 20
+L
+B 22
+L
+B 6
+L
+B 12
+L
+L
+B 162
+B 41
+B 20
+L
+B 21
+L
+L
+B 69
+B 22
+L
+B 20
+L
+L
+B 12
+L
+B 20
+L
+B 21
+L
+B 5
+L
+L
+B 41
+B 70
+B 21
+L
+B 20
+L
+L
+B 22
+B 69
+L
+B 98
+L
+L
+B 20
+L
+B 6
+L
+B 21
+L
+B 69
+L
+L
+B 42
+B 69
+B 22
+L
+B 20
+L
+L
+B 21
+B 70
+L
+L
+B 20
+L
+B 22
+L
+B 70
+L
+B 97
+L
+L
+B 69
+B 22
+B 40
+L
+L
+B 34
+L
+B 194
+L
+B 49
+L
+B 33
+L
+B 26
+L
+L
+B 22
+B 33
+L
+B 98
+L
+B 34
+L
+B 193
+L
+B 65
+L
+L
+B 20
+L
+B 21
+B 34
+L
+L
+B 34
+L
+B 33
+L
+B 70
+L
+B 193
+L
+B 65
+L
+L
+B 20
+L
+B 52
+L
+B 100
+L
+B 112
+L
+B 21
+B 70
+L
+B 162
+B 68
+L
+L
+B 41
+B 68
+L
+L
+B 68
+L
+B 42
+L
+B 161
+L
+L
+B 70
+B 161
+B 42
+L
+L
+B 41
+B 162
+L
+L
+B 162
+L
+B 42
+L
+B 49
+L
+B 33
+L
+B 193
+L
+L
+B 68
+L
+B 69
+B 22
+L
+B 162
+L
+B 41
+L
+L
+B 22
+B 161
+L
+B 42
+L
+L
+B 161
+B 80
+L
+B 42
+L
+B 50
+L
+B 76
+L
+L
+B 162
+B 80
+L
+B 41
+L
+B 76
+L
+L
+B 41
+B 80
+L
+B 148
+L
+B 76
+L
+L
+B 42
+B 80
+L
+B 148
+L
+L
+B 148
+L
+B 76
+L
+B 12
+L
+B 49
+L
+B 33
+L
+L
+B 88
+L
+B 80
+L
+B 116
+B 152
+L
+B 24
+L
+B 161
+B 56
+L
+B 104
+L
+B 72
+L
+B 76
+L
+B 200
+L
+B 12
+L
+L
+B 162
+B 56
+L
+B 76
+L
+B 72
+L
+B 104
+L
+B 200
+L
+B 12
+L
+L
+B 144
+L
+B 145
+B 146
+L
+B 42
+L
+B 194
+L
+L
+B 146
+B 41
+L
+B 193
+L
+L
+B 41
+B 194
+L
+B 130
+L
+B 22
+L
+B 193
+L
+B 192
+L
+L
+B 194
+B 193
+L
+B 129
+L
+L
+B 130
+L
+B 193
+L
+B 22
+L
+B 129
+L
+B 69
+L
+B 42
+L
+B 21
+L
+B 20
+L
+L
+B 112
+L
+B 148
+L
+B 20
+L
+B 52
+L
+B 152
+L
+B 56
+B 68
+L
+B 100
+L
+B 64
+L
+L
+B 24
+L
+B 144
+L
+B 176
+L
+B 48
+L
+B 21
+B 70
+L
+B 76
+L
+L
+B 16
+L
+B 22
+L
+B 69
+B 146
+L
+B 18
+L
+L
+B 70
+B 145
+L
+B 17
+L
+L
+B 68
+L
+B 76
+L
+B 100
+L
+B 104
+L
+B 184
+L
+L
+B 76
+B 240
+L
+B 112
+L
+B 180
+L
+B 52
+L
+B 176
+L
+B 48
+L
+B 56
+L
+B 116
+L
+B 120
+L
+B 148
+L
+B 144
+L
+L
+B 140
+B 240
+L
+B 176
+L
+B 116
+L
+B 52
+L
+B 112
+L
+B 48
+L
+B 56
+L
+B 180
+L
+B 184
+L
+B 84
+L
+B 80
+L
+L
+B 204
+B 240
+B 12
+L
+B 21
+B 42
+B 70
+L
+B 161
+L
+B 22
+L
+B 41
+L
+L
+B 70
+B 40
+L
+B 24
+L
+B 26
+L
+L
+B 162
+B 41
+B 22
+L
+L
+B 40
+L
+B 22
+L
+B 26
+L
+B 6
+L
+L
+B 41
+B 22
+L
+B 26
+L
+B 38
+L
+B 6
+L
+B 34
+L
+B 14
+L
+L
+B 40
+L
+B 22
+B 24
+L
+L
+B 26
+L
+B 38
+L
+B 34
+L
+B 6
+L
+B 161
+L
+B 14
+L
+B 10
+L
+L
+B 42
+B 69
+B 22
+L
+B 20
+L
+B 161
+L
+B 25
+L
+L
+B 161
+B 22
+B 25
+L
+L
+B 20
+L
+B 5
+L
+B 4
+L
+L
+B 22
+B 25
+L
+B 37
+L
+B 5
+L
+B 41
+L
+B 33
+L
+B 13
+L
+L
+B 20
+L
+B 5
+L
+B 25
+L
+B 70
+L
+B 41
+L
+B 33
+L
+B 13
+L
+B 6
+L
+L
+B 22
+B 41
+B 69
+L
+B 162
+L
+L
+B 40
+L
+B 69
+B 24
+L
+L
+B 161
+B 25
+L
+B 5
+L
+L
+B 25
+L
+B 37
+L
+B 33
+L
+B 5
+L
+B 162
+L
+B 13
+L
+B 9
+L
+L
+B 41
+B 20
+L
+B 70
+B 162
+L
+L
+B 162
+B 6
+L
+L
+B 6
+L
+B 34
+L
+B 69
+L
+B 14
+L
+B 5
+L
+L
+B 20
+L
+B 40
+L
+B 69
+B 162
+B 26
+L
+B 24
+L
+L
+B 26
+L
+B 38
+L
+B 34
+L
+B 14
+L
+B 6
+L
+B 25
+L
+L
+B 162
+B 5
+L
+B 25
+L
+B 26
+L
+B 24
+L
+B 49
+L
+B 17
+L
+L
+B 70
+B 161
+L
+B 25
+L
+B 37
+L
+B 33
+L
+B 5
+L
+B 26
+L
+L
+B 161
+B 26
+L
+B 38
+L
+B 6
+L
+B 34
+L
+B 5
+L
+B 25
+L
+L
+B 25
+B 26
+L
+B 38
+L
+L
+B 26
+B 37
+L
+L
+B 37
+L
+B 5
+L
+B 33
+L
+B 38
+L
+B 6
+L
+B 34
+L
+B 13
+L
+B 14
+L
+B 9
+L
+L
+B 116
+B 184
+B 12
+L
+B 161
+B 22
+B 42
+L
+B 98
+L
+L
+B 42
+B 146
+L
+L
+B 194
+B 21
+L
+L
+B 70
+L
+B 6
+L
+B 66
+L
+L
+B 162
+B 21
+B 41
+L
+L
+B 41
+L
+B 193
+L
+B 22
+L
+B 20
+L
+L
+B 21
+B 42
+L
+B 194
+L
+B 34
+L
+B 97
+L
+B 70
+L
+L
+B 42
+B 193
+L
+B 22
+L
+B 20
+L
+L
+B 193
+B 194
+L
+B 22
+L
+B 20
+L
+L
+B 194
+B 41
+L
+B 40
+L
+L
+B 22
+B 41
+L
+B 33
+L
+L
+B 41
+B 20
+L
+L
+B 20
+L
+B 97
+L
+B 33
+L
+B 98
+L
+L
+B 56
+L
+B 152
+L
+B 168
+L
+B 176
+L
+B 12
+L
+B 40
+L
+B 161
+B 42
+L
+B 24
+L
+B 146
+L
+B 162
+L
+L
+B 42
+B 145
+L
+B 144
+L
+L
+B 162
+B 41
+L
+B 24
+L
+L
+B 160
+L
+B 41
+L
+B 24
+L
+B 145
+L
+B 146
+L
+B 144
+L
+L
+B 112
+L
+B 52
+L
+B 120
+B 12
+L
+B 180
+B 161
+B 42
+L
+B 70
+L
+B 194
+L
+B 21
+L
+L
+B 162
+B 41
+L
+B 69
+L
+B 22
+L
+L
+B 20
+L
+B 21
+L
+B 42
+L
+B 69
+L
+B 194
+L
+B 193
+L
+L
+B 148
+L
+B 20
+L
+B 164
+L
+B 36
+L
+B 176
+L
+B 161
+B 22
+L
+L
+B 22
+L
+B 162
+L
+B 160
+L
+B 21
+L
+B 100
+L
+B 48
+L
+L
+B 56
+L
+B 48
+L
+B 180
+B 88
+L
+B 104
+L
+B 12
+L
+B 40
+L
+B 41
+L
+B 42
+L
+B 161
+B 24
+L
+L
+B 162
+L
+B 24
+L
+B 193
+L
+B 194
+L
+B 69
+L
+L
+B 176
+L
+B 84
+L
+B 20
+L
+B 148
+L
+B 88
+L
+B 152
+B 36
+L
+L
+B 24
+L
+B 208
+L
+B 80
+L
+B 144
+L
+B 100
+L
+B 164
+L
+B 36
+L
+B 104
+L
+B 40
+L
+B 168
+L
+L
+B 12
+L
+B 116
+B 184
+B 69
+B 162
+B 74
+L
+B 41
+B 22
+L
+B 26
+L
+B 10
+L
+L
+B 22
+L
+B 26
+L
+B 10
+L
+B 40
+L
+B 145
+L
+L
+B 14
+B 194
+L
+B 161
+L
+B 41
+L
+B 130
+L
+L
+B 22
+B 136
+L
+B 161
+L
+B 42
+L
+L
+B 42
+B 161
+L
+B 134
+L
+B 146
+L
+B 130
+L
+L
+B 74
+B 161
+L
+L
+B 161
+B 10
+L
+B 134
+L
+B 6
+L
+B 34
+L
+L
+B 10
+L
+B 134
+L
+B 6
+L
+B 34
+L
+B 41
+L
+B 145
+L
+B 194
+L
+B 130
+L
+L
+B 162
+B 13
+B 193
+B 70
+L
+B 74
+L
+B 22
+L
+L
+B 70
+L
+B 74
+L
+B 65
+L
+B 22
+L
+B 6
+L
+L
+B 21
+B 70
+L
+B 41
+B 74
+L
+L
+B 74
+L
+B 68
+L
+B 72
+L
+B 73
+L
+L
+B 5
+L
+B 41
+B 70
+L
+B 68
+L
+B 4
+L
+L
+B 70
+B 73
+L
+B 9
+L
+B 193
+L
+B 65
+L
+L
+B 68
+L
+B 74
+L
+B 73
+L
+B 9
+L
+B 72
+L
+B 22
+L
+B 6
+L
+L
+B 70
+B 161
+B 73
+L
+B 42
+B 21
+L
+L
+B 21
+L
+B 5
+L
+B 146
+L
+B 25
+L
+L
+B 13
+B 193
+L
+B 42
+L
+L
+B 21
+B 136
+L
+L
+B 5
+L
+B 41
+L
+B 33
+L
+B 42
+L
+B 73
+L
+B 9
+L
+B 146
+L
+B 193
+L
+L
+B 68
+L
+B 161
+B 14
+B 194
+L
+B 73
+L
+B 21
+L
+L
+B 22
+B 73
+L
+B 42
+L
+B 72
+L
+L
+B 6
+L
+B 42
+B 4
+L
+L
+B 73
+L
+B 34
+L
+B 74
+L
+B 10
+L
+B 21
+L
+B 5
+L
+L
+B 13
+B 14
+L
+B 22
+L
+B 6
+L
+B 193
+L
+B 42
+L
+B 34
+L
+L
+B 14
+B 21
+L
+B 5
+L
+B 194
+L
+B 41
+L
+B 33
+L
+L
+B 21
+B 42
+L
+B 74
+L
+B 10
+L
+B 134
+L
+B 6
+L
+B 34
+L
+L
+B 5
+L
+B 42
+B 73
+L
+B 22
+L
+B 193
+L
+B 129
+L
+B 6
+L
+L
+B 74
+B 41
+L
+B 33
+L
+L
+B 10
+L
+B 22
+B 41
+L
+L
+B 6
+L
+B 41
+L
+B 33
+L
+B 34
+L
+B 73
+L
+B 9
+L
+L
+B 152
+L
+B 168
+L
+B 136
+L
+B 216
+B 41
+B 162
+L
+B 70
+L
+B 14
+L
+B 21
+L
+B 42
+L
+B 69
+L
+B 68
+L
+L
+B 40
+L
+B 42
+B 161
+L
+B 69
+L
+B 22
+L
+L
+B 161
+B 70
+L
+B 14
+L
+B 22
+L
+B 6
+L
+B 69
+L
+B 68
+L
+L
+B 162
+B 69
+L
+B 13
+L
+B 21
+L
+B 5
+L
+B 70
+L
+L
+B 69
+B 160
+L
+B 56
+L
+L
+B 56
+L
+B 70
+B 160
+L
+L
+B 68
+L
+B 13
+L
+B 14
+L
+B 21
+L
+B 5
+L
+B 134
+L
+L
+B 200
+L
+B 56
+L
+B 40
+L
+B 88
+L
+B 24
+L
+B 104
+L
+B 72
+L
+B 8
+L
+B 41
+L
+B 42
+L
+B 161
+B 14
+L
+B 10
+L
+B 22
+L
+B 70
+L
+L
+B 162
+B 13
+L
+B 9
+L
+B 21
+L
+L
+B 120
+B 21
+L
+L
+B 13
+L
+B 14
+L
+B 9
+L
+B 10
+L
+B 21
+B 70
+L
+L
+B 70
+L
+B 22
+L
+B 69
+L
+L
+B 52
+B 216
+L
+B 88
+L
+B 200
+L
+B 72
+L
+B 104
+L
+B 120
+L
+B 136
+L
+L
+B 180
+B 216
+B 100
+L
+B 41
+B 68
+L
+B 70
+L
+B 20
+L
+B 162
+L
+B 22
+L
+B 4
+L
+L
+B 70
+B 161
+B 42
+L
+B 21
+L
+B 40
+L
+L
+B 42
+B 21
+L
+B 13
+L
+L
+B 40
+L
+B 21
+L
+B 162
+L
+B 13
+L
+B 69
+L
+L
+B 68
+L
+B 69
+B 42
+L
+B 162
+L
+B 40
+L
+L
+B 42
+B 20
+L
+B 161
+L
+B 21
+L
+B 4
+L
+L
+B 161
+B 14
+L
+B 21
+L
+B 20
+L
+B 22
+L
+B 6
+L
+B 4
+L
+L
+B 162
+B 21
+L
+B 20
+L
+B 84
+L
+B 22
+L
+B 4
+L
+L
+B 40
+L
+B 84
+L
+B 20
+L
+B 21
+L
+B 22
+L
+B 13
+L
+B 5
+L
+B 4
+L
+L
+B 200
+L
+B 88
+L
+B 72
+L
+B 232
+B 84
+L
+B 20
+L
+B 69
+B 24
+L
+L
+B 68
+L
+B 70
+L
+B 161
+B 22
+L
+B 21
+L
+L
+B 162
+B 21
+L
+L
+B 21
+L
+B 22
+L
+B 41
+L
+B 42
+L
+L
+B 104
+L
+B 152
+L
+B 168
+L
+B 136
+L
+B 40
+L
+B 56
+L
+B 24
+L
+B 8
+L
+B 41
+L
+B 42
+L
+B 69
+B 138
+L
+B 10
+L
+L
+B 70
+B 137
+L
+B 9
+L
+L
+B 68
+L
+B 84
+L
+B 100
+L
+B 112
+L
+L
+B 84
+B 232
+L
+B 104
+L
+B 40
+L
+B 168
+L
+B 56
+L
+B 120
+L
+B 136
+L
+L
+B 148
+B 232
+L
+B 168
+L
+B 40
+L
+B 104
+L
+B 56
+L
+B 184
+L
+L
+B 20
+L
+B 212
+B 232
+B 36
+L
+B 100
+L
+B 68
+L
+B 164
+L
+B 132
+L
+B 161
+L
+B 22
+L
+B 4
+L
+L
+B 104
+L
+B 168
+L
+B 40
+L
+B 120
+B 164
+L
+B 36
+L
+B 161
+L
+B 162
+L
+B 160
+L
+L
+B 56
+L
+B 200
+L
+B 88
+L
+B 72
+L
+B 152
+L
+B 136
+L
+B 24
+L
+B 100
+L
+B 164
+L
+B 36
+L
+B 112
+L
+B 176
+L
+L
+B 100
+B 120
+L
+B 56
+L
+B 184
+L
+B 24
+L
+B 152
+L
+B 88
+L
+L
+B 164
+B 184
+L
+B 152
+L
+B 216
+L
+B 24
+L
+L
+B 196
+B 216
+L
+B 88
+L
+B 120
+L
+B 24
+L
+L
+B 68
+L
+B 228
+B 184
+B 36
+L
+B 132
+L
+B 21
+L
+B 4
+L
+L
+B 56
+L
+B 120
+B 132
+L
+B 36
+L
+L
+B 24
+L
+B 88
+L
+B 152
+L
+B 168
+L
+B 40
+L
+B 104
+L
+B 200
+L
+B 72
+L
+B 136
+L
+L
+B 36
+L
+B 132
+L
+B 120
+B 4
+L
+B 21
+L
+B 70
+L
+B 22
+L
+B 69
+L
+B 161
+B 6
+L
+B 42
+B 82
+L
+L
+B 138
+L
+B 146
+L
+L
+B 6
+L
+B 5
+L
+B 162
+B 41
+L
+B 137
+L
+L
+B 41
+B 138
+L
+B 130
+L
+L
+B 42
+B 137
+L
+L
+B 33
+L
+B 34
+L
+L
+B 56
+L
+B 184
+B 4
+L
+B 21
+L
+B 22
+L
+B 88
+L
+B 104
+L
+B 112
+L
+B 72
+L
+B 80
+L
+L
+B 88
+L
+B 152
+L
+B 216
+B 4
+L
+B 69
+L
+B 22
+L
+B 70
+L
+B 21
+L
+B 161
+L
+B 162
+L
+B 160
+L
+L
+B 24
+L
+B 104
+L
+B 168
+L
+B 40
+L
+B 200
+L
+B 232
+L
+B 72
+L
+B 136
+L
+B 112
+L
+B 176
+L
+B 208
+L
+B 224
+L
+L

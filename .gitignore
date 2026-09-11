@@ -1,0 +1,13 @@
+# Regenerated full-verification outputs
+/fc49/run/
+/fc49/foundation/bin/
+/fc49/foundation/verification_report.json
+/fc49/foundation/data/nonfc7_labeled.bin
+
+# Compiled compact checker and reconstructed certificate output
+/common_pair/verify_positive
+/finite_bounds/morris_exact.regenerated.json
+
+# Python bytecode caches
+__pycache__/
+*.py[cod]

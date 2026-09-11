@@ -1,0 +1,5570 @@
+{
+  "labeled_graphs": 116280,
+  "orbits": 65,
+  "orbit_table": [
+    {
+      "complement_mask": 127,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "generator_masks": [
+        43,
+        51,
+        75,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 105,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_57",
+        "permutation": [
+          2,
+          0,
+          1,
+          3,
+          4,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        3,
+        4,
+        6,
+        7,
+        8
+      ],
+      "integer_weights": [
+        6,
+        6,
+        0,
+        3,
+        3,
+        4,
+        3,
+        4,
+        4
+      ],
+      "weight_sum": 33
+    },
+    {
+      "complement_mask": 223,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "generator_masks": [
+        51,
+        75,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_57",
+        "permutation": [
+          3,
+          0,
+          1,
+          2,
+          4,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        3,
+        4,
+        5,
+        7,
+        8
+      ],
+      "integer_weights": [
+        6,
+        6,
+        0,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4
+      ],
+      "weight_sum": 33
+    },
+    {
+      "complement_mask": 251,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "generator_masks": [
+        39,
+        51,
+        75,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 840,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_57",
+        "permutation": [
+          3,
+          0,
+          1,
+          2,
+          4,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        3,
+        4,
+        5,
+        7,
+        8
+      ],
+      "integer_weights": [
+        6,
+        6,
+        0,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4
+      ],
+      "weight_sum": 33
+    },
+    {
+      "complement_mask": 254,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        51,
+        75,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 420,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_57",
+        "permutation": [
+          3,
+          0,
+          1,
+          2,
+          4,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        3,
+        4,
+        5,
+        7,
+        8
+      ],
+      "integer_weights": [
+        6,
+        6,
+        0,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4
+      ],
+      "weight_sum": 33
+    },
+    {
+      "complement_mask": 463,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "generator_masks": [
+        51,
+        83,
+        99,
+        135,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 210,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_58",
+        "permutation": [
+          0,
+          4,
+          5,
+          1,
+          2,
+          3
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        3,
+        7,
+        8,
+        4,
+        5,
+        6
+      ],
+      "integer_weights": [
+        3,
+        3,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "weight_sum": 16
+    },
+    {
+      "complement_mask": 471,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "generator_masks": [
+        51,
+        71,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_58",
+        "permutation": [
+          0,
+          4,
+          5,
+          1,
+          2,
+          3
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        3,
+        7,
+        8,
+        4,
+        5,
+        6
+      ],
+      "integer_weights": [
+        3,
+        3,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "weight_sum": 16
+    },
+    {
+      "complement_mask": 478,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        51,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 840,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_58",
+        "permutation": [
+          0,
+          4,
+          5,
+          1,
+          2,
+          3
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        3,
+        7,
+        8,
+        4,
+        5,
+        6
+      ],
+      "integer_weights": [
+        3,
+        3,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "weight_sum": 16
+    },
+    {
+      "complement_mask": 499,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "generator_masks": [
+        39,
+        51,
+        71,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 630,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_58",
+        "permutation": [
+          0,
+          4,
+          5,
+          1,
+          2,
+          3
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        3,
+        7,
+        8,
+        4,
+        5,
+        6
+      ],
+      "integer_weights": [
+        3,
+        3,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "weight_sum": 16
+    },
+    {
+      "complement_mask": 502,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        51,
+        71,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_58",
+        "permutation": [
+          0,
+          4,
+          5,
+          1,
+          2,
+          3
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        3,
+        7,
+        8,
+        4,
+        5,
+        6
+      ],
+      "integer_weights": [
+        3,
+        3,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "weight_sum": 16
+    },
+    {
+      "complement_mask": 2255,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        75,
+        83,
+        99,
+        135,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 420,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_57",
+        "permutation": [
+          3,
+          0,
+          1,
+          2,
+          4,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        3,
+        4,
+        5,
+        7,
+        8
+      ],
+      "integer_weights": [
+        6,
+        6,
+        0,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4
+      ],
+      "weight_sum": 33
+    },
+    {
+      "complement_mask": 2267,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        39,
+        75,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_57",
+        "permutation": [
+          3,
+          0,
+          1,
+          2,
+          4,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        3,
+        4,
+        5,
+        7,
+        8
+      ],
+      "integer_weights": [
+        6,
+        6,
+        0,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4
+      ],
+      "weight_sum": 33
+    },
+    {
+      "complement_mask": 2297,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        23,
+        39,
+        75,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 420,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_57",
+        "permutation": [
+          3,
+          0,
+          1,
+          2,
+          4,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        3,
+        4,
+        5,
+        7,
+        8
+      ],
+      "integer_weights": [
+        6,
+        6,
+        0,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4
+      ],
+      "weight_sum": 33
+    },
+    {
+      "complement_mask": 2335,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        27,
+        43,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 630,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_59",
+        "permutation": [
+          0,
+          4,
+          5,
+          1,
+          2,
+          3
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        3,
+        7,
+        8,
+        4,
+        5,
+        6
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2359,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        27,
+        43,
+        71,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_59",
+        "permutation": [
+          0,
+          4,
+          5,
+          1,
+          2,
+          3
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        3,
+        7,
+        8,
+        4,
+        5,
+        6
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        2,
+        2,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2383,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        43,
+        83,
+        99,
+        135,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_59",
+        "permutation": [
+          2,
+          4,
+          5,
+          3,
+          0,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        7,
+        8,
+        6,
+        3,
+        4
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2391,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        43,
+        71,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 5040,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_59",
+        "permutation": [
+          2,
+          4,
+          5,
+          3,
+          0,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        7,
+        8,
+        6,
+        3,
+        4
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2397,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        23,
+        43,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 5040,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_59",
+        "permutation": [
+          2,
+          4,
+          5,
+          3,
+          0,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        7,
+        8,
+        6,
+        3,
+        4
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2419,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        39,
+        43,
+        71,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_59",
+        "permutation": [
+          2,
+          4,
+          5,
+          3,
+          0,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        7,
+        8,
+        6,
+        3,
+        4
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2421,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        23,
+        43,
+        71,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_59",
+        "permutation": [
+          2,
+          4,
+          5,
+          3,
+          0,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        7,
+        8,
+        6,
+        3,
+        4
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2422,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        43,
+        71,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_59",
+        "permutation": [
+          2,
+          4,
+          5,
+          3,
+          0,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        7,
+        8,
+        6,
+        3,
+        4
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2428,
+      "complement_edges": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        43,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_59",
+        "permutation": [
+          2,
+          4,
+          5,
+          3,
+          0,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        7,
+        8,
+        6,
+        3,
+        4
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2510,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        83,
+        99,
+        135,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 630,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 2,
+        "certificate": "atlas_63",
+        "permutation": [
+          0,
+          4,
+          5,
+          2,
+          3,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        2,
+        7,
+        8,
+        5,
+        6,
+        3
+      ],
+      "integer_weights": [
+        5,
+        5,
+        3,
+        3,
+        0,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 2518,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        71,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 2,
+        "certificate": "atlas_66",
+        "permutation": [
+          3,
+          2,
+          1,
+          0,
+          5,
+          4
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        5,
+        3,
+        2,
+        8,
+        7
+      ],
+      "integer_weights": [
+        5,
+        5,
+        3,
+        3,
+        0,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 2521,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        23,
+        39,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 1,
+        "certificate": "atlas_60",
+        "permutation": [
+          5,
+          3,
+          4,
+          1,
+          2,
+          0
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        8,
+        6,
+        7,
+        4,
+        5,
+        2
+      ],
+      "integer_weights": [
+        5,
+        5,
+        1,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2522,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        39,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 5040,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 1,
+        "certificate": "atlas_65",
+        "permutation": [
+          2,
+          3,
+          4,
+          0,
+          1,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        6,
+        7,
+        2,
+        4,
+        8
+      ],
+      "integer_weights": [
+        5,
+        5,
+        2,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 27
+    },
+    {
+      "complement_mask": 2545,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        23,
+        39,
+        71,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 1,
+        "certificate": "atlas_60",
+        "permutation": [
+          3,
+          4,
+          5,
+          1,
+          2,
+          0
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        7,
+        8,
+        4,
+        5,
+        2
+      ],
+      "integer_weights": [
+        5,
+        5,
+        1,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2546,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        39,
+        71,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 1,
+        "certificate": "atlas_65",
+        "permutation": [
+          2,
+          4,
+          5,
+          0,
+          1,
+          3
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        7,
+        8,
+        2,
+        4,
+        6
+      ],
+      "integer_weights": [
+        5,
+        5,
+        2,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 27
+    },
+    {
+      "complement_mask": 2552,
+      "complement_edges": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        39,
+        83,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 1,
+        "certificate": "atlas_68",
+        "permutation": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "integer_weights": [
+        5,
+        5,
+        2,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 27
+    },
+    {
+      "complement_mask": 2843,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        27,
+        39,
+        43,
+        83,
+        99,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_60",
+        "permutation": [
+          5,
+          3,
+          4,
+          1,
+          2,
+          0
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        8,
+        6,
+        7,
+        4,
+        5,
+        3
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2846,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        27,
+        43,
+        83,
+        99,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_60",
+        "permutation": [
+          5,
+          3,
+          4,
+          1,
+          2,
+          0
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        8,
+        6,
+        7,
+        4,
+        5,
+        3
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2859,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        27,
+        39,
+        43,
+        83,
+        99,
+        135,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 5040,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_60",
+        "permutation": [
+          5,
+          3,
+          4,
+          1,
+          2,
+          0
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        8,
+        6,
+        7,
+        4,
+        5,
+        3
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2862,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        27,
+        43,
+        83,
+        99,
+        135,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_60",
+        "permutation": [
+          5,
+          3,
+          4,
+          1,
+          2,
+          0
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        8,
+        6,
+        7,
+        4,
+        5,
+        3
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2873,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        23,
+        27,
+        39,
+        43,
+        83,
+        99,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_60",
+        "permutation": [
+          5,
+          3,
+          4,
+          1,
+          2,
+          0
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        8,
+        6,
+        7,
+        4,
+        5,
+        3
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2874,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        27,
+        39,
+        43,
+        83,
+        99,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_60",
+        "permutation": [
+          5,
+          3,
+          4,
+          1,
+          2,
+          0
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        8,
+        6,
+        7,
+        4,
+        5,
+        3
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 26
+    },
+    {
+      "complement_mask": 2906,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        39,
+        43,
+        83,
+        99,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_65",
+        "permutation": [
+          2,
+          3,
+          4,
+          0,
+          1,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        6,
+        7,
+        3,
+        4,
+        8
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 27
+    },
+    {
+      "complement_mask": 2908,
+      "complement_edges": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        43,
+        83,
+        99,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_65",
+        "permutation": [
+          2,
+          3,
+          4,
+          0,
+          1,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        6,
+        7,
+        3,
+        4,
+        8
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 27
+    },
+    {
+      "complement_mask": 2922,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        39,
+        43,
+        83,
+        99,
+        135,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_65",
+        "permutation": [
+          2,
+          3,
+          4,
+          0,
+          1,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        6,
+        7,
+        3,
+        4,
+        8
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 27
+    },
+    {
+      "complement_mask": 2924,
+      "complement_edges": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        43,
+        83,
+        99,
+        135,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_65",
+        "permutation": [
+          2,
+          3,
+          4,
+          0,
+          1,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        6,
+        7,
+        3,
+        4,
+        8
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 27
+    },
+    {
+      "complement_mask": 2936,
+      "complement_edges": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        39,
+        43,
+        83,
+        99,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_65",
+        "permutation": [
+          2,
+          3,
+          4,
+          0,
+          1,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        5,
+        6,
+        7,
+        3,
+        4,
+        8
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 27
+    },
+    {
+      "complement_mask": 3896,
+      "complement_edges": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        27,
+        39,
+        43,
+        83,
+        99,
+        147,
+        163,
+        195,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 210,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_68",
+        "permutation": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 27
+    },
+    {
+      "complement_mask": 6549,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "generator_masks": [
+        23,
+        27,
+        71,
+        99,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_63",
+        "permutation": [
+          0,
+          4,
+          5,
+          2,
+          3,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        3,
+        7,
+        8,
+        5,
+        6,
+        4
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 6577,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "generator_masks": [
+        23,
+        27,
+        39,
+        71,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_63",
+        "permutation": [
+          0,
+          4,
+          5,
+          2,
+          3,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        3,
+        7,
+        8,
+        5,
+        6,
+        4
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 6612,
+      "complement_edges": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        71,
+        99,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 1,
+        "certificate": "atlas_66",
+        "permutation": [
+          3,
+          2,
+          1,
+          0,
+          5,
+          4
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        5,
+        4,
+        2,
+        8,
+        7
+      ],
+      "integer_weights": [
+        5,
+        5,
+        3,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 6640,
+      "complement_edges": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        39,
+        71,
+        99,
+        139,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 630,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 1,
+        "certificate": "atlas_70",
+        "permutation": [
+          0,
+          2,
+          4,
+          1,
+          5,
+          3
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        2,
+        5,
+        7,
+        4,
+        8,
+        6
+      ],
+      "integer_weights": [
+        5,
+        5,
+        3,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 6809,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "generator_masks": [
+        23,
+        27,
+        39,
+        75,
+        99,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_66",
+        "permutation": [
+          3,
+          2,
+          1,
+          0,
+          5,
+          4
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        5,
+        4,
+        3,
+        8,
+        7
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 6812,
+      "complement_edges": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        27,
+        75,
+        99,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_66",
+        "permutation": [
+          3,
+          2,
+          1,
+          0,
+          5,
+          4
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        5,
+        4,
+        3,
+        8,
+        7
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 6821,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "generator_masks": [
+        23,
+        27,
+        71,
+        75,
+        99,
+        135,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_66",
+        "permutation": [
+          3,
+          2,
+          1,
+          0,
+          5,
+          4
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        5,
+        4,
+        3,
+        8,
+        7
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 6825,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "generator_masks": [
+        23,
+        27,
+        39,
+        75,
+        99,
+        135,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_66",
+        "permutation": [
+          3,
+          2,
+          1,
+          0,
+          5,
+          4
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        5,
+        4,
+        3,
+        8,
+        7
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 6826,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        27,
+        39,
+        75,
+        99,
+        135,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 5040,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_66",
+        "permutation": [
+          3,
+          2,
+          1,
+          0,
+          5,
+          4
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        5,
+        4,
+        3,
+        8,
+        7
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 6828,
+      "complement_edges": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        27,
+        75,
+        99,
+        135,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 5040,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_66",
+        "permutation": [
+          3,
+          2,
+          1,
+          0,
+          5,
+          4
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        5,
+        4,
+        3,
+        8,
+        7
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 6840,
+      "complement_edges": [
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        27,
+        39,
+        75,
+        99,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_66",
+        "permutation": [
+          3,
+          2,
+          1,
+          0,
+          5,
+          4
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        5,
+        4,
+        3,
+        8,
+        7
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 7088,
+      "complement_edges": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        27,
+        39,
+        71,
+        99,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 1,
+        "certificate": "atlas_70",
+        "permutation": [
+          0,
+          2,
+          4,
+          1,
+          5,
+          3
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        2,
+        5,
+        7,
+        4,
+        8,
+        6
+      ],
+      "integer_weights": [
+        5,
+        5,
+        3,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 39376,
+      "complement_edges": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        39,
+        71,
+        139,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 105,
+      "witness": {
+        "kind": "nine_point",
+        "certificate": "atlas_299",
+        "permutation": [
+          4,
+          3,
+          6,
+          2,
+          1,
+          5,
+          0
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        5,
+        8,
+        4,
+        3,
+        7,
+        2
+      ],
+      "integer_weights": [
+        6,
+        6,
+        4,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4
+      ],
+      "weight_sum": 36
+    },
+    {
+      "complement_mask": 39443,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "generator_masks": [
+        27,
+        39,
+        43,
+        71,
+        75,
+        147,
+        163,
+        195,
+        263,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 630,
+      "witness": {
+        "kind": "nine_point",
+        "certificate": "atlas_313",
+        "permutation": [
+          6,
+          2,
+          0,
+          4,
+          3,
+          5,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        8,
+        4,
+        2,
+        6,
+        5,
+        7,
+        3
+      ],
+      "integer_weights": [
+        5,
+        5,
+        2,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 29
+    },
+    {
+      "complement_mask": 39459,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "generator_masks": [
+        27,
+        39,
+        43,
+        71,
+        75,
+        135,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 2,
+        "certificate": "atlas_69",
+        "permutation": [
+          4,
+          2,
+          3,
+          5,
+          0,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        7,
+        5,
+        6,
+        8,
+        2,
+        3
+      ],
+      "integer_weights": [
+        5,
+        5,
+        3,
+        3,
+        0,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 39462,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        27,
+        43,
+        71,
+        75,
+        135,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 2,
+        "certificate": "atlas_69",
+        "permutation": [
+          3,
+          1,
+          4,
+          5,
+          0,
+          2
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        3,
+        7,
+        8,
+        2,
+        5
+      ],
+      "integer_weights": [
+        5,
+        5,
+        3,
+        3,
+        0,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 39473,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "generator_masks": [
+        23,
+        27,
+        39,
+        43,
+        71,
+        75,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 420,
+      "witness": {
+        "kind": "nine_point",
+        "certificate": "atlas_352",
+        "permutation": [
+          4,
+          6,
+          0,
+          3,
+          2,
+          5,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        8,
+        2,
+        5,
+        4,
+        7,
+        3
+      ],
+      "integer_weights": [
+        5,
+        5,
+        3,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3
+      ],
+      "weight_sum": 29
+    },
+    {
+      "complement_mask": 39522,
+      "complement_edges": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        39,
+        43,
+        71,
+        75,
+        135,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 2,
+        "certificate": "atlas_61",
+        "permutation": [
+          0,
+          1,
+          4,
+          5,
+          2,
+          3
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        8,
+        5,
+        6
+      ],
+      "integer_weights": [
+        3,
+        3,
+        2,
+        2,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      "weight_sum": 18
+    },
+    {
+      "complement_mask": 39524,
+      "complement_edges": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        43,
+        71,
+        75,
+        135,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 2,
+        "certificate": "atlas_69",
+        "permutation": [
+          3,
+          1,
+          4,
+          5,
+          0,
+          2
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        6,
+        3,
+        7,
+        8,
+        2,
+        5
+      ],
+      "integer_weights": [
+        5,
+        5,
+        3,
+        3,
+        0,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 39536,
+      "complement_edges": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        39,
+        43,
+        71,
+        75,
+        147,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 2,
+        "certificate": "atlas_69",
+        "permutation": [
+          1,
+          2,
+          3,
+          5,
+          0,
+          4
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        3,
+        5,
+        6,
+        8,
+        2,
+        7
+      ],
+      "integer_weights": [
+        5,
+        5,
+        3,
+        3,
+        0,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 40496,
+      "complement_edges": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        27,
+        39,
+        43,
+        71,
+        75,
+        147,
+        163,
+        195,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 105,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 2,
+        "certificate": "atlas_85",
+        "permutation": [
+          0,
+          2,
+          3,
+          4,
+          5,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        2,
+        5,
+        6,
+        7,
+        8,
+        3
+      ],
+      "integer_weights": [
+        5,
+        5,
+        3,
+        3,
+        0,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 41952,
+      "complement_edges": [
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        39,
+        51,
+        71,
+        83,
+        135,
+        163,
+        195,
+        267,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 315,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 1,
+        "certificate": "atlas_61",
+        "permutation": [
+          0,
+          1,
+          4,
+          5,
+          2,
+          3
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        2,
+        4,
+        7,
+        8,
+        5,
+        6
+      ],
+      "integer_weights": [
+        3,
+        3,
+        2,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "weight_sum": 18
+    },
+    {
+      "complement_mask": 42097,
+      "complement_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "generator_masks": [
+        23,
+        39,
+        43,
+        51,
+        71,
+        75,
+        83,
+        139,
+        163,
+        195,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 1260,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_69",
+        "permutation": [
+          4,
+          2,
+          3,
+          5,
+          0,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        7,
+        5,
+        6,
+        8,
+        3,
+        4
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 42100,
+      "complement_edges": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        43,
+        51,
+        71,
+        75,
+        83,
+        139,
+        163,
+        195,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 2520,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "atlas_69",
+        "permutation": [
+          4,
+          2,
+          3,
+          5,
+          0,
+          1
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        7,
+        5,
+        6,
+        8,
+        3,
+        4
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    },
+    {
+      "complement_mask": 44336,
+      "complement_edges": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "generator_masks": [
+        15,
+        23,
+        27,
+        39,
+        43,
+        71,
+        83,
+        139,
+        163,
+        195,
+        275,
+        291,
+        323,
+        387
+      ],
+      "orbit_size": 360,
+      "witness": {
+        "kind": "eight_point",
+        "deleted_residual_vertex": 0,
+        "certificate": "complement_path6",
+        "permutation": [
+          4,
+          1,
+          2,
+          3,
+          0,
+          5
+        ]
+      },
+      "certificate_element_map": [
+        0,
+        1,
+        7,
+        4,
+        5,
+        6,
+        3,
+        8
+      ],
+      "integer_weights": [
+        5,
+        5,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "weight_sum": 28
+    }
+  ],
+  "orbit_counts_by_certificate": {
+    "atlas_57": 7,
+    "atlas_58": 5,
+    "atlas_59": 9,
+    "atlas_63": 3,
+    "atlas_66": 9,
+    "atlas_60": 8,
+    "atlas_65": 7,
+    "atlas_68": 2,
+    "atlas_70": 2,
+    "atlas_299": 1,
+    "atlas_313": 1,
+    "atlas_69": 6,
+    "atlas_352": 1,
+    "atlas_61": 2,
+    "atlas_85": 1,
+    "complement_path6": 1
+  },
+  "labeled_counts_by_certificate": {
+    "atlas_57": 4725,
+    "atlas_58": 4200,
+    "atlas_59": 20790,
+    "atlas_63": 4410,
+    "atlas_66": 25200,
+    "atlas_60": 18900,
+    "atlas_65": 17640,
+    "atlas_68": 1470,
+    "atlas_70": 3150,
+    "atlas_299": 105,
+    "atlas_313": 630,
+    "atlas_69": 12600,
+    "atlas_352": 420,
+    "atlas_61": 1575,
+    "atlas_85": 105,
+    "complement_path6": 360
+  }
+}

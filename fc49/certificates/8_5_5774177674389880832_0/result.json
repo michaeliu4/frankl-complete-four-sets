@@ -1,0 +1,1 @@
+{"n": 8, "key": "5774177674389880832_0", "A": [113, 170, 180, 204, 210], "status": "FC", "w": [457, 828, 828, 803, 1061, 1069, 1069, 1242], "replay": "status 0 nodes 25461 leaves 12731 conflicts 0 depth 38 seconds 2.10325\n", "search": "status 0 nodes 25461 leaves 12731 conflicts 0 depth 38 seconds 1.02617\n\nweighted automorphisms 2\n", "recovered_completed_tree": true}

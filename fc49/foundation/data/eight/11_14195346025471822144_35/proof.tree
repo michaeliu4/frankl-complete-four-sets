@@ -1,0 +1,823 @@
+O 7
+O 25
+O 74
+O 100
+O 140
+O 162
+O 49
+L
+O 17
+L
+L
+O 49
+L
+O 50
+L
+O 48
+L
+L
+O 162
+O 49
+O 132
+L
+L
+O 132
+L
+L
+O 160
+L
+O 168
+L
+O 81
+L
+L
+O 164
+O 50
+O 68
+L
+L
+O 146
+O 96
+L
+L
+O 18
+L
+O 96
+L
+L
+O 160
+L
+O 162
+O 140
+L
+O 132
+L
+L
+O 36
+L
+O 37
+L
+O 33
+L
+L
+O 100
+O 130
+L
+O 162
+O 140
+L
+O 136
+L
+L
+O 140
+O 66
+L
+L
+O 82
+O 72
+L
+L
+O 66
+L
+O 72
+L
+L
+O 76
+O 98
+O 160
+L
+L
+O 162
+O 96
+L
+L
+O 160
+L
+O 96
+L
+L
+O 98
+O 132
+L
+O 68
+L
+L
+O 96
+L
+O 194
+O 26
+O 37
+O 196
+L
+L
+L
+L
+O 26
+O 37
+O 196
+L
+O 192
+L
+L
+O 196
+L
+O 192
+L
+L
+O 37
+O 196
+L
+O 192
+L
+L
+O 196
+L
+L
+O 24
+O 66
+L
+L
+O 26
+O 49
+O 76
+O 98
+L
+L
+O 100
+L
+O 194
+L
+L
+O 17
+L
+O 100
+O 145
+L
+O 81
+L
+O 140
+L
+O 168
+L
+L
+O 81
+O 140
+L
+O 168
+L
+L
+O 76
+L
+O 98
+L
+L
+O 49
+O 74
+O 140
+O 100
+L
+L
+O 100
+O 136
+L
+L
+O 136
+L
+O 164
+L
+O 13
+L
+L
+O 10
+L
+O 76
+O 136
+L
+L
+O 72
+L
+O 8
+L
+L
+O 17
+L
+O 74
+O 145
+O 100
+L
+O 164
+L
+O 168
+L
+L
+O 100
+O 140
+L
+O 136
+L
+O 81
+L
+L
+O 164
+O 81
+L
+O 18
+L
+L
+O 81
+O 140
+L
+O 136
+L
+L
+O 140
+L
+O 136
+L
+O 168
+L
+O 160
+L
+L
+O 10
+L
+O 81
+O 140
+L
+O 136
+L
+O 164
+L
+O 12
+L
+L
+O 76
+O 98
+L
+O 164
+L
+O 162
+L
+L
+O 72
+L
+O 12
+L
+O 8
+L
+L
+O 13
+O 26
+O 49
+O 70
+O 104
+O 131
+L
+L
+O 131
+L
+O 168
+L
+L
+O 6
+L
+O 66
+L
+O 194
+L
+L
+O 70
+O 145
+O 104
+O 162
+L
+L
+O 96
+L
+O 168
+L
+L
+O 17
+L
+O 81
+O 168
+L
+O 160
+L
+L
+O 104
+O 131
+L
+L
+O 131
+L
+O 168
+L
+O 160
+L
+L
+O 6
+L
+O 81
+O 162
+L
+O 130
+L
+O 164
+L
+L
+O 17
+L
+O 98
+L
+O 66
+L
+L
+O 18
+O 72
+L
+L
+O 19
+O 100
+O 74
+O 168
+L
+O 134
+L
+L
+O 138
+O 49
+L
+L
+O 10
+L
+O 130
+L
+L
+O 74
+O 36
+L
+O 160
+L
+L
+O 10
+L
+O 36
+L
+O 104
+L
+L
+O 49
+O 74
+O 134
+L
+O 130
+L
+O 6
+L
+L
+O 10
+L
+O 66
+L
+O 70
+L
+O 2
+L
+L
+O 17
+L
+O 74
+O 145
+O 100
+L
+O 164
+L
+L
+O 100
+O 131
+L
+O 3
+L
+L
+O 164
+O 81
+L
+O 3
+L
+L
+O 81
+O 131
+L
+L
+O 3
+L
+O 131
+L
+O 130
+L
+L
+O 10
+L
+O 66
+L
+O 3
+L
+O 81
+L
+O 70
+L
+L
+O 19
+O 12
+O 66
+L
+L
+O 5
+L
+O 37
+O 74
+O 134
+L
+O 132
+L
+O 136
+L
+L
+O 72
+L
+O 14
+L
+O 10
+L
+O 104
+L
+L
+O 74
+O 132
+L
+O 134
+O 168
+L
+O 100
+L
+L
+O 164
+O 138
+L
+L
+O 133
+L
+O 4
+L
+O 68
+L
+L
+O 70
+O 136
+L
+O 168
+L
+O 104
+L
+O 72
+L
+O 133
+L
+L
+O 68
+L
+O 6
+L
+O 14
+L
+O 10
+L
+O 100
+L
+L
+O 21
+O 26
+O 104
+O 70
+O 131
+L
+O 3
+L
+L
+O 134
+O 67
+L
+O 3
+L
+L
+O 6
+L
+O 3
+L
+O 67
+L
+L
+O 70
+O 40
+L
+O 131
+L
+O 3
+L
+L
+O 6
+L
+O 3
+L
+O 40
+L
+O 67
+L
+L
+O 10
+L
+O 70
+O 104
+O 131
+L
+O 3
+L
+O 130
+L
+L
+O 168
+O 131
+L
+O 3
+L
+O 130
+L
+L
+O 136
+L
+O 131
+O 40
+L
+L
+O 3
+L
+O 40
+L
+O 130
+L
+L
+O 66
+L
+O 3
+L
+O 6
+L
+O 104
+O 14
+L
+L
+O 14
+L
+O 2
+L
+O 18
+L
+L
+O 5
+L
+O 17
+L
+O 25
+O 6
+L
+O 37
+O 74
+L
+O 66
+L
+L
+O 74
+O 140
+L
+O 132
+L
+O 164
+L
+O 131
+L
+L
+O 66
+L
+O 14
+L
+O 10
+L
+O 3
+L
+L
+O 26
+O 37
+O 81
+O 134
+L
+O 140
+L
+O 132
+L
+L
+O 70
+O 104
+L
+O 168
+L
+L
+O 104
+O 6
+L
+L
+O 3
+L
+L
+O 49
+O 70
+O 140
+L
+L
+O 6
+L
+O 76
+L
+O 68
+L
+L
+O 3
+L
+O 70
+O 145
+L
+O 1
+L
+L
+O 6
+L
+O 81
+L
+O 1
+L
+O 9
+L
+L
+O 37
+O 74
+O 145
+O 134
+L
+O 140
+L
+O 6
+L
+L
+O 3
+L
+O 131
+O 24
+L
+L
+O 168
+O 134
+L
+O 1
+L
+L
+O 134
+O 9
+L
+L
+O 130
+L
+O 160
+L
+L
+O 10
+L
+O 18
+L
+O 24
+L
+O 81
+O 162
+L
+L
+O 3
+L
+O 66
+L
+L
+O 49
+O 74
+O 134
+O 168
+L
+O 3
+L
+L
+O 140
+O 3
+L
+L
+O 132
+L
+O 164
+L
+O 3
+L
+O 100
+L
+L
+O 10
+L
+O 70
+O 140
+L
+O 104
+L
+O 168
+L
+O 136
+L
+L
+O 6
+L
+O 76
+L
+O 12
+L
+O 66
+L
+L
+O 74
+O 145
+O 134
+O 168
+L
+L
+O 6
+L
+O 164
+L
+O 100
+L
+O 36
+L
+L
+O 3
+L
+O 164
+O 1
+L
+O 9
+L
+O 33
+L
+L
+O 1
+L
+O 9
+L
+O 33
+L
+O 131
+L
+O 100
+L
+L
+O 10
+L
+O 3
+L
+O 33
+L
+O 81
+O 164
+L
+O 70
+L
+O 6
+L
+L
+O 70
+O 9
+L
+O 1
+L
+L
+O 6
+L
+O 104
+O 130
+L
+L
+O 66
+L
+L

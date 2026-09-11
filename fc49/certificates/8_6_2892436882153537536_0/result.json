@@ -1,0 +1,1 @@
+{"n": 8, "key": "2892436882153537536_0", "A": [114, 120, 172, 180, 202, 209], "status": "FC", "w": [1, 3, 3, 4, 5, 5, 5, 5], "iterations": 3, "seconds": 9.13784930700001, "search": "status 0 nodes 53753 leaves 26877 conflicts 0 depth 41 seconds 2.29898\n", "replay": "status 0 nodes 53753 leaves 26877 conflicts 0 depth 41 seconds 6.3211\n"}

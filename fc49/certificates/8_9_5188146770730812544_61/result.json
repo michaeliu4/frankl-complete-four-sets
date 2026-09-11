@@ -1,0 +1,26 @@
+{
+  "n": 8,
+  "A": [
+    45,
+    53,
+    202,
+    210,
+    216,
+    226,
+    228,
+    232,
+    240
+  ],
+  "w": [
+    3,
+    3,
+    4,
+    5,
+    5,
+    6,
+    6,
+    6
+  ],
+  "status": "FC",
+  "provenance": "reconstructed from certificate index; tree generated afresh"
+}
