@@ -2,7 +2,7 @@
 
 **Mingchang Liu** · [mliu416@gatech.edu](mailto:mliu416@gatech.edu)
 
-Code and exact certificates accompanying manuscript **v1**. Repository release: **v1**.
+Code and exact certificates accompanying manuscript **v1.1**. Repository release: **v1.1**.
 
 This repository supplies the computational material for the finite results in
 Sections 5 and 6 of the manuscript. The main verification establishes
@@ -52,6 +52,11 @@ A successful complete run prints `PASS: FC(4,9)=16.` followed by a summary.
 Both `fc49/verify.py` and `fc49/foundation/verify.py` list their options with
 `--help`; the number of workers may be adjusted.
 
+A complete reference replay of these algorithms and certificates on macOS
+arm64 (Darwin 24.6.0), using Python 3.14.2, Apple clang 16.0.0 and four
+workers, took about 25 minutes including compilation. This is an observed
+runtime, not a bound; peak memory was not measured.
+
 ## Check individual results
 
 These commands run the smaller components separately:
@@ -92,7 +97,24 @@ Verification generates the following files, which are excluded by `.gitignore`:
 - `common_pair/verify_positive`: the common-pair executable;
 - `finite_bounds/morris_exact.regenerated.json`: reconstructed certificate data.
 
+The common-pair manifest retains `atlas_64` as an additional certified
+configuration. It is replayed with the other trees but is not used by the
+selected 65-orbit covering witnesses; the stated 18-tree total includes it.
+
+Verification reports contain execution timings and are not expected to have
+identical hashes across runs. A successful reproduction completes with
+`PASS` and satisfies the driver's exact certificate, generation, coverage,
+and final-enumeration assertions. The fixed archive on the release page
+identifies the distributed files; a runtime-report hash is not a proof check.
+
 The lexicographic checker compiles in a temporary directory. No previously
 compiled executable or saved run report is needed. The manuscript explains the
 certificate inequalities and the completeness argument connecting these finite
 checks to the theorem.
+
+## Citation and license
+
+Cite the accompanying manuscript and the versioned companion release when
+using these results or materials. `CITATION.cff` supplies the repository's
+citation metadata. The code, certificate data and documentation in this
+repository are distributed under the [MIT License](LICENSE).

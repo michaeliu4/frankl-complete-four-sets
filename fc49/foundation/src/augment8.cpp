@@ -1,11 +1,141 @@
 #include <bits/stdc++.h>
-using namespace std;using U=uint64_t;struct Key{U lo,hi;bool operator==(Key const&o)const{return lo==o.lo&&hi==o.hi;}bool operator<(Key const&o)const{return hi<o.hi||(hi==o.hi&&lo<o.lo);}};struct Hash{size_t operator()(Key const&k)const{return k.lo^(k.hi*0x9e3779b97f4a7c15ULL);}};
-vector<int>E8,E7,T;int ix8[256],ix7[128];unordered_set<U>allowed;unordered_set<Key,Hash>answer;
-Key canonical(vector<int>const&A){int deg[8]={};for(int a:A)for(int i=0;i<8;i++)deg[i]+=a>>i&1;vector<pair<int,int>>v;for(int i=0;i<8;i++)v.push_back({deg[i],i});sort(v.begin(),v.end());vector<vector<int>>gr;vector<int>st;for(int i=0;i<8;){int j=i;vector<int>g;while(j<8&&v[j].first==v[i].first)g.push_back(v[j++].second);sort(g.begin(),g.end());gr.push_back(g);st.push_back(i);i=j;}int p[8];Key best{~U(0),~U(0)};function<void(int)>go=[&](int k){if(k<(int)gr.size()){auto g=gr[k];do{for(int j=0;j<(int)g.size();j++)p[g[j]]=st[k]+j;go(k+1);}while(next_permutation(g.begin(),g.end()));return;}Key f{0,0};for(int a:A){int b=0;for(int i=0;i<8;i++)if(a>>i&1)b|=1<<p[i];int idx=ix8[b];if(idx<64)f.lo|=U(1)<<idx;else f.hi|=U(1)<<(idx-64);}if(f<best)best=f;};go(0);return best;}
+using namespace std;
+using U = uint64_t;
+struct Key {
+    U lo, hi;
+    bool operator==(Key const &o) const {
+        return lo == o.lo && hi == o.hi;
+    }
+    bool operator<(Key const &o) const {
+        return hi < o.hi || (hi == o.hi && lo < o.lo);
+    }
+};
+struct Hash {
+    size_t operator()(Key const &k) const {
+        return k.lo ^ (k.hi * 0x9e3779b97f4a7c15ULL);
+    }
+};
+vector<int> E8, E7, T;
+int ix8[256], ix7[128];
+unordered_set<U> allowed;
+unordered_set<Key, Hash> answer;
+// Sort degree classes and exhaust their internal permutations; this keeps
+// every relabelling consistent with degrees, including degree-zero vertices.
+Key canonical(vector<int> const &A) {
+    int deg[8] = {};
+    for (int a : A)
+        for (int i = 0; i < 8; i++)
+            deg[i] += a >> i & 1;
+    vector<pair<int, int>> v;
+    for (int i = 0; i < 8; i++)
+        v.push_back({deg[i], i});
+    sort(v.begin(), v.end());
+    vector<vector<int>> gr;
+    vector<int> st;
+    for (int i = 0; i < 8;) {
+        int j = i;
+        vector<int> g;
+        while (j < 8 && v[j].first == v[i].first)
+            g.push_back(v[j++].second);
+        sort(g.begin(), g.end());
+        gr.push_back(g);
+        st.push_back(i);
+        i = j;
+    }
+    int p[8];
+    Key best{~U(0), ~U(0)};
+    function<void(int)> go = [&](int k) {
+        if (k < (int)gr.size()) {
+            auto g = gr[k];
+            do {
+                for (int j = 0; j < (int)g.size(); j++)
+                    p[g[j]] = st[k] + j;
+                go(k + 1);
+            } while (next_permutation(g.begin(), g.end()));
+            return;
+        }
+        Key f{0, 0};
+        for (int a : A) {
+            int b = 0;
+            for (int i = 0; i < 8; i++)
+                if (a >> i & 1)
+                    b |= 1 << p[i];
+            int idx = ix8[b];
+            if (idx < 64)
+                f.lo |= U(1) << idx;
+            else
+                f.hi |= U(1) << (idx - 64);
+        }
+        if (f < best)
+            best = f;
+    };
+    go(0);
+    return best;
+}
 
-int main(int argc,char**argv){for(int a=0;a<256;a++)if(__builtin_popcount((unsigned)a)==4){ix8[a]=E8.size();E8.push_back(a);}if(argc>1&&string(argv[1])=="canon"){int m;while(cin>>m){vector<int>A(m);for(int&a:A)cin>>a;auto k=canonical(A);cout<<k.lo<<" "<<k.hi<<"\n";}return 0;}
- vector<vector<int>>parents;unordered_set<Key,Hash>prev;int m;while(cin>>m){vector<int>A(m);for(int&a:A)cin>>a;parents.push_back(A);prev.insert(canonical(A));}map<Key,vector<int>>candidates;long long raw=0;
- for(auto A:parents)for(int a:E8)if(find(A.begin(),A.end(),a)==A.end()){raw++;A.push_back(a);candidates.emplace(canonical(A),A);A.pop_back();}
- int pruned=0,survivors=0;for(auto const&[key,A]:candidates){bool all=true;for(int a:A){vector<int>B;for(int b:A)if(b!=a)B.push_back(b);if(!prev.count(canonical(B))){all=false;break;}}if(!all){pruned++;continue;}survivors++;cout<<key.lo<<" "<<key.hi;for(int i=0;i<70;i++)if(i<64?(key.lo>>i&1):(key.hi>>(i-64)&1))cout<<" "<<E8[i];cout<<"\n";}
- cerr<<"parents "<<parents.size()<<" augmentations "<<raw<<" orbits "<<candidates.size()<<" pruned "<<pruned<<" survivors "<<survivors<<"\n";
+int main(int argc, char **argv) {
+    for (int a = 0; a < 256; a++)
+        if (__builtin_popcount((unsigned)a) == 4) {
+            ix8[a] = E8.size();
+            E8.push_back(a);
+        }
+    if (argc > 1 && string(argv[1]) == "canon") {
+        int m;
+        while (cin >> m) {
+            vector<int> A(m);
+            for (int &a : A)
+                cin >> a;
+            auto k = canonical(A);
+            cout << k.lo << " " << k.hi << "\n";
+        }
+        return 0;
+    }
+    // A non-FC extension must arise from a supplied non-FC parent and have only
+    // non-FC one-block deletions. Canonicalization removes duplicates, not cases.
+    vector<vector<int>> parents;
+    unordered_set<Key, Hash> prev;
+    int m;
+    while (cin >> m) {
+        vector<int> A(m);
+        for (int &a : A)
+            cin >> a;
+        parents.push_back(A);
+        prev.insert(canonical(A));
+    }
+    map<Key, vector<int>> candidates;
+    long long raw = 0;
+    for (auto A : parents)
+        for (int a : E8)
+            if (find(A.begin(), A.end(), a) == A.end()) {
+                raw++;
+                A.push_back(a);
+                candidates.emplace(canonical(A), A);
+                A.pop_back();
+            }
+    int pruned = 0, survivors = 0;
+    for (auto const &[key, A] : candidates) {
+        bool all = true;
+        for (int a : A) {
+            vector<int> B;
+            for (int b : A)
+                if (b != a)
+                    B.push_back(b);
+            if (!prev.count(canonical(B))) {
+                all = false;
+                break;
+            }
+        }
+        if (!all) {
+            pruned++;
+            continue;
+        }
+        survivors++;
+        cout << key.lo << " " << key.hi;
+        for (int i = 0; i < 70; i++)
+            if (i < 64 ? (key.lo >> i & 1) : (key.hi >> (i - 64) & 1))
+                cout << " " << E8[i];
+        cout << "\n";
+    }
+    cerr << "parents " << parents.size() << " augmentations " << raw << " orbits "
+         << candidates.size() << " pruned " << pruned << " survivors " << survivors << "\n";
 }

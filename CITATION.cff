@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and this version of the code and certificates."
+type: software
+title: "Frankl-complete sunflowers and extremal families of four-sets: code and certificates"
+authors:
+  - family-names: Liu
+    given-names: Mingchang
+    email: mliu416@gatech.edu
+version: "1.1"
+date-released: 2026-09-11
+url: "https://github.com/michaeliu4/frankl-complete-four-sets/releases/tag/v1.1"
+repository-code: "https://github.com/michaeliu4/frankl-complete-four-sets"
+license: MIT
+keywords:
+  - Union-closed families
+  - Frankl-completeness
+  - Extremal set theory
+  - Exact certificates
+abstract: >-
+  Code and exact certificates for FC(4,9) = 16, a lexicographic
+  counterexample, the common-pair classification on nine points,
+  and additional finite lower bounds. The README gives requirements,
+  verification commands, expected outputs and the correspondence
+  with manuscript version v1.1.
