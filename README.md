@@ -2,7 +2,10 @@
 
 **Mingchang Liu** · [mliu416@gatech.edu](mailto:mliu416@gatech.edu)
 
-Code and exact certificates accompanying manuscript **v1.1**. Repository release: **v1.1**.
+Code and exact certificates accompanying manuscript **V1**. Repository release: **V1**.
+
+[Download V1](https://github.com/michaeliu4/frankl-complete-four-sets/releases/download/V1/frankl-complete-four-sets-V1.zip)
+or obtain the source from the [V1 release](https://github.com/michaeliu4/frankl-complete-four-sets/releases/tag/V1).
 
 This repository supplies the computational material for the finite results in
 Sections 5 and 6 of the manuscript. The main verification establishes

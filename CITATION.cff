@@ -6,9 +6,9 @@ authors:
   - family-names: Liu
     given-names: Mingchang
     email: mliu416@gatech.edu
-version: "1.1"
+version: "V1"
 date-released: 2026-09-11
-url: "https://github.com/michaeliu4/frankl-complete-four-sets/releases/tag/v1.1"
+url: "https://github.com/michaeliu4/frankl-complete-four-sets/releases/tag/V1"
 repository-code: "https://github.com/michaeliu4/frankl-complete-four-sets"
 license: MIT
 keywords:
@@ -21,4 +21,4 @@ abstract: >-
   counterexample, the common-pair classification on nine points,
   and additional finite lower bounds. The README gives requirements,
   verification commands, expected outputs and the correspondence
-  with manuscript version v1.1.
+  with manuscript version V1.
