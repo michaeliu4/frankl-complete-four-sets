@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "package": "frankl-complete-four-sets",
+  "source_repository": "Agentic-Systems-LLC/proof-centered-math-lab",
+  "private_source_commit": "b3da9c75451546c72845b58d74308222adb5f9ae",
+  "formal_tree": "2a60ed35e740dcc2e00b9f503690425d5a120157",
+  "proof_sources": [
+    {
+      "source_path": "formal/Results/FcMorrisV2/Defs.lean",
+      "source_git_blob_sha": "2631f97283dc0ed2f8c8c6764b1aeefe70151602",
+      "public_path": "lean/Results/FcMorrisV2/Defs.lean",
+      "public_git_blob_sha": "2631f97283dc0ed2f8c8c6764b1aeefe70151602"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/Basic.lean",
+      "source_git_blob_sha": "98809959b166d2c377571e820cfc243380867fd8",
+      "public_path": "lean/Results/FcMorrisV2/Solution/Basic.lean",
+      "public_git_blob_sha": "98809959b166d2c377571e820cfc243380867fd8"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/Chain.lean",
+      "source_git_blob_sha": "487f748535cb081a163c61ecbcad234c6993988a",
+      "public_path": "lean/Results/FcMorrisV2/Solution/Chain.lean",
+      "public_git_blob_sha": "487f748535cb081a163c61ecbcad234c6993988a"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/Elementary.lean",
+      "source_git_blob_sha": "33101176edac12b0d68203e4c2bf6de67cfe951a",
+      "public_path": "lean/Results/FcMorrisV2/Solution/Elementary.lean",
+      "public_git_blob_sha": "33101176edac12b0d68203e4c2bf6de67cfe951a"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/EmbedCore.lean",
+      "source_git_blob_sha": "52239b5111c5f3ffab73dbea063c922ed9d9f237",
+      "public_path": "lean/Results/FcMorrisV2/Solution/EmbedCore.lean",
+      "public_git_blob_sha": "52239b5111c5f3ffab73dbea063c922ed9d9f237"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/Embedding.lean",
+      "source_git_blob_sha": "6591e44cf62e624ce79a3c4fd94634e83aa07454",
+      "public_path": "lean/Results/FcMorrisV2/Solution/Embedding.lean",
+      "public_git_blob_sha": "6591e44cf62e624ce79a3c4fd94634e83aa07454"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/Lifting.lean",
+      "source_git_blob_sha": "6cc2f174b78c78299e2cffadf303c78ea9699f02",
+      "public_path": "lean/Results/FcMorrisV2/Solution/Lifting.lean",
+      "public_git_blob_sha": "6cc2f174b78c78299e2cffadf303c78ea9699f02"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/Lower.lean",
+      "source_git_blob_sha": "ef601d00624a364151ca52c5011d5754000442f8",
+      "public_path": "lean/Results/FcMorrisV2/Solution/Lower.lean",
+      "public_git_blob_sha": "ef601d00624a364151ca52c5011d5754000442f8"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/Main.lean",
+      "source_git_blob_sha": "e31fa5a4cb6bb3ba6d1be2a76e9c0cdaec1931ba",
+      "public_path": "lean/Results/FcMorrisV2/Solution/Main.lean",
+      "public_git_blob_sha": "e31fa5a4cb6bb3ba6d1be2a76e9c0cdaec1931ba"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/Morris.lean",
+      "source_git_blob_sha": "ae74268cd4f33ae5839a2d70bf0c65201e8ead29",
+      "public_path": "lean/Results/FcMorrisV2/Solution/Morris.lean",
+      "public_git_blob_sha": "ae74268cd4f33ae5839a2d70bf0c65201e8ead29"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/MorrisCert.lean",
+      "source_git_blob_sha": "f5d8a76187ef48ec9196383d164e15c6b7c049f7",
+      "public_path": "lean/Results/FcMorrisV2/Solution/MorrisCert.lean",
+      "public_git_blob_sha": "f5d8a76187ef48ec9196383d164e15c6b7c049f7"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/MorrisDefs.lean",
+      "source_git_blob_sha": "d4fbb0dc02917d6bf54be6314249db460903a58f",
+      "public_path": "lean/Results/FcMorrisV2/Solution/MorrisDefs.lean",
+      "public_git_blob_sha": "d4fbb0dc02917d6bf54be6314249db460903a58f"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/MorrisRows.lean",
+      "source_git_blob_sha": "9a18e6f0c82b7bdc0ef375ceb0f6b6363c685694",
+      "public_path": "lean/Results/FcMorrisV2/Solution/MorrisRows.lean",
+      "public_git_blob_sha": "9a18e6f0c82b7bdc0ef375ceb0f6b6363c685694"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/PairBoundary.lean",
+      "source_git_blob_sha": "8147d14165c5724358f6fae5e98e7e225276741f",
+      "public_path": "lean/Results/FcMorrisV2/Solution/PairBoundary.lean",
+      "public_git_blob_sha": "8147d14165c5724358f6fae5e98e7e225276741f"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/PairFibres.lean",
+      "source_git_blob_sha": "6ceb9f87aa9ee0911d9a69999cab2f246dfa3011",
+      "public_path": "lean/Results/FcMorrisV2/Solution/PairFibres.lean",
+      "public_git_blob_sha": "6ceb9f87aa9ee0911d9a69999cab2f246dfa3011"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/Product.lean",
+      "source_git_blob_sha": "2c865d049c810176b74d17a31206c9b8c62f4471",
+      "public_path": "lean/Results/FcMorrisV2/Solution/Product.lean",
+      "public_git_blob_sha": "2c865d049c810176b74d17a31206c9b8c62f4471"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/Robust.lean",
+      "source_git_blob_sha": "72304cceddeb67d39b024bb2e0d93934d93e77bc",
+      "public_path": "lean/Results/FcMorrisV2/Solution/Robust.lean",
+      "public_git_blob_sha": "72304cceddeb67d39b024bb2e0d93934d93e77bc"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/SunflowerDefs.lean",
+      "source_git_blob_sha": "7e12df6df5f621209517830cc47da73c439b40a2",
+      "public_path": "lean/Results/FcMorrisV2/Solution/SunflowerDefs.lean",
+      "public_git_blob_sha": "7e12df6df5f621209517830cc47da73c439b40a2"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/SunflowerNeg.lean",
+      "source_git_blob_sha": "91f400625182fbf198591c24fa4ac13ce008537c",
+      "public_path": "lean/Results/FcMorrisV2/Solution/SunflowerNeg.lean",
+      "public_git_blob_sha": "91f400625182fbf198591c24fa4ac13ce008537c"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/SunflowerPos.lean",
+      "source_git_blob_sha": "c55c7352e9114793cbf8cf079999edf1fcb916c8",
+      "public_path": "lean/Results/FcMorrisV2/Solution/SunflowerPos.lean",
+      "public_git_blob_sha": "c55c7352e9114793cbf8cf079999edf1fcb916c8"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/TreeDefs.lean",
+      "source_git_blob_sha": "5eddb003d270bd82a0fb724fc2d69623c30dffae",
+      "public_path": "lean/Results/FcMorrisV2/Solution/TreeDefs.lean",
+      "public_git_blob_sha": "5eddb003d270bd82a0fb724fc2d69623c30dffae"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/Trees.lean",
+      "source_git_blob_sha": "f41bcbb6f240fb64bd53617bd7542b125df371a8",
+      "public_path": "lean/Results/FcMorrisV2/Solution/Trees.lean",
+      "public_git_blob_sha": "f41bcbb6f240fb64bd53617bd7542b125df371a8"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/Triples.lean",
+      "source_git_blob_sha": "707aaee4819f099a199093ca05aded428c467378",
+      "public_path": "lean/Results/FcMorrisV2/Solution/Triples.lean",
+      "public_git_blob_sha": "707aaee4819f099a199093ca05aded428c467378"
+    },
+    {
+      "source_path": "formal/Results/FcMorrisV2/Solution/UpperFour.lean",
+      "source_git_blob_sha": "1d797a0400d979114812d9ffce3f056b2c801835",
+      "public_path": "lean/Results/FcMorrisV2/Solution/UpperFour.lean",
+      "public_git_blob_sha": "1d797a0400d979114812d9ffce3f056b2c801835"
+    }
+  ],
+  "build_pins": [
+    {
+      "source_path": "formal/lake-manifest.json",
+      "source_git_blob_sha": "5f5394da5d3cfe4c3ddc5bcb4db6b72756906e4f",
+      "public_path": "lake-manifest.json",
+      "public_git_blob_sha": "5f5394da5d3cfe4c3ddc5bcb4db6b72756906e4f"
+    },
+    {
+      "source_path": "formal/lean-toolchain",
+      "source_git_blob_sha": "2b61957be5f4986fcc464cb4f62322f2d6ca3dfc",
+      "public_path": "lean-toolchain",
+      "public_git_blob_sha": "2b61957be5f4986fcc464cb4f62322f2d6ca3dfc"
+    }
+  ]
+}

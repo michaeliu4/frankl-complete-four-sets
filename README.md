@@ -119,5 +119,12 @@ checks to the theorem.
 
 Cite the accompanying manuscript and the versioned companion release when
 using these results or materials. `CITATION.cff` supplies the repository's
-citation metadata. The code, certificate data and documentation in this
-repository are distributed under the [MIT License](LICENSE).
+citation metadata. The original code, certificate data and documentation are distributed under
+the [MIT License](LICENSE). The later Lean additions have a separate license
+scope, stated below and in [NOTICE.md](NOTICE.md).
+
+## Conditional Lean development
+
+A standalone Lean development is described in [lean/README.md](lean/README.md). Its recorded status is **exploratory**, with coverage **full_assuming**. `FurediSemilattice` and `ChungFranklNine` are explicit external assumptions. The Lean README identifies which theorems use them and gives the reproduction commands and source provenance.
+
+The Lean additions are excluded from the repository's existing MIT grant. This update makes no new license grant. See [NOTICE.md](NOTICE.md).

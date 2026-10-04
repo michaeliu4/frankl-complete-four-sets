@@ -11,3 +11,6 @@
 # Python bytecode caches
 __pycache__/
 *.py[cod]
+
+# Lean build cache
+/.lake/
